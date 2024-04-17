@@ -1,0 +1,1500 @@
+Job description for Android Developer
+
+RoadMap Link- https://roadmap.sh/android
+
+-----------------------------------------------------------------------------------
+JD-1
+
+Source - linkedin
+
+About the Role:
+• Min Relevant exp: 2 years
+• Strong knowledge of Kotlin/Java Android SDK and Jetpack
+• Library(ViewModel, LIveData, Workmanager, Room, Navigation, etc)
+• Android UI design principles, patterns, and best practices
+• Experience with offline storage, threading (RxJava and Coroutines)
+• Good knowledge of the open-source Android ecosystem and the libraries available for common tasks.
+• Proficient in Google’s Android design principles, interface guidelines and code versioning tools, such as Git.
+• Experience is Jetpack Compose and its companion libraries is preferable.
+• Understanding of basic App architectures (ie MVP/MVVM)
+
+-----------------------------------------------------------------------------------
+JD-2
+
+Source - linkedin
+
+About the Role:
+• Extensive experience with native Android app development (Java & Kotlin)
+• Passionate about writing quality code and high attention to detail
+• Skilled at breaking down complex problems into manageable tasks and simple solutions
+
+-----------------------------------------------------------------------------------
+JD-3
+
+Source - linkedin
+
+About the Role:
+• Minimum 4 years of Android development experience using Kotlin.
+• Proven working experience in Android app development and have published at least three original Android apps
+• Experience working with remote data via REST and JSON
+• Experience with third-party libraries and APIs
+• Working knowledge of the general mobile portrait, architectures, trends, and emerging technologies
+• Strong understanding of the full mobile development life cycle.
+• Working experience using Web Services and API’s built on SOAP or REST and using XML or JSON
+• Exposure to Jetpack Compose is highly desirable
+• Working knowledge on securing data channels using various mechanisms (basic authentication, OAuth 2.0, etc.)
+• Experience with cloud technologies like AWS and GCP APIs will be an added advantage
+
+-----------------------------------------------------------------------------------
+JD-4
+
+Source - Github
+
+About the Role:
+Understanding of mobile technologies and architectures, such as MVP, MVVM, RxJava Excellent Object Oriented, Java and Android Programming skills Hands on experience in consuming REST API’s, various backends and databases Hands on experience in Integrating devices via NFC and BLE Strong debugging skills and must be familiar with profiling app, memory usage analysis, bandwidth usage analysis Experience integrating analytics and tracking solutions (e.g., Omniture, Google Analytics) A great design eye, paying close attention to the smallest of UI and UX details Well versed in creating multi-threaded components Excellent time management and work organization skills Experience with Agile development methodologies Must be able to demonstrate published apps from Google Play or other app stores that they have written, including for both phone and tablet apps Hands Experience in cross-platform development technologies (e.g. Ionic, PhoneGap, Appcelerator, and Xamarin) Unit-test code for robustness, including edge cases, usability, and general reliability Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies Develop pixel perfect apps and closely work with QA’s to release quality apps Continuously discover, evaluate, and implement new technologies to maximize development efficiency Excellent written and verbal communication skills Ability to work both independently and in a collaborative environment Can do Attitude.
+
+
+-----------------------------------------------------------------------------------
+JD-5
+
+Source - linkedin
+
+About the Role:
+• Bachelors or Masters degree in CS or related field/experience with 6+ years of development experience, preference will be given to graduates from leading universities
+• 5+ years of experience in native Android applications development (Java , Kotlin) 
+• Vast experience with build, testing and deployment in relevant technologies
+• Expertise in object-oriented software development
+• Mobile first approach in solving problems
+• Capable of managing time well and working efficiently and independently
+• Learning new applications and software… and learning fast
+• Excellent communication skills
+
+-----------------------------------------------------------------------------------
+JD-6
+
+Source - linkedin
+
+About the Role:
+• 2-3 years of Android development experience.
+• Proficient in Kotlin and OOP.
+• Experience with , Retrofit, Coroutines, MVVM, and Dagger.
+• Strong understanding of unit testing and RESTful/GraphQL APIs.
+• Knowledge of material design and design components.
+• Excellent problem-solving skills.
+• Basic understanding of iOS development principles and technologies, including Swift language proficiency.
+• Familiarity with iOS libraries such as Alamofire, CoreData, CoreLocation, etc.
+• Knowledge of closures, protocols, and Storyboard to contribute effectively to iOS application development as needed.
+• Familiarity with continuous integration/deployment.
+• Experience with Git or other version control systems.
+
+-----------------------------------------------------------------------------------
+JD-7
+
+Source - linkedin
+
+About the Role:
+• Design, develop, and maintain mobile applications using Flutter framework, ensuring high performance and responsiveness across iOS and Android platforms.
+• Implementation of various state management such as Provider, Bloc, Redux, ScopedModel to manage state management and data flow within the application.
+• Build and maintain optimized solutions for the feature which will support high load providing efficient performance.
+• Work with teams including designers, product managers, and backend developers to define, design, and deliver new features in both iOS and Android.
+• Ability to build custom plugins and components which can be used in various other projects within the organization.
+• Understanding of firebase is must, Implementation of various technologies such as firebase cloud messaging, Analytics etc.
+• Implementation of Kotlin/Swift/Objective-C modules into existing Flutter applications to take advantage of Native functionality in Android and iOS.
+• Basics of Docker to create or alter app build pipelines.
+• Knowledge of Various methods in Distribution of applications in both Android and iOS.
+• Conduct thorough code reviews, identify performance bottlenecks, and propose solutions to optimize application performance and maintainability.
+• Stay updated with the latest advancements in mobile development technologies and best practices, continuously improving development processes and methodologies.
+• Understanding of Various API methods implementation within mobile applications in an efficient way. Knowledge of Authentication and Authorization is must. Basics of various encryption methods.
+• Ensure adherence to security standards and best practices while implementing features and handling sensitive data.
+
+-----------------------------------------------------------------------------------
+JD-8
+
+Source - linkedin
+
+About the Role:
+
+• Proven experience as a Flutter Developer with a strong portfolio of Flutter apps.
+• Proficiency in Dart programming language.
+• Solid understanding of the Flutter framework and its core principles.
+• Experience with state management solutions such as Provider or Bloc.
+• Familiarity with RESTful APIs and asynchronous programming.
+• Strong debugging and problem-solving skills.
+• Excellent communication and collaboration abilities.
+• Experience with Firebase services such as Firestore, Authentication, and Cloud Functions.
+• Knowledge of version control systems such as Git.
+• Previous experience working in an Agile/Scrum development environment.
+
+-----------------------------------------------------------------------------------
+JD-9
+
+Source - linkedin
+
+About the Role:
+• You have at least 7+ years of experience working as an Android engineer with good knowledge of Kotlin
+• You have experience working iteratively and maintaining live digital products
+• You have a desire to craft beautiful, usable interfaces across all different devices running Android
+• You have a degree in Computer Science or a related technical field or equivalent technical knowledge
+• You are empathetic towards the user experience and thoughtful about what we can do to make it better
+• You are well acquainted with the Android platform and APIs
+• You have a passion for clean code and solid, future-proof architectures and you have (automated) testing in mind while you develop production code
+• You work with an eye toward accessibility, performance, and systemic solutions
+• You have a proven track record of building reliable, performant, scalable, and understandable solutions
+• You enjoy guiding and sharing your knowledge with other developers
+• You are proficient in English, both written and verbal, including technical terminology, and demonstrate effectiveness in communication, excelling in providing and receiving feedback
+
+-----------------------------------------------------------------------------------
+JD-10
+
+Source - LinkedIn
+
+About the Role:
+• PFB JD Have Good Knowledge in Java /Kotlin.
+• Knowledge of Kotlin Coroutines , Live Data Architectural Components, Room Database.
+• Experience in Implementing MVVM,MVP or MVC architectures.
+• Knowledge of Dragger 2 and now using Dragger HILT.
+• Use BitBucket, SVN, Git as VCS and Git flow as a Branching model.
+• Android basics like activity/fragment management, services,thread & handlers,etc.
+• Experience in popular android libraries like Retrofit, OkHTTP, etc.
+• Implementation of complex/custom Ui design.
+• Working on new Jetpack Components like compose ,Coil and many more . 
+• Debugging memory efficiency of android apps.
+• Worked on implementing third party APIs, SDK, ADB. Third party SDK integration - Facebook, Gmail.
+• Google services - location API and Maps, direction API,Ad- sense etc.
+• Worked on Fire-base integration for notification, facebook, Google plus,Firebase Crash Reporting
+
+-----------------------------------------------------------------------------------
+JD-11
+
+Source - LinkedIn
+
+About the Role:
+• Design and build advanced applications for the Mobile platforms Android and iOS
+• Work with outside data sources and APIs
+• Unit-test code for robustness, including edge cases, usability, and general reliability
+• Work with Retrofit, RxJava, Room, WorkManagers, Hilt, Coroutines, Sonarqube, Firebase, Event bus to develop and test the application.
+• Manage Alpha, Internal beta and Production of the application
+• Maintain & Leverage firebase to work on the post production enhancement, Build management, Notifications, Firestore etc To work and maintain code in Kotlin.
+• Proficiency in React Native:
+• The developer should have a strong understanding of the React Native, framework, including its core principles, components, and APIs. They should be able to build efficient and scalable mobile applications.
+• JavaScript: A solid foundation in JavaScript is crucial, as React Native is built
+• upon it. The developer should have proficiency in JavaScript fundamentals, such as variable scope, closures, and asynchronous programming.
+• Mobile App Development: The developer should have experience in developing mobile applications for iOS and Android platforms. They should be familiar with the specific platforms and APIs.
+• APIs and Backend Integration: Experience with APIs and integrating them into mobile applications is essential. The developer should be familiar with handling data retrieval, storage, and synchronization with backend services.
+• Debugging and Testing: The ability to troubleshoot and debug is crucial.
+• Familiarity with debugging tools and experience in writing unit tests, integration tests, and end-to-end testing using frameworks are valuable skills.
+
+-----------------------------------------------------------------------------------
+JD-12
+
+Source - LinkedIn
+
+About the Role:
+• Minimum of 6+ years of hands-on experience in Mobile Development.
+• Proficient in Kotlin & Swift.
+• Demonstrated expertise in Kotlin Multi-Platform projects for Android and iOS applications.
+• Good understanding on official libraries like Ktor, Coroutines and structured concurrency concepts.
+• Have experience working on XCode & Apple ecosystem.
+• Have experience using Intellij/Android Studio & Gradle build systems.
+• Strong practical knowledge of software engineering best practices and design patterns such as MVVM/MVC.
+• Experience with unit/integrations with mocking library frameworks.
+• Experience and knowledge of mobile platform architecture limitations with the expertise to overcome those technical challenges
+• Ability to work effectively in an Agile/SCRUM programming environment
+• Good communication skills, both written and verbal
+• Preferably, experience in mobile platform low interfaces like WiFi, Discovery, Bluetooth, Streaming, Media codecs etc.
+• Consumer electronics experience preferred
+
+-----------------------------------------------------------------------------------
+JD-13
+
+Source - LinkedIn
+
+About the Role:
+• Deep understanding of modern mobile development
+• Strong in Object Oriented design and Kotlin
+• Experience with the Android development
+• Strong passion for code quality and are not allergic to test cases
+• Familiarity with integration of Rest API
+• Strong sense of ownership
+• At least one mobile app you can show off in the interview
+• At least 3-10 years of professional experience.
+• Experience with CI/CD tool(e.g. Bitrise)
+• Tech Stack : Kotlin, Simple Stack, RxJava,Koin, Picasso, CardIO,Moshi, Okhttp, Mapbox,Lottie, Github, Android Studio, Firebase, AppsFlyer, Figma, Slack, Zoom
+
+-----------------------------------------------------------------------------------\
+JD-14
+
+Source - LinkedIn
+
+About the Role:
+• Extensive experience with Android development and a strong understanding of the Android ecosystem (MUST HAVE)
+• Proficiency in Android SDK, Soong build system (MUST HAVE)
+• Experience with Android libraries, frameworks, and patterns.
+• Experience as an Android engineer or in a similar software engineering role.
+• Good knowledge of C++ or RUST
+• Proficiency with GitLab or GitHub or Jenkins CI/CD workflows
+• Problem-solving attitude
+• Collaborative team spirit
+• Required SkillsC++,AAOS,Android SDK,SoongSupported SkillsC++ Shell, C ,CI CD
+
+-----------------------------------------------------------------------------------
+JD-15
+
+Source - LinkedIn
+
+About the Role:
+• Minimum of 10 years of hands-on experience in Android development using Java/Kotlin 
+• Advanced knowledge of Android SDK, Java, Kotlin, and the use of Android Studio.
+• Hands-on experience with key architectural patterns for Android app development. This involves:
+• Designing apps with a clear separation of concerns by applying MVC, MVP, and MVVM patterns, ensuring modular, testable, and maintainable code.
+• Deep understanding and practical application of Clean Architecture principles, structuring apps into Domain, Data, and Presentation layers with effective dependency management using tools like Dagger or Hilt.
+• Adaptability and Continuous Learning: An ability to adapt to new architectural trends and patterns, such as MVI or Unidirectional Data Flow, and a commitment to continuous improvement through learning and applying new technologies.
+• Reactive programming concepts with RxJava or LiveData for efficient data handling.
+• Master the Android Jetpack components for consistent and backward-compatible apps.
+• Proficiency in using SQLite for local data storage in Android applications.
+• Experience with Room Persistence Library for abstracting SQLite operations..
+• Hands-on knowledge of third-party integrations- Payment integration services like Razorpay, Paytm, Cashfree, PayU etc.
+• Push notification services/ Reengangement platforms such as Firebase Cloud Messaging (FCM), Clevertap, Moengage
+• Implemented at least one of the Analytics and crash reporting tools like, Firebase Analytics and Crashlytics, Mixpanel 
+• Used Native Google services like Google Sign-In for authentication, Google Maps and Location Services for location-based functionalities, Google Fit API for health data management, Mobile Ads SDK for integrating advertising
+Commitment to Material Design principles and precise implementation of design into code.
+
+-----------------------------------------------------------------------------------
+JD-16
+
+Source - LinkedIn
+
+About the Role:
+• 5+ years of relevant software development experience and a Bachelor/Master’s degree
+• Confident knowledge of Java, Kotlin, and Android SDK
+• Good knowledge of asynchronous programming (Kotlin Coroutines)
+• Understanding of UI design principles (MVVM or any other MVx)
+• Experience in developing client-server applications; basic knowledge of SQL
+• Full proficiency in English
+• Stack: Kotlin, using Kotlin Coroutines. Kotlin Flow, ViewModel, and Dagger. New UI is written with Jetpack Compose.
+
+-----------------------------------------------------------------------------------
+JD-17
+
+Source - LinkedIn
+
+About the Role:
+• Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+• Proven experience as an Android Developer or Senior Android Developer, with a strong background in Android app development.
+• Strong programming skills in Java or Kotlin, and proficiency in Android development tools and frameworks.
+• Experience with modern Android architecture components (e.g., ViewModel, LiveData) and MVVM/MVC/MVP design patterns.
+• Familiarity with Android Jetpack components and libraries.
+• Knowledge of RESTful APIs and integration of third-party services.
+• Experience with version control systems (e.g., Git) and collaborative development tools.
+• Strong understanding of mobile app security best practices and common vulnerabilities.
+• Excellent problem-solving skills and attention to detail.
+• Effective communication skills, both written and verbal, with the ability to collaborate in a team environment.
+• Leadership and mentoring skills, with the ability to guide and influence team members.
+• Familiarity with app distribution, including Google Play Store submission and updates.
+• Knowledge of mobile app testing and automation is a plus.
+
+-----------------------------------------------------------------------------------
+JD-18
+
+Source - LinkedIn
+
+About the Role:
+• Technical Expertise: Strong Android skills with 2 to 3.5 years of working experience.
+• Kotlin Proficiency: Strong hands-on experience with Kotlin.
+• API Integration: Proven experience in consuming APIs and integrating external services into mobile applications.
+• UI Mastery: Strong UI development skills for both mobile and tablet platforms, focusing on creating an exceptional user experience.
+• Problem-Solving: Excellent problem-solving skills and a passion for overcoming technical challenges.
+• Architecture: Proficiency in app architecture patterns, such as MVVM or MVP, and the ability to make architectural decisions that promote code maintainability and scalability.
+• Data Handling: A robust skill set in managing persistent storage, including Preferences and Databases, ensuring efficient data retrieval and storage.
+• DB Skills: Mastery of SQL queries, has experience in offline-friendly applications.
+
+-----------------------------------------------------------------------------------
+JD-19
+
+Source - LinkedIn
+
+About the Role:
+• In depth knowledge of Kotlin and Java
+• Expertise in Android SDK, Jetpack Libraries, popular 3rd party libraries like Retrofit, Glide, Timber, RxJava etc and APIs used in Android Development
+• Experience in React Native/React/Flutter is a must
+• Knowledge on Dependency Injection Libraries like Dagger/Hilt/Koin
+• Ability to organize large-scale front-end mobile application codebases using common mobile design patterns such as MVVM, MVI, MVP
+• Must have developed apps using Kotlin & Java Interoperability 
+• In-depth understanding of dealing with different screen sizes
+• Understanding of interactive application development paradigms, GUI, memory management, file I/O, network & socket programming, concurrency and multi- threading
+• Develop cutting edge functional modules that will be integrated across our Android Application
+• Experience in code versioning tools such as Git or SVN
+• Stay abreast of latest Android platform features and propose evolution of application to take advantage of the same
+• Experience with two-way data synchronisation between client and server database for applications which supports offline capability
+• Unit-test code for robustness, including edge cases, usability, and general reliability
+• Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+• Experience in implementing security policies 
+• Experience in automation, CI/CD and Unit testing frameworks like Espresso, Mockito, Mockk
+
+-----------------------------------------------------------------------------------
+JD-20
+
+Source - LinkedIn
+
+About the Role:
+• 5-12 years of experience in delivering native mobile applications
+• Expert in C++
+• Expert in either Kotlin or Java
+• Experience with RESTful APIs, offline storage, threading, and performance tuning
+• Strong knowledge of UI design principles, patterns, and best practices like SOLID principles for Android
+• Knowledge of mobile application architecture patterns like MVVM, MVP, VIPER
+• Knowledge of Android ecosystem and the libraries available for common tasks
+• Good understanding of chart libraries available for Android
+• Proven focus on code versioning, unit testing coverage, CI/CD and release practices
+• Experience in implementing for ease of operation, maintenance and debuggability
+• Proven responsiveness to customer issues and excellent debugging skills
+• Networking and security aspects
+• Experience in Android networking stack
+• Understanding of data networking architecture and protocols
+• Should be good on TCP/UDP, Sockets and asynchronous TCP socket programming
+• Familiarity with cloud message APIs and push notifications
+• Experience in optimising the transformation, interactive filtering and rendering of large data
+• Worked on platform-level components of Android
+• Experience with GraphQL
+
+-----------------------------------------------------------------------------------
+JD-21
+
+Source - LinkedIn
+
+About the Role:
+• Should have minimum experience of 8 to 12 years.
+• Experienced in developing native Android application. Experienced at Java SDK design functionality, including the full activity lifecycle
+• Knowledge in Kotlin, Androidx, Java, Android SDK, Android NDK, Dagger
+• Experience with android components. Worked with Google Volley framework, Retrofit for handling webservices
+• Proficient in UI design elements dynamic screen building, strong knowledge in almost all view components
+• Experienced in the architectural pattern like MVC, MVP and MVVM
+• Strong knowledge with database handling with SQLite and has knowledge with Room DB. Worked with Shared Preferences, Google Material design, broadcast receivers, adapter views, Sliding tab layout view.
+• Experience in implementing firebase. Hands on experience with tools like SVN, GIT, JIRA, Jenkins.
+• Unit-test code for robustness, including edge cases, usability, and general reliability. Work on bug fixing and improving application performance.
+• Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+• Technologies: Android, Kotlin, Flow, Design Patterns, Kotlin Coroutines, Unit Testing, Multithreading, CI/CD
+
+
+-----------------------------------------------------------------------------------
+JD-22
+
+Source - LinkedIn
+
+About the Role:
+• Bachelor's/Master’s Degree in Computer Science or related technical field. 
+• 3-6 years of experience in design and development of mobile apps in Android/Kotlin
+• Expert in Android SDK, SQLite Database, Kotlin, Coroutines, JSON Parsing
+• Strong computer science fundamentals: data structures, algorithms, design patterns. 
+• Strong focus on high-quality mobile UI experiences
+• Mobile-first design and responsive code deeply ingrained in your thought process. 
+• Deep knowledge of Android Native, Android UI design principles, patterns and best practices
+• Experienced with cloud message APIs and push notifications 
+• Experience with offline storage, threading, and performance tuning. 
+• Experience with React Native app development
+• Highly experienced working with REST APIs for deep integrations. general best practices, shortcomings, trade-offs, etc. 
+• CI/CD development environments/tools: Git, Docker, Kubernetes. 
+• Practical knowledge of agile software development methodologies
+• Experience in working with large code bases
+• Strong oral and written communication skills
+• Good problem-solving attitude and analytical skills
+
+-----------------------------------------------------------------------------------
+JD-23
+
+Source - LinkedIn
+
+About the Role:
+• Qualification Regular B.Tech/MCA/MSC(CS)/BE Degree Job Location Noida Experience 1 - 3 Years Technology/Skills JSON,OOPS ,Java, Mobile Application developer, Mobile Software Developer, Windows Mobile Developer. Job Description Experience in J2ME,Android native APIs. Capable of working independently once direction is set.
+
+-----------------------------------------------------------------------------------
+JD-24
+
+Source - Indeed
+
+About the Role:
+• Software Engineer (Android) - 4 Roles
+• Should have at least 4-6 year of experience with Android development
+• Proficient in Kotlin programming, Java and the Android APIs
+• Strong knowledge in Android Apps architecture and implementation
+• Ability to write model code for functional and nonfunctional requirements and help improve the code quality standard across the team
+• Working experience with popular libraries for networking, async, image loading etc
+• Well-versed with Agile methodologies, TDD and Test Engineering and Automation.
+
+-----------------------------------------------------------------------------------
+JD-25
+
+Source - Indeed
+
+About the Role:
+• Proven experience developing and deploying Android applications.
+• Portfolio of published Android apps on Google Play or GitHub (preferred).
+• Experience with agile development methodologies (e.g., Scrum, Kanban).
+• Familiarity with software development lifecycle (SDLC) processes.
+• Ability to learn and adapt to new technologies quickly.
+• Strong attention to detail and passion for delivering high-quality software solutions.
+• Excellent time management and organizational skills.
+• Willingness to learn and grow professionally in a dynamic environment.
+• Strong problem-solving and analytical abilities.
+• Mandatory Skills: Android Studio, Git, RESTful APIs
+
+-----------------------------------------------------------------------------------
+JD-26
+
+Source - Indeed
+
+About the Role:
+• 4+ years developing Android apps.
+• Experience with Java and Kotlin.
+• Experience with third-party libraries and APIS.
+• Solid foundation around object-oriented programming, and design patterns (MVC, MVP, and MVVM)
+• Experience with git.
+• Experience with agile methodologies.
+• Experience with REST APIS.
+• Experience with Android UI design principles
+
+-----------------------------------------------------------------------------------
+
+JD-27
+
+Source - Indeed
+
+About the Role:
+• Develop and maintain Android applications using Kotlin programming language.
+• Implement and follow MVVM (Model-View-ViewModel) architectural pattern for app development.
+• Utilize Kotlin coroutines for asynchronous programming and managing background tasks.
+• Design user interfaces using ConstraintLayout to create responsive and adaptive layouts.
+• Integrate with RESTful APIs using Retrofit to fetch and send data over the network.
+• Implement local data storage solutions using Room Database for efficient data management.
+• Key Skills Required: Kotlin language, MVVM structure, Kotlin coroutines, Constraint layout, Retrofit for APIs, Room Database
+
+-----------------------------------------------------------------------------------
+JD-28
+
+Source - Indeed
+
+About the Role:
+• 2 to 4 years of experience in mobile app development, including experience in Flutter and Android Native mobile app development.
+• Strong understanding of mobile app architecture, design, and implementation
+• Knowledge of mobile app development frameworks such as native android/iOS and AndroidNative ,Flutter.
+• Familiarity with mobile app optimization techniques and performance tuning
+• Strong analytical and problem-solving skills
+• Excellent communication and collaboration skills
+• Ability to work independently and as part of a team.
+
+-----------------------------------------------------------------------------------
+JD-29
+
+Source - Indeed
+
+About the Role:
+• Proven software development experience and Android skills development
+• Proven working experience in Android app development and
+• Have published at least one original Android app
+• Experience with Android SDK
+• Experience working with remote data via REST and JSON
+• Experience with third-party libraries and APIs
+• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+• Solid understanding of the full mobile development life cycle
+
+-----------------------------------------------------------------------------------
+JD-30
+
+Source - Indeed
+
+About the Role:
+
+• Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
+• Familiarity with Restful APIs to connect Android applications to back-end services.
+• Strong knowledge of Android UI design principles, patterns, and best practices.
+• Experience with offline storage, threading, and performance tuning.
+• Ability to design applications around natural user interfaces, such as touch.
+• Ability to understand business requirements and translate them into technical requirements.
+• Familiarity with Google Map APIs and push notifications.
+• Experience working with remote data via REST and JSON.
+• Experience with third-party libraries and APIs.
+• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
+• Solid understanding of the full mobile development life cycle.
+• Unit-test code for robustness, including edge cases, usability, and general reliability.
+• Identifying and fixing bugs; improving application performance.
+• Investigate and develop skills in new technologies.
+
+-----------------------------------------------------------------------------------
+JD-31
+
+Source - Indeed
+
+About the Role:
+• Proven experience as an Android Developer with expertise in Kotlin or Java.
+• Strong understanding of the Android SDK, UI/UX design principles, and mobile app development lifecycle.
+• Experience with RESTful APIs, third-party libraries, and JSON.
+• Proficient in using version control systems such as Git.
+• Solid understanding of mobile application security best practices.
+• Ability to optimize code for performance and address memory and battery usage concerns.
+• Familiarity with continuous integration and continuous deployment (CI/CD) pipelines.
+• Excellent problem-solving and debugging skills.
+• Effective communication and collaboration skills.
+• Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+• Knowledge of reactive programming (RxJava/RxKotlin).
+• Experience with dependency injection frameworks (Dagger, Koin).
+• Familiarity with automated testing frameworks (Espresso, JUnit).
+• Understanding of material design principles.
+• Contribution to open-source Android projects.
+
+-----------------------------------------------------------------------------------
+JD-32
+
+Source - Indeed
+
+About the Role:
+• Strong knowledge of Java, Koltin, Android SDK, different versions of Android, and how to deal with different screen sizes.
+• Familiarity with RESTful APIs to connect Android applications to back-end services.
+• Strong knowledge of Android UI design principles, patterns, and best practices.
+• Experience with offline storage, threading, and performance tuning.
+• Knowledge of the open-source Android ecosystem and the libraries available for common tasks.
+• Familiarity with cloud message APIs and push notifications.
+• A knack for benchmarking and optimisation.
+• Understanding of Android design principles and interface guidelines.
+• Proficiency in the understanding of code versioning tools such as Git, Bit-bucket, and Sourcetree.
+• Familiarity with continuous integration.
+• Experience with the IoT platform would be appreciated.
+
+-----------------------------------------------------------------------------------
+
+JD-33
+
+Source - Indeed
+
+About the Role:
+
+Skills:
+
+• RESTful APIs and Android Studio
+• MVVM Architecture , Retrofit , Firebase , Volley , Kotlin
+• Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes
+• Familiarity with RESTful APIs to connect Android applications to back-end services
+• Strong knowledge of Android UI design principles, patterns, and best practices
+
+Responsibilities :
+
+• Design and build advanced applications for the Android platform
+• Collaborate with cross-functional teams to define, design, and ship new features
+• Work with outside data sources and APIs
+• Unit-test code for robustness, including edge cases, usability, and general reliability
+• Work on bug fixing and improving application performance
+• Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+• Ability to use the Android Studio, including the Android SDK, with Ease Experience working with remote data via REST and JSON
+• Working knowledge of the general mobile landscape, architectures trends, and emerging technologies
+• Has sound experience in integration with external systems through API/ Web services
+
+-----------------------------------------------------------------------------------
+JD-34
+
+Source - Indeed
+
+About the Role:
+• Over 3-5 years of experience in building applications for the Android platform
+• We are seeking an experienced Android Mobile Application Developer with development experience using Kotlin, Android SDK
+• Good with solid principles and Design Patterns: MVVM and clean architecture as must have
+• Strong ability to handle local database and offline storage
+• Strong foundation in data structures &amp; algorithms, OS, I/O, concurrency
+• Experience of using code versioning tools for CI/CD that includes Bitbucket, Gradle &amp; Bamboo
+• Hands-on experience creating Unit Test cases: Mockito and Junit
+• Hands-on experience using dependency injection Koin
+• Experience in using retrofit for Integration of APIs, and, Gson for network communication
+• Familiarity with Restful APIs to connect Android applications to back-end services, Cloud message APIs and push notifications
+• Preferable who has worked on IOT based Projects
+• Self-motivated with attention to detail and the ability to establish and manage priorities in a fast paced, deadline-driven environment.
+• Good experience in Debugging, Root cause analysis and Problem solving
+• Work with Scrum and Agile development processes
+• Experience with software engineering best practices: unit testing, code reviews, design documentation, and continuous integration
+• Must have proven track record of evaluating, bug fixing and enhancing software applications/services
+• Continuously discover, evaluate, and implement new technologies to maximize developmentefficiency
+• University degree in software engineering or computer science
+• Strong communication [written &amp; verbal] and good interpersonal skills
+
+Preferred Skills:
+• OOPS Concepts (3+ years’ experience)
+• Kotlin (3+ years’ experience)
+• Android SDK (3+ years’ experience)
+• Experience in using retrofit for Integration of APIs, and, Gson for network communication (3+years’ experience)
+• itbucket and Bamboo (1+ years’ experience)
+• Unit Testing (1+ years’ experience)
+• DataBase (Sqlite, Room DB), (1+ years’ experience)
+• Dependency Injection (Koin), (1+ years’ experience)
+• Debugging experience, (3+ years’ experience)
+• Experience working in Agile Scrum
+• Good Communication skills
+
+-----------------------------------------------------------------------------------
+JD-35
+
+Source - Indeed
+
+About the Role:
+• Trained in Android SDK tools/Android Studio, third party libraries and APIs
+• Knowledge with Android Kotlin and Java
+• Knowledge using SQLite in Android, UX/UI designs
+• Mobile Application Development and Android Development skills
+• Mobile Applications and Android Design experience
+• Software Development experience
+• Experience in integration of mobile applications with web services and APIs
+• Experience with software development methodologies, Agile/Scrum/Kanban, and tools such as Jira, GitHub, Jenkins, and/or similar tools
+• Experience with Android frameworks (such as Retrofit, RxJava, Dagger, etc.) and libraries (such as Glide, Picasso, etc.)
+• Strong problem-solving skills and the ability to work in a fast-paced environment
+• Bachelor's degree in Computer Science, Engineering, or a related field
+• Experience with other mobile platforms such as iOS is a plus
+
+
+-----------------------------------------------------------------------------------
+JD - 36
+Source - Naukri.com
+
+About the Role:
+We are looking for a skilled Android Developer with 2-5 years of experience to join our innovative team. As an Android Developer, you will be responsible for designing, developing, and maintaining high-quality mobile applications for the Android platform. You will collaborate with cross-functional teams to deliver exceptional user experiences and ensure the performance, scalability, and reliability of our applications.
+
+
+Responsibilities:
+
+Design and develop native Android applications using Java/Kotlin.
+Collaborate with product managers, designers, and other developers to translate requirements into technical solutions.
+Implement best practices in software development, including code reviews, unit testing, and continuous integration.
+Integrate with backend services and APIs to deliver end-to-end solutions.
+Optimize application performance for speed, responsiveness, and battery efficiency.
+Debug and fix issues to ensure the stability and reliability of our Android applications.
+Stay up-to-date with the latest Android technologies, trends, and best practices.
+Participate in the planning and estimation of project timelines and deliverables.
+Work closely with QA teams to ensure the quality of the final product.
+Provide technical guidance and mentorship to junior developers when needed.
+
+
+Requirements:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+2-5 years of experience in Android app development using Java and/or Kotlin.
+Proficiency in Android Studio and other development tools.
+Strong understanding of Android design principles, interface guidelines, and best practices.
+Experience with RESTful APIs, JSON, and other web services integration.
+Solid understanding of software development methodologies and practices (Agile, Scrum, etc.).
+Experience with version control systems such as Git.
+Excellent problem-solving and analytical skills.
+Ability to work independently and in a team environment.
+Strong communication and interpersonal skills.
+
+Nice to Have:
+
+Experience with third-party libraries and frameworks such as Retrofit, Dagger, or RxJava.
+Knowledge of Firebase services for authentication, database, and cloud messaging.
+Familiarity with Material Design components and guidelines.
+Experience with performance profiling and optimization tools.
+Contributions to open-source projects or personal app projects showcased in the Google Play Store.
+Role:Mobile / App Developer
+
+Salary: Not Disclosed by Recruiter
+
+Industry:Internet (E-Commerce)
+
+Department:Engineering - Software & QA
+
+Role Category:Software Development
+
+Employment Type:Full Time, Permanent
+
+Key Skills
+Android Application DevelopmentAndroid StudioMobile Application Development
+JavaJSON
+Skills highlighted with ‘‘ are preferred keyskills
+Education
+
+UG:Any Graduate
+
+Company Profile
+Paytm
+
+Paytm is India's largest mobile payments and commerce platform. It started with online mobile recharge and bill payments and has an online marketplace today. In a short span of time we have scaled to over 158mn registered users and more than 90mn monthly transactions. Paytm is the consumer brand of India's leading mobile internet company One97 Communications. One97 investors include Ant Financial (AliPay), SAIF Partners, Mediatek, Sapphire Venture and Silicon Valley Bank. We strive to maintain an open culture where everyone is a hands-on contributor and feels comfortable sharing ideas and opinions. Our team spends hours designing each new feature and obsesses about the smallest of details.
+
+-----------------------------------------------------------------------------------
+JD - 37
+Job description
+Translate designs and wireframes into high quality code.
+Design, build and maintain high performance reusable and reliable Java code.
+Identify and correct bottlenecks and fix bugs. Help maintain code quality organization and automatization.
+Strong knowledge of Kotlin, Android SDK, different versions of Android and how to deal with different screen sizes.
+Familiarity with RESTful APIs to connect Android applications to back end services.
+Strong knowledge of Android UI design principles patterns and best practices. Experience with offline storage threading and performance tuning.
+Ability to design applications around natural user interfaces such as touch.
+Familiarity with the use of additional sensors such as gyroscopes and accelerometers. Familiarity with cloud message APIs and push notifications.
+Understanding of Google Android design principles and interface guidelines.
+Proficient understanding of code versioning tools such as Git and familiarity with continuous integration.
+
+
+Primary Skills
+Android Development
+Kotlin
+Java
+
+
+Secondary Skills
+Cloud message APIs and push notifications
+Continuous Integration
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Android Development
+RESTful APIJavaGitAPIAndroid SDKCloud messageKotlin
+
+-----------------------------------------------------------------------------------
+JD - 38
+Job description
+Skills and responsibilities :
+Should have strong expertise in Core Java.
+Should have strong expertise in Android Application development.
+Should have sound understanding of Android Architecture and Framework.
+Should have strong expertise in Gallery, Wallpapers and Multimedia Apps Development.
+Good understanding of XML Parser Like JSON,SAX, DOM.
+Good working experience on SQLite DataBase.
+Good working experience on Web Service Integration (SOAP, REST, API, XML)
+Having an app in android market will be added advantage
+Should have good knowledge in tools like IDE Tools: Eclipse 3.4/3.5, Photoshop, Dreamweaver CS4., Fireworks, SVN
+ 
+Role: Software Development - Other
+Industry Type: Recruitment / Staffing
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Core JavaDOMandroid application developmentXMLEclipseSQLiteJSONPhotoshopFireworksAndroid
+
+-----------------------------------------------------------------------------------
+JD - 39
+Job description
+Job Overview:
+
+We are looking for an Android/Flutter Developer who can build scalable and robust mobile applications. We operate in an extremely innovative, entrepreneurial, analytical and problem-solving work culture. It is important for us that each and every member of the team is fully committed to the mission of the company and believes in getting things done.
+
+
+Key Responsibilities:
+
+Designing and developing advanced applications for the Android and Flutter platform
+Unit-testing code for robustness, including edge cases, usability, and general reliability.
+Bug fixing and improving application performance.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+
+Requirements:
+
+BS/MS degree in Computer Science, Engineering, or a related subject
+Proven software development experience and Android skills development
+Proven working experience in Android app development.
+Experience with Android SDK and Flutter Libraries is a must.
+Experience working with remote data via REST and JSON
+Experience with third-party libraries and APIs.
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle
+Freshers can apply too.
+
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+FlutterAndroid SDKAndroid
+
+-----------------------------------------------------------------------------------
+
+JD-40
+Job description
+Role & responsibilities:
+
+Android Developers - Mobile development experience in Kotlin and Java.
+
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Sc in Maths, Computers, B.Tech/B.E. in Any Specialization
+PG: M.Tech in Any Specialization, MCA in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+JavaAndroid DevelopersKotlin
+
+-----------------------------------------------------------------------------------
+JD - 41
+Job description
+We are looking for hands-on Android ( kotlin ) developers responsible for the design and development of end-user products aimed at a range of diverse Android devices
+Your primary focus will be the development of Android applications and their integration with back-end services
+A commitment to collaborative problem-solving, high-quality code, and a passion for technology is essential
+Responsibilities:
+Design and build applications for the Android platform this is a hands-on developer position
+Collaborate with the team to define, design, and ship new features
+Ensure the performance, quality, and responsiveness of applications
+Identify and root cause performance bottlenecks, random crashes, and fix bugs
+Help maintain code quality, perform peer code reviews, write unit tests, enable automation and localization
+Stay up-to-date with technology trends and suggest solutions.
+Gradually take on more responsibility and have a bigger impact, take on more challenging tasks, and mentor others.
+Skills:
+Minimum 5 years (s) of development experience with proficiency in Java, Android SDK.
+BE or equivalent
+Understanding of Android UI design principles, patterns, and best practices
+Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+Familiarity with offline storage, threading, performance tuning, integrating with backend services
+Proficient with versioning tools like git, SVN.
+Self-motivated, eager to learn, with strong logical reasoning skills
+Passion for quality
+Flutter is a plus.
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+restperformance tuningsqlitemvpandroidoffline storagekotlinandroid studiosvnmobile application developmentflutterjavagitandroid application developmentuiretrofitdesign patternsjsonmultithreadingsdkrxjavaandroid ui design
+
+-----------------------------------------------------------------------------------
+JD- 42
+Job description
+Job Overview:
+
+We are looking for an Android/Flutter Developer who can build scalable and robust mobile applications. We operate in an extremely innovative, entrepreneurial, analytical and problem-solving work culture. It is important for us that each and every member of the team is fully committed to the mission of the company and believes in getting things done.
+
+
+Key Responsibilities:
+
+Designing and developing advanced applications for the Android and Flutter platform
+Unit-testing code for robustness, including edge cases, usability, and general reliability.
+Bug fixing and improving application performance.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+
+Requirements:
+
+BS/MS degree in Computer Science, Engineering, or a related subject
+Proven software development experience and Android skills development
+Proven working experience in Android app development.
+Experience with Android SDK and Flutter Libraries is a must.
+Experience working with remote data via REST and JSON
+Experience with third-party libraries and APIs.
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle
+Freshers can apply too.
+
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+FlutterAndroid SDKAndroid
+
+-----------------------------------------------------------------------------------
+
+JD-43
+Job description
+Job Description:
+
+We are seeking a skilled mobile developer to join our dynamic team. As a mobile developer, you will be responsible for designing, developing, and maintaining high-quality mobile applications for iOS and/or Android platforms. You will collaborate with cross-functional teams to deliver innovative and user-friendly mobile solutions.
+
+Responsibilities:
+
+- Develop mobile applications for Android platforms using native or cross-platform frameworks (e.g., Swift, Objective-C, Java, Kotlin, Flutter, React Native)
+
+- Collaborate with product management and design teams to define app features and functionality
+
+- Translate UI/UX designs into code while ensuring visual consistency and usability
+
+- Implement best practices for mobile application development, including performance optimization, security, and scalability
+
+- Integrate third-party APIs and services into mobile applications
+
+- Conduct thorough testing to identify and fix bugs, performance issues, and usability problems
+
+- Stay up-to-date on the latest mobile development trends, technologies, and best practices
+
+Requirements:
+
+- Proficiency in mobile app development for Android platforms
+
+- Strong programming skills in languages such as Swift, Objective-C, Java, or Kotlin
+
+- Experience with mobile app frameworks and SDKs (e.g., UIKit, Android SDK)
+
+- Knowledge of mobile app architecture patterns (MVC, MVVM, MVP)
+
+- Familiarity with RESTful APIs and JSON/XML data formats
+
+- Experience with version control systems (e.g., Git)
+
+- Ability to work independently and as part of a collaborative team
+
+- Excellent problem-solving and communication skills
+
+
+
+Role: Mobile / App Developer
+Industry Type: NBFC
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Android Application Development
+javaReact NativeMobile Application DevelopmentKotlin
+
+-----------------------------------------------------------------------------------
+
+JD - 44
+Job description
+Profile -
+
+Android Developer
+
+
+Mandatory Skills
+
+Android, Core Java, Kotlin, MVVM, Project exposure
+
+
+Description of Position
+
+Experience in:
+1. Mobile App design, development, and deployment
+2. Must have published at least one original Android app.
+3. Third-party libraries and APIs, Android UI design principles, patterns, Agile Development, general mobile landscape, architectures, etc.
+4. Writing clean, readable, and testable code using MVC, MVP, MVVM, Dependency Injection.
+
+
+
+Role: Mobile / App Developer
+Industry Type: Miscellaneous
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization, BCA in Any Specialization
+PG: MCA in Any Specialization, M.Tech in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Android
+RetrofitAndroid Application DevelopmentRxjavaMVVMMVPAndroid Studiocore javaKotlin
+
+-----------------------------------------------------------------------------------
+
+JD - 45
+Job description
+In-depth Android application programming experience
+
+Understanding of the entire Android App development ecosystem, from APIs to App Store
+
+Strong OO design and programming skills in Kotlin and Java
+
+Build prototypes at tech scoping stage of projects.
+
+Experience with third-party libraries, APIs, web services and JSON
+
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Android
+Android Developerjavaweb servicesweb technologiesjsonapplication programmingKotlin
+
+-----------------------------------------------------------------------------------
+
+JD- 46
+Job description
+As an ideal candidate, you should demonstrate proficiency in one of the mainstream programming languages, and a sound understanding of the traditional product life cycle.
+You will be responsible for writing and proofreading code, liaising with co-workers within and outside of their department, and monitoring customers feedback. Over time, you will also be required to create app updates.
+Responsibilities:
+Conceptualizing and formulating apps that are suitable for use on all types of Android devices.
+Implementing measures to safeguard users data.
+Ensuring that the construction and presentation of your apps are congruent with the companys standards.
+Proofreading your code and correcting mistakes before each app is released.
+Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+Liaising with the marketing department to ensure consistency in our companys voice across the board.
+Monitoring app reviews to detect areas for improvement.
+Creating app updates, including bug fixes and additional features, for release.
+Skills Required:
+Strong experience in Android Native Development with Core Java, SQLite Kotlin.
+Solid understanding of common programming tools and paradigms, such as version control, use of frameworks, and common design patterns.
+Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
+Familiarity with RESTful APIs to connect Android applications to back-end services.
+Experience with offline storage, threading, and performance tuning.
+Familiarity with continuous integration.
+Familiarity with mobile applications and development, including the use of hardware such as accelerometers, cameras, microphone and gyroscopes.
+Knowledge of mobile device emerging technologies including Smartphone LTE architectures, camera/video.
+Superb analytical and problem-solving abilities.
+Knowledge and experience working with Security.
+Experience Qualification Required:
+Degree in software development, computer science, or similar.
+Proven experience as an android developer will be preferred.
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: BCA in Computers, B.Tech/B.E. in Production/Industrial
+PG: MCA in Computers
+Key Skills
+Performance tuningCore JavaERPSocial mediaSQLiteCustomer supportAndroid SDKMonitoringAndroid
+
+-----------------------------------------------------------------------------------
+
+JD-47
+Job description
+As individual contributor the app developer will build best in class Apps for mobile phones on Android platforms both for B2C and B2B segments
+Apps are not necessarily the ones made with a UI and hosted on App stores
+They are critical pieces of functionality built to enable epics and user stories to create customer-centric experiences
+Responsible for design and development of Apps
+Provides technical leadership to small teams of engineers
+Owns software quality, stability and performance
+Collaborates with UI/UX teams to transform creativity into a reality to provide great customer experiences
+Apply Design Thinking principles combined with Agile methodologies to ideate, rapidly prototype, test and iterate in a fast development environment with a flexibility to incorporate continuously evolving user experience feedback, experiment and improvise the App designs, flow and core business logic.
+Necessary Skills
+Understanding of CORE JAVA, JAVA 8, Object oriented design principles, familiarity with Design Patterns (Singleton, Strategy, Observer, Decorator)
+Excellent knowledge of development languages/tools: Native way such as Android-Java.
+Expertise in working with DB: SqLite, AppData
+Experience in Agile process; tools and processes (Bitbucket/Git, JIRA, etc.) with an open mind to follow TDD/BDD approaches
+Desired Skills
+Experience on PJSIP or LinPhone stack
+Soft Skills
+Creative, gritty, driven by curiosity, go getter attitude and comfortable with failure
+A strong self-drive to differentiate oneself from millions of App developer out there in the world
+Adopts Developers own the Quality mindset
+Should possess App as a Product mindset that is going to have its own life cycle
+Excellent aptitude, command over language and communication skills
+Role: Software Development - Other
+Industry Type: Education / Training
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Object oriented designCore JavaPrototypeGITTDDSQLiteAgilesoftware qualityJIRAAndroid
+
+-----------------------------------------------------------------------------------
+
+JD-48
+Job description
+Job Title: Android Developer
+
+
+Qualification: Bachelor's/ Masters degree in Computer Science, Engineering, or a related field.
+
+
+Job Description:
+
+
+We are looking for an Android Developer who has 1- 3 years of experience and possesses a passion for pushing mobile technologies to the limits. This Android app developer will work with our team of talented engineers to design and build the next generation of our mobile applications. Android programming works closely with other app development and technical teams.
+
+
+Responsibilities:
+
+
+Design and develop high-quality Android applications for various devices.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Implement UI designs and ensure the responsiveness of applications.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Troubleshoot and debug issues to optimize performance.
+Participate in code reviews and provide constructive feedback to team members.
+Stay up-to-date with the latest trends and best practices in Android development.
+
+Skills:
+
+
+Proficiency in Kotlin and Java programming languages.
+Solid understanding of Android SDK, Android Studio, and related development tools.
+Experience with RESTful APIs and JSON.
+Familiarity with Git for version control.
+Strong problem-solving skills and attention to detail.
+A passion for mobile technologies and continuous learning.
+Experience with modern Android architecture components (e.g., MVVM, LiveData, Room).
+Knowledge of Android Jetpack libraries.
+Familiarity with Firebase services (Firestore, Authentication, Cloud Messaging).
+Experience in Jetpack compose
+Strong problem-solving, attention to detail, excellent communication, collaboration, and adept at working both independently and in teams.
+
+Role: Mobile / App Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Sc in Computers, B.Tech/B.E. in Computers, BCA in Computers
+PG: MCA in Any Specialization, M.Tech in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Kotlin
+JavaAndroid Studio
+
+-----------------------------------------------------------------------------------
+
+JD-49
+Job description
+Design and build advanced applications for the Android platform
+Collaborate with cross-functional teams to define, design and ship new features
+Work with outside data sources and APIs
+Ability to work interactively with Product, Design, Back-End and QA teams
+Unit-test code for robustness, including edge cases, usability, and general reliability
+Work on bug fixing and improving application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+Requirements
+
+Strong knowledge in android application development
+Knowledge in Android SDK with an understanding of Software Architecture and Design.
+Must have Object Oriented Programming Skills and knowledge in applying OO design patterns.
+Familiarity with Android platform tools and AOSP.
+API request and response (web services, JSON, XML, REST, etc).and knowledge in third-party libraries.
+Knowledge in Java, Kotlin, Android Studio with Agile project execution methodology.
+Working knowledge of the general mobile landscape, architecture, trends, and emerging technologies.
+Solid understanding of the full mobile development life cycle.
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Mobile developmentandroid application developmentArchitectureXMLAgileJSONProduct designAndroid SDKObject oriented programmingAndroid
+
+-----------------------------------------------------------------------------------
+
+JD-50
+Job description
+ColorBracket Technologies LLP is looking for Android Developer to join our dynamic team and embark on a rewarding career journey
+Conceptualizing and formulating apps that are suitable for use on all types of Android devices.
+Implementing measures to safeguard users' data.
+Ensuring that the construction and presentation of your apps are congruent with the company's standards.
+Proofreading your code and correcting mistakes before each app is released.
+Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+Liaising with the marketing department to ensure consistency in our company's 'voice' across the board.
+Monitoring app reviews to detect areas for improvement.
+Creating app updates, including bug fixes and additional features, for release.
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+android development
+
+-----------------------------------------------------------------------------------
+
+JD- 51
+Job description
+We are seeking a motivated and talented Entry-Level Android Developer to join our dynamic team. As an Android Developer, you will play a crucial role in the design, development, and maintenance of innovative Android applications. This is an excellent opportunity for a recent graduate or someone with limited professional experience looking to kickstart their career in mobile app development.
+Responsibilities:
+Application Development: Collaborate with cross-functional teams to develop, test, and deploy high-quality Android applications using Java and Kotlin.
+Code Review and Maintenance: Participate in code reviews to ensure code quality, performance, and adherence to best practices. Contribute to the maintenance and improvement of existing applications.
+Bug Fixing and Optimization: Identify and fix bugs, bottlenecks, and performance issues in the Android applications. Optimize code for efficiency and scalability.
+Collaboration: Work closely with UI/UX designers, product managers, and other team members to translate requirements into functional and user-friendly applications.
+Stay Updated: Stay current with the latest trends and technologies in Android development. Continuously enhance your skills and contribute to the adoption of new tools and techniques within the team.
+Qualifications:
+Education: Bachelors degree in Computer Science, Software Engineering, or a related field.
+Programming Languages: Proficiency in Java and Kotlin programming languages.
+Android Development: Basic understanding of Android app development concepts, architecture, and best practices.
+Problem Solving: Strong problem-solving skills and attention to detail. Ability to analyze and debug code effectively.
+Communication: Good verbal and written communication skills. Ability to work collaboratively in a team environment.
+Initiative: Proactive and self-motivated with a desire to learn and grow as a developer.
+Portfolio: Any relevant coursework, personal projects, or internship experience related to Android development is a plus. A portfolio showcasing Android apps you\'ve worked on is highly desirable.
+This is an entry-level position, and we welcome candidates with a strong academic foundation and a passion for Android development. If you are enthusiastic about joining a dynamic team and contributing to the world of mobile applications, we encourage you to apply. We provide a supportive environment for learning and professional development
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+ArchitectureDebugginJDesign developmentProgrammingApplication developmentMobile applicationsInternshipandroid development
+
+-----------------------------------------------------------------------------------
+
+JD - 52
+Responsibilities:
+Collaborate with senior developers to design, develop, test, and maintain high-quality Android applications.
+Implement new features and functionalities based on project requirements and user feedback.
+Optimize application performance and ensure seamless user experience across different devices and screen sizes.
+Participate in code reviews, debugging, and troubleshooting to identify and fix issues promptly.
+Stay updated on the latest trends and best practices in Android development to enhance product quality and efficiency.
+Requirements:
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Strong knowledge of Java and/or Kotlin programming languages.
+Familiarity with Android SDK, Android Studio, and related development tools.
+Understanding of basic UI/UX principles and design patterns.
+Experience working with RESTful APIs and third-party libraries.
+Ability to work independently and as part of a collaborative team.
+Excellent communication and problem-solving skills.
+Prior experience with version control systems such as Git is a plus.
+
+-----------------------------------------------------------------------------------
+
+JD - 53
+Responsibilities:
+Design and build advanced applications for the Android platform.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Work on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Translate designs and wireframes into high-quality code.
+Ensure the best possible performance, quality, and responsiveness of the application.
+Identify and correct bottlenecks and fix bugs.
+
+
+Requirements:
+Proven software development experience and Android skills development.
+Proven working experience in Android app development and have published at least one original Android app.
+
+Flutter Development, Packages & SDK's .
+Android & Ios Development.
+Flutter & MERN Stack Front End Development.
+Flutter & MERN Stack Back end Development. - Node.js, Express.js, MongoDB.
+API Development & Third Party Api Intigration.
+Database Management
+Application Deployment
+WEB, .exe & Mobile Development
+Chrome Extension Development For Windows.
+Experience with Flutter framework and its core principles
+Experience working with remote data via REST and JSON.
+Experience with third-party libraries and APIs.
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
+Familiarity with version control systems (e.g., Git).
+Solid understanding of the full mobile development life cycle.
+
+-----------------------------------------------------------------------------------
+
+JD - 54
+Requirements:
+ Proven experience as a .NET Core Developer with expertise in Microsoft Azure.
+• Proficiency in C# and .NET Core for server-side development.
+• Excellent Coding skills and best practices
+• Strong knowledge of Azure services, including but not limited to Azure App Service, Azure Functions, Azure SQL Database, and Azure DevOps.
+• Experience with containerization technologies (e.g., Docker) and orchestration (e.g., Kubernetes) is a plus.
+• Familiarity with cloud security best practices and compliance requirements.
+• Knowledge of database systems, MS SQL, and NoSQL databases. MSSQL for database with stored procedure
+• Experience with version control systems
+• Strong problem-solving and debugging skills.
+• Excellent communication and teamwork skills.
+• Self-motivated with a passion for learning and staying current with industry trends
+
+JD-55
+Requirements:
+Bachelor's degree in Computer Science, Engineering, or related field
+Proven experience as a Software Developer or similar role
+Proficiency in one or more programming languages such as Java, Python, C++, etc.
+Strong understanding of data structures, algorithms, and object-oriented design principles
+Experience with relational databases and SQL
+Familiarity with web development technologies such as HTML, CSS, JavaScript, etc.
+Excellent problem-solving and analytical skills
+Ability to work effectively both independently and as part of a team
+Strong communication and collaboration skills
+Skills
+
+HTML, WordPress, Flutter, Java, Linux, Android Studio, APK analyser
+
+-----------------------------------------------------------------------------------
+
+JD - 56
+requirements:
+Minimum Required Skill set
+• Strong understanding of Agile development
+• Deep understanding of Flutter
+• Strong knowledge of Flutter widgets for iOS and Android.
+• Knowledge of building Flutter modules and plugins
+• Good Knowledge of OOP and SOLID principles
+• Must have worked with MVVM and BLoC
+• Good understanding of Rx, Streams, and Observer patterns
+• Must have in-depth knowledge of JSON to Object and Object to
+JSON mapping/conversions
+• Knowledge of data storage and caching
+• Should have worked with Android Studio and Visual Studio Code
+
+-----------------------------------------------------------------------------------
+
+JD-57
+Responsibilities:
+Create and maintain web applications using PHP.
+Build and update Android apps.
+Work with other teams to add new features.
+Fix any technical issues quickly.
+Requirements:
+Bachelor's degree in Computer Science or similar.
+Good knowledge of PHP, Android.
+Strong problem-solving skills.
+Great communication and teamwork.
+
+-----------------------------------------------------------------------------------
+
+JD- 58
+Requirements:
+1. Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).
+
+2. Proven experience developing and deploying Android applications.
+
+3. Portfolio of published Android apps on Google Play or GitHub (preferred).
+
+4. Experience with agile development methodologies (e.g., Scrum, Kanban).
+
+5. Familiarity with software development lifecycle (SDLC) processes.
+
+6. Ability to learn and adapt to new technologies quickly.
+
+7. Strong attention to detail and passion for delivering high-quality software solutions.
+
+8. Excellent time management and organizational skills.
+
+9. Willingness to learn and grow professionally in a dynamic environment.
+
+10. Strong problem-solving and analytical abilities.
+
+Mandatory Skills: Android Studio, Git, RESTful APIs
+
+-----------------------------------------------------------------------------------
+JD - 59
+Strong knowledge of Kotlin and Android SDK
+Proficient with RESTful APIs, JSON and other data formats
+Strong debugging and problem-solving skills
+Excellent verbal and written communication skills
+Ability to work well in a fast-paced, dynamic environment
+
+-----------------------------------------------------------------------------------
+
+JD-60
+Preferred Technical And Professional Expertise
+support the build of wholistic and fully integrated HR features.
+Develop service catalog work products and deliverables –native virtual agent, MS Dynamic translation for languages
+CSA , CAD , minimum 2 CIS certifications
+Good understanding of areas such as Algorithms, Data Structures, Object Oriented Design, Databases
+ Excellent knowledge of Kotlin technology stack, mobile development, and Android ecosystem.
+ Contribution to open-source projects of repute is a must.
+ Prior experience of working on large Android applications and making them scalable and performant. You must possess excellent debugging and optimization skills.
+ Experience with Android SDK, working on remote data via REST and JSON, third-party libraries, APIs.
+ Working knowledge of the general mobile landscape, architectures, trends, and emerging
+
+-----------------------------------------------------------------------------------
+
+JD - 61
+Proficiency in TypeScript. 
+Strong background in Unit Testing. 
+Solid knowledge of Git. 
+Experience with modern CSS/Sass/Less. 
+Understanding of SOLID principles and design patterns. 
+
+Familiarity with connected devices (e.g., Apple TV) is a plus. 
+Experience with GraphQL. 
+Experience with Jest.
+Knowledge of CI/CD and automated testing. 
+Knowledge of GitHub Actions.
+Experience with pair programming. 
+Familiarity with Agile methodologies (Scrum preferred) and having worked with agile teams.
+Experience with ads, news, or Connected devices (Apple TV, etc). 
+
+-----------------------------------------------------------------------------------
+
+JD- 62
+Requirements
+
+Proven experience as an Android Developer with a portfolio of Android apps using Kotlin lang.
+Proficiency in Kotlin and Android Studio.
+Strong understanding of the Android SDK and mobile app development principles.
+Experience with UI/UX design principles and collaboration with designers.
+Knowledge of Android testing and debugging tools.
+Excellent problem-solving skills and attention to detail.
+Ability to work both independently and as part of a team.
+Strong communication and interpersonal skills.
+Knowledge of Jetpack compose.
+Understand of version control (Git)
+Experience in Web & REST services
+Solid understanding of common Android code architectures
+Automation (CI/CD) using Fastlane, Bamboo, or GitHub actions.
+Experience with advanced Android concepts like Custom Views, Animations, and background processing
+
+SKill - Kotlin, Java, Mongo DB/Sql, Git, Data Structure, Android Studio, Xml, APIs
+
+-----------------------------------------------------------------------------------
+
+JD- 64
+Experience in AWS services such as Lambda, S3, and CloudFormation
+Experience with frontend technologies such as JavaScript, React, Angular, or Vue.js
+Experience with Node.js, Ruby on Rails, or Django, Python, or Java
+Strong proficiency in programming languages such as JavaScript, Python, or Java
+Experience with Git and Continuous Integration/Continuous Deployment (CI/CD) systems
+Strong problem-solving skills, attention to detail, and ability to work independently
+Bachelor's degree or higher in Computer Science or a related field
+Experience with AWS Lambda for serverless computing
+Familiarity with AWS Amplify, AWS Elastic Beanstalk for application deployment and management
+Knowledge of AWS RDS and DynamoDB for database management and time series databases
+Understanding of RESTful API development
+Experience with AWS API Gateway for creating, publishing, maintaining, and securing APIs
+Proficiency in using AWS S3 for storage solutions
+Knowledge of AWS CloudFormation or AWS SAM for infrastructure as code
+Familiarity with Amazon Cognito for user authentication and access control
+Understanding of CI/CD pipelines using AWS CodeBuild, CodeDeploy, and CodePipeline
+Experience with monitoring and logging services such as AWS CloudWatch, AWS X-Ray, and AWS CloudTrail
+Familiarity with messaging and queueing services such as Amazon SNS and SQS
+Experience with microservices architecture and distributed systems
+TailwindCSS
+Redux / Context API
+TypeScript
+HTML5 (Drag and Drop API)
+CSS3
+JavaScript (ES6+)
+D3.js (for data visualizations and charts)
+React DnD (Drag and Drop for React)
+Chart.js or Recharts (for chart widgets)
+Material-UI / Ant Design (UI libraries that include drag-and-drop components)
+Grid Layout (for creating drag-and-drop grid layouts)
+Webpack / Babel
+Git
+Jest / React Testing Library
+RESTful APIs / GraphQL integration
+Design experience with IoT is preferred
+
+-----------------------------------------------------------------------------------
+
+JD- 65
+Hands on experience in Microservices, RESTful Web services development in Java (Spring Boot), Spring Data JPA . Hands-on practical experience in Microservices design, application development using Spring Boot on a Cloud Platform, testing, and operational stability.Experience designing UI screens using React, JavaScript, and other front-end technologiesExperience in developing application using Spring Boot (REST API, JDBC, JPA, Security, Scheduler) is a must. Should have good UI/UX skills to develop complex screens.
+
+Experience in Java, Microservices and SPringboot is must.
+
+Experience in agile methodologies such as Bitbucket, JIRA, CI/CD is a must

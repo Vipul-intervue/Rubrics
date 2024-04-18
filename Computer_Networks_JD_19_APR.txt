@@ -1,0 +1,1144 @@
+Job description - Network engineer
+
+RoadMap- https://github.com/eovchar/neteng-roadmap/blob/master/img/NetengRoadmap_v12.png
+
+-------------------------------------
+JD - 1
+Source - Linkdln
+
+ Print workflows (Postscript, PDF, Graphics, Color, Font, Digital Security, etc.)
+ Scan (OCR, Compression, Digital Security, etc.)
+
+Required skills:
+ Strong C/C++ coding background
+ Proficiency in data structures and algorithms
+ Platforms: Windows, Linux, Embedded (Intel/ARM)
+ Tools: Visual Studio, GCC, CMake, Valgrind, Helgrind, Callgrind
+ Good understanding of object-oriented design and knowledge of product life cycles and associated issues. 
+ Should have excellent computer science fundamentals and a good understanding of architecture, design, and performance. 
+---------------------------------------------------------------------
+
+-------------------------------------
+JD - 2
+Source - Linkdln
+
+Must Haves
+
+Strong Knowledge of TCP/IP, BGP.
+Strong knowledge of networking fundamentals 
+Hands-on experience in designing / operating network in a datacenter 
+Good understanding of Internet and associated technologies 
+Basic understanding of linux and scripting.
+
+Good To Have
+
+Exposure in designing / implementing Large Scale Datacenter Networks and Datacenter Interconnects 
+Exposure to service providers, peering networks
+Network Automation via Ansible, RestApi’s
+Hands-on experience with scripting languages like Bash, Python
+Hands-on experience with Linux/Unix 
+---------------------------------------------------------------------
+
+-------------------------------------
+JD - 3
+Source - Linkdln
+
+Primary Skills
+
+AAA skills:-Experience with Cisco ACS/ISE/AAA(RAdius/tacacs),BYOD, Good understanding /knowledge with Cisco security 
+VPN skills:- IPsec LAN-to-LAN (IOS/ASA),SSL VPN (Client/Clientless), Easy VPN (IOS/ASA), CA (PKI),Remote Access VPN (IOS/ASA), XAuth, Split-Tunnel, NAT-T
+ Collab:-Cisco Call Manager Cisco Unified Unity Connection Cisco Call Manager Express & Cisco Unity express Cisco Unity Cisco Unified Contact Centre Express Cisco IP Phones and Unified Clients Cisco Voice Gateways, Gatekeepers,
+ Data center:- Technical expertise in Data Centre domain with demonstrated competency in one or more of the following areas Nexus, Switching/Routing. Good understanding of Switching, Access List, VLAN, Basic MPLS understanding, VTP/STP, HSRP.,
+
+Knowledge & experience in Cisco Data Centre Product Line Nexus Products (N9K, N7K, N6K, N5K, N3K, N2K)
+---------------------------------------------------------------------
+
+-------------------------------------
+JD - 4
+Source - Linkdln
+
+Desired Competencies (Technical/Behavioral Competency):
+
+ 
+Ability to configure and discuss CISCO Routing and Switching technologies, MPLS , Network Security, Data Center networks – firewalls, VPN, load balancers 
+Switching: Cisco Catalyst Switches, VLAN, STP, VLAN Trunking 
+Understanding of Cisco ASA (Cisco VPN Technology) 
+Understanding of Cisco Wireless LAN Controllers and Access points. 
+IP routing and switching.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 5
+Source - Linkdln
+
+Cisco routing and switching including Catalyst and Nexus experience
+Palo Alto firewall including Global Protect VPN and Prisma
+Cisco wireless technologies
+Network Security services including Network Access Control and Segmentation
+DDI systems (DNS, DHCP and IPAM)
+Cloud networking (Azure and AWS)
+Network and Routing protocols (MPLS, BGP, OSPF, Spanning Tree and VLANs)
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 6
+Source - Linkdln
+
+Hands-on Experience in Nexus Switching Administration (DCLAN) 
+Experience in configuring VXLAN (good to have) or VXLAN Know how (Must have)
+Experience in Cisco ACI administration, APIC upgrade
+Experience in Cisco ACI Contract creation, modification
+Hands-on Experience in Cisco DCI, Administration & Troubleshooting
+ Hands-on Experience in F5 Load balancer Administration & Troubleshooting
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 7
+Source - Linkdln
+
+Good conceptual knowledge in SD-WAN(Cisco ACI) & Cloud technologies.
+Good Knowledge in configuration and troubleshooting of Cisco ASA & FTD Firewall (IPSEC VPN, Multiple Mode context and Nat Concepts).
+Good Knowledge in configuration and troubleshooting of F5 Load Balancer (TMSH Config, i-Rule, VCMP, Profiles, SSL offloading, SNAT and Persistence).
+Good Knowledge on Cisco ACI design and Implementation.
+Good Knowledge in configuration and troubleshooting of Data Center Technology (Nexus - FEX, Fabric Path, VDC, VPC, ISSU, Feature set, Layer 2 routing, MTU).
+Good Knowledge in configuration and troubleshooting of Routing & Switching (BGP, EIGRP, OSFP, Route Distribution, VRF. VTP, STP, TCP/IP).
+Daily operational hands-on network duties working with Layer 1-7 switching, TCP/IP, BGP, EIGRP, OSPF, HSRP, and load balancing (Cisco L2/L3 switches, firewalls, F5 load balancers).
+Provide consultation & support to resolve complex issues or to configure the network equipment as per requirement.
+
+
+Good to Have:
+
+CCNP Certification, Cisco ASA Firewall Certification.
+Strong technical background and in-depth knowledge of delivering complex solutions using industry best practices and methods.
+Develop and analyze strategic enterprise level architectures supporting critical business needs and integration of corporate knowledge management applications.
+Should work on network monitoring tools Cisco Works LMS, Cisco NCS, Vital Suite, Wireshark, ASDM Design and implement end-to-end network infrastructure.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 8
+Source - Linkdln
+
+Experience in Windows server administration, configuration, and upgradation.
+Experience in O365 application, windows OS ,software installation, outlook and server troubleshooting.
+Experience in datacenter management & Endpoint security management.
+Knowledge in active directory, DNS , DHCP, file server & Virtualization technologies.
+Ability to handle major incident and troubleshooting in windows domain.
+Should have knowledge of ITIL process , audits. Requirements:
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 9
+Source - Linkdln
+
+Roles & Responsibilities :-
+
+1. Comprehensive understanding of networking protocols such as TCP/IP, OSPF, MPLS, BGP.
+ 2. Working experience on SD-WAN products like Viptela or Versa or Huawei.
+ 2. Prepare network design (HLD & LLD) to address specific customer network requirement.
+ 3. Developing, implementing, and deploying SD-WAN and IP complex network planning and design.
+ 4. Migrate the legacy network into SDWAN.
+ 5. Prepare implementation book containing instructions to be followed during migration.
+ 6. Configure, troubleshoot and manage Viptela SDWAN.
+ 7. Support migration activity, new installations, hardware upgrades and IOS upgrades.
+ 8. Experience with network diagnostic, monitoring and analysis tools.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 10
+Source - Linkdln
+
+The ideal candidate will have experience with a wide range of network technologies, including Palo Alto Firewalls, Cisco Core and Nexus Switches, Fortigate Virtual Appliances, and F5 Proxy Services. The position will involve designing, implementing, and maintaining our company's IT infrastructure, as well as troubleshooting and resolving network problems.Design, implement, and maintain our company's IT infrastructure, including Palo Alto Firewalls, Cisco Core and Nexus Switches, Fortigate Virtual Appliances, and F5 Proxy Services. 
+
+
+• Troubleshoot and resolve network problems. 
+• Configure and manage network devices. 
+• Document network configurations and procedures. 
+• Stay up to date on the latest network technologies.
+• Work with other IT team members to ensure the smooth operation of our IT infrastructure. Experience
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 11
+Source - Linkdln
+
+Additional Responsibilities:
+
+• Knowledge of design principles and fundamentals of architecture
+• Understanding of performance engineering
+• Knowledge of quality processes and estimation techniques
+• Basic understanding of project domain
+• Ability to translate functional / nonfunctional requirements to systems requirements
+• Ability to design and code complex programs
+• Ability to write test cases and scenarios based on the specifications
+• Good understanding of SDLC and agile methodologies
+• Awareness of latest technologies and trends
+• Logical thinking and problem-solving skills along with an ability to collaborate
+Service Line
+Application Development and Maintenance
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 12
+Source - Linkdln
+
+In progress of completing a degree/diploma in Networking/Computer Science Program or equivalent
+Proficient skills in Python programming 
+Familiar with network related terminology
+Strong analytical and research skills
+Excellent written and oral communication skills 
+A collaborative team player
+Self-motivated, hardworking and adaptable in a fast paced environment
+
+Nice To Haves
+
+Google G-Suite experience 
+Knowledge of AWS is a plus
+Any certification related to networking 
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 13
+Source - Linkdln
+
+Advanced knowledge of Cisco and Aruba wireless LAN controllers, Meraki, Cisco access points, Cisco ISE and Cisco Prime.
+Troubleshoot/fix wireless connectivity issues
+Troubleshoot problems with Guest Wi-Fi
+Analyze packet captures (wired and wireless)
+Hands on experience on Cisco ISE designing, building ISE rules, implementation of ISE solutions across a variety of environments.
+Planning, designing and deploying large enterprise wireless networks.
+Participate in wireless surveys and designs
+Must be able to support break-fix Cisco Controllers and Access-Points.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 14
+Source - Linkdln
+
+to configure and discuss CISCO Routing and Switching technologies, MPLS , Network Security, Data Center networks – firewalls, VPN, load balancers
+Cisco Catalyst Switches, VLAN, STP, VLAN Trunking
+of Cisco ASA (Cisco VPN Technology)
+of Cisco Wireless LAN Controllers and Access points.
+routing and switching.
+a CISCO Network Wireless engineer, you'll need to:
+and administering computer networks and related computing environments including systems software, applications software, hardware & config
+disaster recovery operations and data backups when required.
+data, software, and hardware by coordinating, planning, and implementing network security measures.
+diagnosing, and resolving hardware, software, and other network and system problems.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 15
+Source - Linkdln
+
+ Troubleshoot and resolve network problems.
+• Configure and manage network devices.
+• Document network configurations and procedures.
+• Stay up to date on the latest network technologies.
+• Work with other IT team members to ensure the smooth operation of our IT
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 16
+Source - Linkdln
+
+Desired Competencies:
+Excellent Network Administration and Troubleshooting skills. 
+Operational experience on Cisco ACI/Spine leaf Architecture 
+Hands one experience with basic components of ACI fabric (Tenant, BD, VRF, APIC), Nexus DC technologies such as vPC, FabricPath, OTV, VXLAN 
+Hands one experience with ACI implementations being single site, multi-pod, network centric 
+Good Experience with Load Balancers 
+Develop, document and maintain the Network Service procedures to meet the requirements and update the physical/logical Network Design/Architecture Plan. 
+Knowledge and experience in VLAN, HSRP, STP, VTP and other switching technologies 
+Flexibility to work outside of Business Hours to support any critical issues 
+Knowledge on and ability to follow Incident, Request, Problem and Change Management Process. 
+Strong team player with a constructive perspective and commitment to the success of the business 
+Ability to work on multiple concurrent tasks with conflicting priorities 
+Excellent analytical and organizational skills and the ability to work with multiple geographically dispersed teams
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 17
+Source - Linkdln
+
+A solid understanding of Firewalls (Palo Alto) and IP networking and Internet technologies, either in Cisco or Aruba switch and routing platforms. CCNP or CCIE certification would be an advantage.
+Substantial experience in multiple network/network security platforms, including Wireless (Aruba), Aruba Clearpass, ACI, F5, Netskope Proxies, and NSX.
+Strong network analytical and troubleshooting skills, with the capability to handle and take ownership of critical issues until resolution.
+Working knowledge of UNIX, Linux, Windows, SNMP, and Microsoft Active Directory is desired.
+Customer-focused with a 'service first' mentality and excellent communication skills. Ability to remain calm under pressure and when faced with adversity or urgent issues.
+Ability to view current processes and procedures as opportunities for enhancement, tuning, and improvement.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 18
+Source - Linkdln
+
+Strong knowledge and practical experience with large VMware vSphere environments (installation, configuration, and management of 100+ ESX hosts)
+Strong knowledge and practical experience as a system administrator with large scale compute environment (HPE/Dell Servers).
+Experience with one of the storages and backup systems (NetApp, Dell, Veeam, Commvault, etc.)
+Experience with Microsoft environment and products knowledge.
+Experience working with Linux based servers and systems.
+Experience with hyperconverged systems (VMware/HPE HCI) – a big advantage
+Experience managing FC switches, preferably Brocade – an advantage.
+Scripting skills (Ansible/Python/Bash/Perl/PowerShell) and automation processes – an advantage.
+Strong problem-solving skills: troubleshooting, problem analysis, and resolution determination.
+Team player, excellent written and verbal communication skills.
+Proficient in spoken and written English.
+Excellent organizational skills and attention to details, high responsibility.
+Able to lead long term projects and keep KPI.
+Knowledge of IT Security and Network infrastructure.
+Flexible with a can-do attitude.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 19
+Source - Linkdln
+
+Responsibilities
+Monitor network resources and perform preventative maintenance 
+Backup network configurations and test our restore process 
+IT Support relating to issues with the internal systems and network infrastructure 
+Document all network standards and procedures
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 20
+Source - Linkdln
+
+Competenze indispensabili
+
+• Percorso formativo tecnico informatico/reti dati
+• Capacità di installazione e configurazione apparati di rete dei principali fornitori
+• Predisposizione ai rapporti interpersonali in ambienti di lavoro articolati
+• Disponibilità a lavorare su turni
+• Certificazione Cisco CCNA o certificazione di altri vendor
+
+
+Attitudini personali e altri requisiti
+
+• Educazione e cortesia con clienti e colleghi; elevata attitudine al Servizio del Cliente
+• Capacità di comunicare sia di persona che con mezzi a distanza (mail, telefono, eccetera) 
+
+• Atteggiamento positivo, proattività e iniziativa
+• Inglese scritto e parlato almeno B1 (QCER)
+• Patente di guida B e automunito
+ 
+ Si offre
+
+ • Ambiente lavorativo informale, accogliente verso le personali peculiarità, estremamente collaborativo ed eterogeneo
+ • Contratto Full Time
+ • RAL commisurata al livello di esperienza 
+
+ • Tickets
+ • Piano annuale Welfare
+ • Assistenza Sanitaria Integrativa
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 21
+Source - Linkdln
+
+5+ years of Network Engineer who can handle shift independently. 
+Must have Aruba SDWAN, Aruba Wireless 
+Hands on experience on Cisco Routing and Switch (ISO & Nexus). 
+Should have hands on experience on Routing and switching protocol: - BGP, EIGRP, VRRP, HSRP, STP, RSTP, EtherChannel, Trunk, VPC, IPsec, GRE, set up new switch and router, upgrading the software. 
+Hands on experience on F5 Load balancer LTM, Riverbed, Aruba Cisco Wireless 
+CCNA Certified must and CCNP good to have. 
+
+
+Responsibility of / Expectations from the Role
+
+Troubleshooting Network related issue which may include Routing, switching, Riverbed, F5 Load balancer, Aruba wireless, Aruba SDWAN, Cisco Wireless. 
+Handling projects 
+Co-ordinating with Customer to discuss technical projects and issue. 
+Working with Vendors.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 22
+Source - Linkdln
+
+Configure and install various network devices and services (e.g., routers, switches, firewalls, load balancers, VPN, QoS)
+Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations
+Monitor performance and ensure system availability and reliability
+Monitor system resource utilization, trending, and capacity planning
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 23
+Source - Linkdln
+
+Certification :CCNA
+Configure and install various network devices and services (e.g., routers, switches, firewalls, load balancers, VPN, QoS)
+Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations
+Monitor performance and ensure system availability and reliability
+Monitor system resource utilization, trending, and capacity planning
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 24
+Source - Linkdln
+
+5+ years of Network Engineer who can handle shift independently. 
+Must have Aruba SDWAN, Aruba Wireless 
+Hands on experience on Cisco Routing and Switch (ISO & Nexus). 
+Should have hands on experience on Routing and switching protocol: - BGP, EIGRP, VRRP, HSRP, STP, RSTP, EtherChannel, Trunk, VPC, IPsec, GRE, set up new switch and router, upgrading the software. 
+Hands on experience on F5 Load balancer LTM, Riverbed, Aruba Cisco Wireless 
+CCNA Certified must and CCNP good to have. 
+
+
+Responsibility of / Expectations from the Role
+
+Troubleshooting Network related issue which may include Routing, switching, Riverbed, F5 Load balancer, Aruba wireless, Aruba SDWAN, Cisco Wireless. 
+Handling projects 
+Co-ordinating with Customer to discuss technical projects and issue. 
+Working with Vendors.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 25
+Source - Linkdln
+
+Responsibilities:
+Real-time monitoring of network infrastructure to detect and address connectivity issues promptly.
+Execute routine checks and predefined procedures to ensure the stability and performance of the network.
+Document incidents, track resolutions, and provide detailed reports to senior team members.
+Collaborate with cross-functional teams to escalate and resolve complex network problems.
+Assist in the implementation of network changes and updates under supervision.
+This job role requires candidates to monitor the network. The team works on a 24x7 basis. Team members are required to work rotational shifts and observe a 5-day working week.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 26
+Source - Linkdln
+
+A bachelor degree in technical degree with 5+ years of progressive experience
+Knowledgeable on TCP/IP Networking concepts and protocols.
+Must have experience working independently on Linux systems.
+Able to write software scripts such as Python/Perl, Linux scripting, Javascript, etc...
+Experience with software testing using Gitlab or similar environment.
+Familiarity with concepts like firewalling, VPN/IPSEC, TLS, SNMP, PPP, NAT etc...
+Familiarity with cellular technologies such as 3G, 4G/LTE, 5G etc...
+Proficiency in Cisco and other router configuration and operations. 
+Knowledgeable about software development methodologies like Agile, scrum, Waterfall etc..
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 27
+Source - Linkdln
+
+Maintain a professional and personable demeanor at all times
+Basic to intermediate network troubleshooting
+CCNA Level technical certification
+ Experience in: TCP/IP, LAN, WAN, MPLS, routing & switching protocols.
+CCNA certified with minimum 3.5 years’ experience in networking technologies.
+For this position candidates should possess excellent verbal communication skills and proficient writing ability.
+Problem solving, time management skills required
+Resourcefulness and flexibility.
+ 2+ years of experience or adequate knowledge with Cisco configuration or network tech support 3rd level
+ project & change management experience is a plus
+ required CCNA, CCNP (routing & switching) is an advantage
+ customer handling & analytical skills
+ ability to work under pressure & flexibility
+ university degree in technical field (Telecom/Networking) an advantage
+ strong English communication skills - both written & verbal (advanced level)
+
+Roles & Responsibilities:
+
+Basic to intermediate network troubleshooting
+CCNA Level technical certification
+ Experience in: TCP/IP, LAN, WAN, MPLS, routing & switching protocols.
+CCNA certified with minimum 3.5 years’ experience in networking technologies.
+For this position candidates should possess excellent verbal communication skills and proficient writing ability.
+Problem solving, time management skills required
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 28
+Source - Linkdln
+
+Resourcefulness and flexibility.
+ 2+ years of experience or adequate knowledge with Cisco configuration or network tech support 3rd level
+ project & change management experience is a plus
+ required CCNA, CCNP (routing & switching) is an advantage
+ customer handling & analytical skills
+ ability to work under pressure & flexibility
+ university degree in technical field (Telecom/Networking) an advantage
+ strong English communication skills - both written & verbal (advanced level)
+
+Qualifications:
+
+University degree in technical field (Telecom/Networking) an advantage
+
+ IP and data routing technology and policies, network design
+ knowledge of network protocols: BGP, OSPF, RIP, EIGRP, MPLS, VRRP, HSRP, GLBP, etc.
+ security, NAT configuration, proxy server and firewalls
+ WAN technologies: Ethernet, Frame Relay, PPP, POS, ATM, DSL, ISDN, etc.
+ QoS, Multicast, VoIP, PVC/VRF-lite
+ Hardware: Cisco routers, switches, CSU/DSU, modemsExperience and knowledge in people management
+PC basic knowledge, typing on PC using keyboard shortcuts
+Communication skills
+Coping with stressful situations
+Selling skills
+Microsoft office (Outlook, Word, Excel)
+Knowledge of data issues
+Focus on customer experiene
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 29
+Source - Linkdln
+
+Skills for success/Preferred Qualifications:
+
+Proven ability to work effectively and collaboratively in a complex matrix organization
+Service Now experience handling tickets and creating reporting
+Demonstrated ability to drive process improvements and standardization
+Experience working with Telecom providers and supplier support organizations. 
+Proven experience as a Network Analyst or similar role.
+Experience working with some of the following: Cisco/Juniper products, Network Management solutions, Meraki, ISE and Bluecat DDI
+Previous experience configuring, troubleshooting LAN environments.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 30
+Source - Linkdln
+
+Knowledge, Skills, and Attributes:
+
+Strong understanding of network infrastructure and network hardware
+Ability to think through problems and visualize solutions
+Ability to implement, administer, and troubleshoot network infrastructure devices, including wireless access points, firewalls, routers, switches, controllers
+Knowledge of application and network infrastructure protocols
+Ability to create accurate network diagrams and documentation for design and planning network communication systems
+Good analytical and problem-solving skills
+
+Academic Qualifications and Certifications:
+
+Bachelor’s degree in information technology or related field of study with a network engineering focus. 
+Relevant certifications, e.g. ITIL
+CCIE (Cisco), CCNP (Cisco), JNCIE-ENT (Juniper), Network+ (CompTIA), WCNA (Wireshark)
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 31
+Source - Indeed
+
+Required Experience:
+Demonstrated experience working in a networking environment
+Experience with network security
+WAN and LAN experience
+Experience in wireless equipment, protocols, standards, and wireless LAN design
+
+Skills Summary
+Networking Solutions, Network Maintenance, Network Monitoring, Network Security, Network Troubleshooting
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 32
+Source - Indeed
+
+Academic Qualifications and Certifications:
+Bachelor’s degree in information technology or related field of study with a network engineering focus. 
+Relevant certifications, e.g. ITIL
+CCIE (Cisco), CCNP (Cisco), JNCIE-ENT (Juniper), Network+ (CompTIA), WCNA (Wireshark)
+
+Required Experience:
+Demonstrated experience working in a networking environment
+Experience with network security
+WAN and LAN experience
+Experience in wireless equipment, protocols, standards, and wireless LAN design
+
+Skills Summary
+Networking Solutions, Network Maintenance, Network Monitoring, Network Security, Network Troubleshooting
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 33
+Source - Indeed
+
+Ability to be flexible and work with a fast paced and dynamic organization
+ Good understanding of ITIL Incident, Change and Problem management process.
+ Should have experience in ticketing tools like BMC Remedy\ServiceNow
+ Basic understanding on TCP\UDP\IP Protocols
+ Should have good experience on monitoring tools like SolarWinds\CA Spectrum
+ Good knowledge on switching protocols like STP, VTP, Ether-channel and VPC
+ Good Knowledge of Routing protocols like EIGRP\OSPF\BGP
+ Hands on experience on Firewalls like Cisco ASA\FTD, Checkpoint, Palo Alto, FortiGate(preferred)
+ Hands on experience on network security ( any certification would be preferred )
+ Any exposure to Arctic Wolf networking solutions would be preferred.
+ Good understanding of Site to Site and SSL VPN technologies
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 34
+Source - Indeed
+
+Provides complex technical support to customers, other Forescout employees, and partners.
+Makes collaborative effort within the team to resolve complex customer issues.
+Participates in knowledge transfer with teammates through delivering formal team training sessions, brown bags, and formal mentoring.
+Creates and reviews knowledge-based articles and notes.
+Achieves a high level of expertise in all areas of the product.
+Provides knowledge transfer with teammates through formal team training sessions, brown bags, and mentoring of other team members.
+Capable of handling cases and escalations within guidelines
+Capable of independently solving customer issues onsite
+Liaison to Engineering on product issues including design, features, and defects.
+Occasionally travels to customer sites in emergency situations to solve technical
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 35
+Source - Indeed
+
+Keywords: junior network engineer, nwe, academic medical center, hospital, contract, chester county, radnor, pavilion, hybrid, networking, networking closets, activations, multiple sites, network, service desk, entry level, ccna
+Project Description: Looking to turn over 2 networking closets. Bring it online, get activations completed.
+Interview Process: Phone Screen with manager then video interview with the team.
+Support multiple sites (Chester County, Radnor, Pavilion).
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 36
+Source - Indeed
+
+Operates and administers network management and security monitoring systems along with voice products and network application systems
+ Identification and resolution of hardware, software, or architectural issues in any of the corporate networks supporting all Qualys sites and employees.
+ Analyzing systems errors or anomalies, as well as specific network performance issues and/or error messages, to ensure maximum uptime and service quality
+ Troubleshooting, in conjunction with Operations, Engineering, and QA teams, Web, API, and other system issues at a per-packet level via packet trace and sniffer analysis.
+ Prepares and conducts technical briefings, training sessions, policy development, in-depth technical studies, and development of plans and specifications
+ Knowledge of LAN/WAN/WLAN/SD-WAN systems to design and install IP networks.
+ Designs and implements network solutions. Provides technical support to internal staff
+ Handles technical issues and incidents through hands-on troubleshooting
+ Liaise with customers, vendors, and other personnel for problem resolution
+ Performs other duties as assigned
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 37
+Source - Indeed
+
+Job Description: 
+Analyzing and monitoring network performance.
+Providing network support and resolving connectivity issues.
+Configuring hardware and software to optimize network communication.
+Setting up LAN and WAN networks, as well as Voice Over IP and VTC devices.
+Proficiency in Cisco firewall technologies (Cisco ASA, Firepower, etc.) and network security principles.
+Strong knowledge of firewall rules, F5,NAT, Cisco VPNs, and intrusion detection/prevention systems
+Experience in analysing and mitigating security threats and vulnerabilities.
+Provide technical support and troubleshooting for Cisco firewall solutions, including installation, configuration, and maintenance.
+Hand on experience in Data Centre activities 
+Collaborate with other teams to design and implement firewall policies and access control lists (ACLs).
+Perform regular firewall audits and updates to maintain optimal performance and security.
+Managing IP addresses and resolving conflicts.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 38
+Source - Indeed
+
+
+Three or more years of experience supporting network hardware
+Three or more years of experience with enterprise network solutions and technologies
+Strong analytical network troubleshooting skills to solve complex issues
+Experience with SDWAN Design, Deployment & Support
+Experience with Cloud Based Architecture & Management
+Experience with Cellular and Wireless technology and support
+Experience with packet/protocol analyzers, and network management/monitoring tools
+Excellent communication (written and verbal) and interpersonal skills
+Excellent organizational and time management skills
+Ability to work in a team environment and/or as an individual contributor
+How you match
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 39
+Source - Indeed
+
+Basic Skill Set: 
+• Good communication skills 
+• Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, ICMP, TCP, UDP, SNMP, 
+• FTP, TFTP). • Experience in VLANS, Tagging - IEEE 802.1q, 802.3ad, 802.1d,802.1w. 
+• Experience in IPSEC VPN/SSL-VPN/NAT/GRE/ 
+• Experience on routing protocols - RIP V1/V2, OSPF, BGP 
+• CCNA, CCNP, Checkpoint Certification, CCSP certifications
+Benefits of Joining Enterprise Support at CSS Corp: 
+• Choice of technology development program available for specializing in engineering support for all engineers. 
+• CSS provides multi technology career streams for growth of the Engineers. 
+• Performance based bonus programs. 
+• Opportunity to move across technologies and product lines using CSS Corp career track program. 
+• Growth Opportunities to Infrastructure Management services, Consumer tech support services and enterprise technologies services.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 40
+Source - Indeed
+
+Essential Functions
+
+ Configures, deploys, administers, and maintains Avient’s regional site network infrastructure, including but not limited to:
+ Switching/Routing
+ Legacy & Enterprise MES
+ Site Lifecycle Refresh
+ Cabling and Environment
+ Authentication & Architecture
+ Installation & Administration
+ Site Surveys
+ Standards and Audit Compliance
+ Provide project management for complex site network infrastructure integrations, installations, and upgrades.
+ Ensure that the security, performance, reliability, and efficiency of Avient's site network infrastructure is maintained and continually improved.
+ Troubleshoot and resolve all relevant issues identified through monitoring platforms, calls, service desk, and vendor generated tickets in accordance with established SLAs.
+ Act as a liaison between appropriate end users and all other IT Teams via phone, email, and ticketing systems.
+ Provides documentation for all projects, systems, and knowledgebase articles.
+ Support and help maintain relationships with all relevant IT vendors.
+ Participate in the IT strategic process and/or service needs.
+ Ability to work with little or no supervision within global virtual teams.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 41
+Source - Indeed
+
+Mandatory Skills:
+
+• Bachelor's degree is preferred or equivalent work experience/certifications in technology
+• Three or more years of experience supporting network hardware
+• Three or more years of experience with enterprise network solutions and technologies
+• Strong analytical network troubleshooting skills to solve complex issues
+• Experience with SDWAN Design, Deployment & Support
+• Experience with Cloud Based Architecture & Management
+• Experience with Cellular and Wireless technology and support
+• Experience with packet/protocol analyzers, and network management/monitoring tools
+• Excellent communication (written and verbal) and interpersonal skills
+• Excellent organizational and time management skills
+• Ability to work in a team environment and/or as an individual contributor
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 42
+Source - Indeed
+
+Key Relationships:
+Network Architect and cross-functional IT teams
+Global and regional IT teams, including project leads
+Mixed Project teams and Business unit stakeholders
+Partners and vendors
+
+Education and Training:
+CCNP Qualified
+Proven technical knowledge in WAN/LAN/WLAN and Network Security
+Understanding of SDWAN
+Extensive knowledge of WLAN/WiFi, preferably WiFi6
+
+Work Experience:
+At least 3 years in a relevant Network design role, ideally working with Cisco environment
+Experience in a Global Network environment
+Proficiency in managing complex designs and troubleshooting network incidents
+GxP-regulated industry experience is an asset
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 43
+Source - Indeed
+
+Key Responsibilities:
+
+Serve as an expert in network operations, including Cisco, Versa SD WAN, Cisco Meraki, SonicWall Firewall, and Cisco WiFi.
+Provide advanced technical support for daily management, administration, and maintenance activities aligned with network solutions, perimeter networks, and 3rd party connectivity.
+Utilize industry frameworks such as ITIL to identify and resolve basic and advanced problems with remote access solutions, network automation, and associated components.
+Perform restorative and maintenance actions remotely using troubleshooting skills to analyze, respond, and remediate infrastructure and solution-related issues.
+Identify, analyze, and escalate patterns in incidents associated with customer authorized or proprietary technology devices and perimeter infrastructure connectivity issues.
+Provide advanced technical support for IT's global network infrastructure, identifying and resolving problems and recommending changes when required.
+Perform technical implementation support and coordination activities for infrastructure improvements.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 44
+Source - Indeed
+
+Maintain accurate information and reporting regarding network and remote access infrastructure issues, operating according to customer's policies and standards.
+Well-defined analytical skills to conduct effective issue analysis and identify solutions.
+Working knowledge of ITIL and industry standards and procedures for Incident, Problem, Change, and Knowledge management.
+Strong interpersonal skills to engage with all levels of the organization and maintain credibility in technical support.
+Advanced knowledge in current and future features of aligned technology, including SD WAN, WAN, WiFi, LB, and networking fundamentals.
+Familiarity with IT service management tools like ServiceNow.
+Ensure delivery of stable and reliable network infrastructure platforms.
+Availability for critical incident support, project rollouts, and year-end production support.
+Limited travel may be required based on business needs.
+Extensive experience in various aspects of network infrastructure.
+Minimum of 5 years of hands-on experience in Network Operations
+Cisco Certified Network Associate (CCNA)
+Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)
+Designing Cisco Enterprise Wireless Networks (ENWLSD)
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 45
+Source - Indeed
+
+Knowledge in Network administration processes and concepts.
+degree in computer science, Information Systems, or related field
+following certifications are a plus: CCNA, CCNP, CCIE, ITIL Service Management
+SDLAN (CISCO SDA) , CISCO DNAC, CISCO ISE, BIG IP , DDI and SDWAN – CISCO
+and troubleshooting in routing (OSPF / BGP routing protocols), VPN and Wireless
+ Highly experienced with Wired/wireless networking and network security
+of Tools Design and implementation for Thousand eyes, CISCO Spaces and Stealth watch.
+Knowledge of Security Technologies.
+in IT / Computer Science / related discipline.
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 46
+Source - Indeed
+
+Required Skills:
+3-5 years of experience on Core Networking with implementation skills, on heterogeneous networking
+SFP, SFP+ and QSFP+ Optics Operations
+Single Mode and Multi-mode Fiber Optics
+ARP Protocol
+Network looping and broadcast storms resolution steps
+IGMP protocol
+VLAN Stacking
+Ethernet and IP Jumbo Frames
+Stacking Configs vs. LAG configs vs. VLT/VPC/MLAG configs experience
+Routing & Switching
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 47
+Source - Indeed
+
+Bachelor’s degree in information technology or related field of study with a network engineering focus. 
+Relevant certifications, e.g. ITIL
+CCIE (Cisco), CCNP (Cisco), JNCIE-ENT (Juniper), Network+ (CompTIA), WCNA (Wireshark)
+
+Required Experience:
+
+Demonstrated experience working in a networking environment
+Experience with network security
+WAN and LAN experience
+Experience in wireless equipment, protocols, standards, and wireless LAN design
+
+Skills Summary
+
+Networking Solutions, Network Maintenance, Network Monitoring, Network Security, Network Troubleshooting
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 48
+Source - Indeed
+
+Technical Experience:
+Network Administration
+Infrastructure
+CCNA, IP
+Expertise troubleshooting large Network Environments
+VPN, IPsec, DHCP, DNS, HTTP
+Proxy and Firewall Experience
+
+Do you have a passion for Customer Success and Strong Network Experience? If so, this is an opportunity for you!
+
+Contract Details:
+PAYE Contract
+Competitive Rate + Paid Holidays 
+18 Months Contract, Remote - UK Based
+Training and Upskilling 
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 49
+Source - Indeed
+Technical skills and experience
+
+Cisco CCNP (BGP Enterprise level) or Palo Alto PCNSE certification
+5 years of relevant experience supporting network technologies
+Experience supporting and configuring various network devices and technologies (firewalls, switches, load balancers, VPNs, etc.)
+Excellent communication skills, written and verbal
+Experience with Azure and/or AWS, Enterprise Networking, and Data Centre Environments
+Experience conducting network audits[
+Qualifications
+
+Beneficial skills and experience
+IT Degree or equivalent combination of qualifications and experience
+Experience across a range of network vendors - Cisco, Palo Alto, Juniper, FortiGate
+Learn new technologies fast
+ITIL familiarization
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 50
+Source - Indeed
+4yrs and up experience in supporting WAN, LAN, WLAN networks
+Experience in a multivendor environment
+Ability to lead several projects
+Requires knowledge of basic Office tools
+Ability to understand and apply technical concepts
+Team skills, including the ability to establish and maintain effective working relationships
+Flexibility, versatility, dependability
+Ability to work in a dynamic environment with multiple priorities
+Ability to work within a structured change management system
+
+Qualifications
+
+Network Administration, Network Engineering, and Troubleshooting skills
+Experience in network security and network design
+Strong knowledge of TCP/IP protocols and networking technologies
+Experience with network monitoring tools and troubleshooting techniques
+CCNA or equivalent certification is a plus
+SD-WAN knowledge & experience is added advantage
+Excellent problem-solving and communication skills
+Ability to work independently and collaboratively in a team
+Bachelor's degree in Computer Science, Information Technology, or related field
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 51
+
+Source- naukri.com
+
+Maintaining, administering, upgrading, and troubleshooting network tools and equipment
+Assisting with and implementing installations as required for new and existing customer and internal projects inclusive of - terminations, testing and labelling of most common transmission mediums, hardware installations etc.
+Ensure SLA are achieved and work proactively to maintain the same.
+Conduct vulnerability assessments for networks, Servers, applications, and operating systems
+Conduct network security audits and scanning on a predetermined basis.
+Compile and track vulnerabilities over time for metrics purposes.
+Timely upgradation of all the tools used and their related documents like SOPs etc.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 52
+
+Source- naukri.com
+1. Assist in managing and troubleshooting the company's network infrastructure, ensuring optimal performance and connectivity.
+
+
+2. Collaborate with the IT team to develop and implement effective security measures to protect the organization's data and systems.
+
+
+3. Provide support in configuring and maintaining routers, switches, and firewalls to optimize network performance.
+
+
+4. Assist in monitoring network traffic and identifying and resolving any issues that may arise.
+
+
+5. Participate in the planning and execution of IT projects, ensuring timely delivery and adherence to quality standards.
+
+
+6. Assist in managing hardware and software assets, including inventory management and license compliance.
+
+
+7. Stay updated with the latest industry trends and technologies in order to contribute innovative ideas for enhancing the company's IT infrastructure.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+JD - 53
+
+Source- naukri.com
+Experience: 1 + Years
+Skill: Working As Network Administrator
+
+
+Network Routing Protocols (BGP,OSPF & EIGRP)
+Switching Protocols (VLAN,VTP,STP,HSRP & GLBP)
+Security ( IPSec, GET VPN & DMVPN)
+Hardware Cisco ASR routers, ISR routers, Catalyst Switches
+Tools Remedy,Sorlarwinds & Netflow
+Certification CCNA/CCNP
+Configuration & Management of Network devices like Cisco Router, L3 & L2 Switches,
+
+Firewalls.
+
+• Configuring VIP & IP Pool in F5 & Radware Loadbalancer.
+
+• Implementing Rules in Firewalls, Next Gen FW Firepower & Fortigate
+
+(1100E,100E,300E,800C)
+
+• Configuring Site to Site VPN in Fortigate Fir
+
+• Managing FMC, FTD and Fortigate in project.
+
+• Managing DC to branch IPsec, ACL at Branch.
+
+• Periodic hardening of Network Devices, Firewall rule review, Backups. Firmware
+
+Upgradation on network Security device.
+
+
+: LAN resources should have exposure Routing, Switching & technologies such as Nexus, Cisco ISE and WLC
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+JD - 54
+
+Source- naukri.com
+
+Maintaining, administering, upgrading, and troubleshooting network tools and equipment
+Assisting with and implementing installations as required for new and existing customer and internal projects inclusive of - terminations, testing and labelling of most common transmission mediums, hardware installations etc.
+Ensure SLA are achieved and work proactively to maintain the same.
+Conduct vulnerability assessments for networks, Servers, applications, and operating systems
+Conduct network security audits and scanning on a predetermined basis.
+Compile and track vulnerabilities over time for metrics purposes.
+Timely upgradation of all the tools used and their related documents like SOPs etc.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+JD - 55
+
+Source- naukri.com
+
+Senior Network Engineer will be part of the IT Infrastructure team that provides design, deployment & support
+for systems, services and requirements across Flipkart Corporate locations. The IT Infrastructure team is also responsible for managing heterogeneous environments & generating metrics related to Network performance,
+capacity, availability, failure rates, etc. Specific experience with Large scale WAN, Campus LAN, Voice network & Security is must with strong technical orientation & creativity in problem solving.
+Responsibilities & requirements:
+This is a hands-on technical role.
+Independently own the Network Infrastructure support solving complex issues and suggest design modifications as appropriate.
+Ensure SLAs are met
+Responsible for performance analysis, proactive troubleshooting and capacity planning for the Network platforms.
+Perform monitoring and maintenance of overall environment working with experienced team members.
+Perform change controls. Update process documentation and team portals
+Participate in troubleshooting, capacity planning and analysis, performance analysis & Root Cause Analysis.
+Communicate with peers and managers regarding system issues & participate in 24x7 on-call.
+Automate operational tasks to make processes simpler and more robust.
+Ability to handle multiple complex tasks in a dynamic environment, with tight deadlines concurrently.
+Experience & Qualifications:
+5-8 years of experience in design, deploy & manage IPv4/IPv6 networks(Routers/Switches/Firewalls)
+Platform knowledge on Juniper /Palo Alto/Aruba/ Fortigate/Cisco
+Solid understanding of IP/MPLS and Ethernet technologies.
+Experience in IP services (IPv4, IPv6, VPN, Multicast, QOS, SNMP)
+Experience on VOIP, SIP, Contact center networks
+Good understanding about Call managers , Voice gateways, call recording etc..
+Experience in Wireless technologies (Wireless Lan topologies, devices, troubleshooting, 802.11
+network security architecture & RF site surveys)
+Proven experience in network management & Expert knowledge of network analysis tools (Solarwinds,
+Nagios, Zabbix, Zenoss)
+Hands on experience with Protocol Analyzer tools & debugging tools.
+Knowledge on scripting languages like Perl/Python
+Knowledge on Linux Platform.
+Engage with vendors.
+Good communication skills
+BSc, BE in Electronics/Computer Science or equivalent required
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+JD - 56
+
+Source- naukri.com
+
+- 5-7 years of Experience in Core Networking Skills ( LAN/WAN/Data Center/ Load balancers/ NAC )
+- Excellent communication skills, both verbal and written
+- Must have Prior solid Experience in handling L3 Network issues.
+5+ years of working experience designing and configuring Cisco IOS network equipment
+Knowledge and several years of experience with protocols/technologies such as OSPF, EIGRP, BGP, STP, QoS, vPC/MLAG/CLAG, VXLAN, Network Access Control, 802.1x
+Experience and expertise with TCP/IP operations and troubleshooting
+Experience with individual, group and vendor-assisted troubleshooting
+Experience working in large scale IT operations and high-risk networks
+Familiarity with Python and Ansible automation for networking
+CCIE preferred
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+JD - 57
+
+Source- naukri.com
+Will be responsible for the system, hardware allocation, and configuration management,
+Troubleshooting of all types of Hardware and software applications problems
+Monitoring and Administration of the IT Infrastructure like Laptop, Desktop & Printer, Installation, and configuration of Windows Operating System
+Experience in set -up of Lan / Wan.
+Ensure security through access controls, backups and firewalls.
+Troubleshoot issues and outages.
+Server, and workplace firewall
+Technical support related communication with external hosting and domain, email agency
+Computer assembling and maintenance.
+Maintenance of IT network (LAN and WAN) and system security.
+Installation & troubleshooting of printer and scanners.
+Monitoring and Administration of the IT Infrastructure like Laptop, Desktop & Printer,
+Installation, and configuration of Windows Operating System
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+JD - 58
+
+Source- naukri.com
+
+Provide and resolve the support calls in person, over phone and email services.
+Installation and configuration of Windows Operating Systems (Windows 7, 8, 10).
+Install and Configuring win server 2008R2, 2012R2, DNS, AD, DHCP and Print Server
+Installation & troubleshooting of Printers, Scanners and other peripheral devices.
+Installation & troubleshooting of Operating Systems (Microsoft Windows 7 Prof, Windows 8)
+Installation of MS Office 2000, 2003, 2007, 2010.
+Configuration & backup of mails accounts & settings in Outlook Express & Microsoft Outlook.
+Software installation as per requirements.
+Follow up with suppliers to ensure problem resolution and call closure.
+Remote Support to resolve Client side issues using any Desk Tool.
+Reinstallation of OS, arising due to incidents of OS crashes or problems where a reinstallation is
+Required.
+Maintain database of the IT Asset vendors with details like contact person, telephone numbers,
+Escalation matrix, commitments, and SLA etc.
+Knowledge on LAN/WAN, TCP/IP, Sub netting
+Configuring & Troubleshooting all Desktop, Laptops and network related issues and resolving end user issues with remote desktop tools.
+Troubleshooting Hardware and Software Related issues.
+Troubleshooting Switching Port issues and Escalating to Remote Support Team if it Requires Physical attention..
+Having Knowledge on All type of Network Cabling.
+Work on Scheduled Tasks as Part of Change Management.
+Analyze and Escalate the Critical issues to the Level 2 Team.
+Configuration of DHCP
+User Creation & User Profiles.
+Configuration of Backup and Restore.
+Assembling of Personal Computers.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+JD - 59
+
+Source- naukri.com
+
+Job Responsibilities:
+
+Responsible for support of the Wide Area Network (WAN) as well as wired and wireless Local Area Networks (LAN's) throughout the organization. This includes implementation and maintenance of network hardware (routers, switches, wireless, etc.) at various geographic locations.
+Maintain network monitoring systems to alert on resource availability and produce metrics.
+Identify, evaluate, and recommend network related tools and emerging technologies to provide greater service to Northwestern Medicine employees.
+Responsible for optimization of network hardware, software, and communication links to support all current and future network applications over a converged network of data and voice (VoIP) traffic.
+Analyze and troubleshoot network and telecommunications issues to resolve outages in a timely manner and minimize impact to the company and its respective business units.
+Develop and maintain network documentation, and network diagrams for support, audit, compliance, and Disaster Recovery purposes.
+Contribute to the planning of short and long-term network capacity requirements.
+Comply with all published enterprise level policies and procedures including, but not limited to, Risk Management policies.
+Other duties may be required and assigned by leadership.
+Technical Requirements:
+
+Strong hands-on L3 level experience on IP Networking including routing, switching, TCP/IP, IP subnetting, traffic optimization, performance monitoring.
+Experience in routing protocols, EIGRP, BGP, OSPF, and MPLS.
+Extensive support of Routing Protocols/Technologies such as BGP, EIGRP, OSPF, MPLS VPN, Multicast.
+Good understanding and knowledge of Network and Security.
+Experience in managing LAN, WAN, SD-WAN, Datacenter, and Cloud Networks (AWS, AZURE) as well as Site-to-Site VPN connectivity.
+Load Balancers: Troubleshoot hardware and software operation. Strong knowledge of all data flow through the load balancer.
+Strong practical knowledge of network concepts including DNS, DHCP, VPN, network protocols, port configuration, link aggregation, spanning tree optimization, and performance tuning.
+Security Fundamentals: Should be able to understand / Explain concepts (NAT, ACL, Access Groups, IPsec, AAA) & have working knowledge and be able to troubleshoot network Protocols.
+Knowledge of Cisco/Meraki Wireless and wired environments and technologies
+Knowledge of various NW management tools used in enterprise networks (SolarWinds/Splunk).
+Proficiency in Handling Network related calls regarding cisco, firewall, endpoint, etc.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+JD - 60
+
+Source- naukri.com
+Job description
+Configure desktop and laptop
+Active Directory user management and basic knowledge of Active Directory, DHCP and DNS
+Troubleshooting Network connectivity in a LAN/WAN environment
+Hands-on experience in MS-Outlook configuration & Troubleshooting
+
+Required Candidate profile
+
+Excellent problem solving and multitasking skills
+Hardware and Networking Troubleshooting
+Knowledge of network troubleshooting, Ethernet and IP configuration
+
+--------------------------------------------------------------------------------------------------------------------------------

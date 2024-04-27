@@ -1,0 +1,1408 @@
+Job desccriptions for mainframe developers
+
+--------------------------------------------
+
+JD-1
+Source- LinkedIn
+Job Description-
+Full knowledge transfer of printing to State Employees in DMV's IT Unit. This includes, but is not limited to, the ordering, setup, installation and maintenance of printers used through the DMV, both from mainframe and non-mainframe platforms.
+Guide DMV IT staff in the setup and operation of the high speed printers used in the DMV's Computer Room.
+Give input on the best direction to replace one of the high speed printers that is not being supported by the vendor.
+Give expert input to the DMV's Modernization project w/ respect to printing and integration with the State's mainframe.
+Document and knowledge transfer to DMV's IT unit on how the DMV's Finalist program running on the State's mainframe is updated.
+Continue work to uncover data anomalies in DMV's address data.
+
+--------------------------------------------
+JD-2
+Source- LinkedIn
+Job Description-
+The chosen candidate will play the following roles and take on the below responsibilities.
+
+As a mainframe modernization consultant, engage with clients to
+Conduct a TCO/ROI study to come up with the value proposition for application
+
+migration/modernization/transformation in the mainframe domain.
+
+Define the approach and plan for mainframe modernization.
+Define strategies for cloud adoption of key business applications (focusing on the
+
+mapping of business requirements to IT capabilities and align the same).
+
+Work directly with customers to accelerate their products and initiatives and recommend
+
+best-practice application architectures in line with their long-term business outcomes.
+
+Drive technical solutions discussions with your customers, diving deep into the details to
+
+solve complex technical challenges and use your knowledge to craft scalable, flexible,
+
+and resilient cloud architectures, prescriptive guidance, proposals, and implementation
+
+plans.
+
+Act as a thought leader in the wider community, playing a key role in educating, sharing
+
+best practices, presenting at events, writing white papers, blogs, and running workshops.
+
+Lead the mainframe transaction projects and architectural discussions with client
+
+stakeholders.
+
+Drive design and development of Mainframe Modernization solutions using Cloud
+
+Ecosystems
+
+Thought leadership in building the new assets in the mainframe modernization domain.
+Stay educated on new and emerging technologies and market offerings.
+Offering and capability development
+Create application consulting, assessment and modernization offerings based on market
+
+demand and develop delivery capabilities for its execution.
+
+Define reference architecture for new offerings and provide key differentiator inputs to
+
+offering teams in terms of new technology adoption in the application area.
+
+Experience
+
+Prior experience in business case development, application portfolio assessment, Infrastructure
+
+sizing, costing, migration planning and migration to public cloud
+
+15+ Years’ experience in Architecture, Design and Development experience in Legacy
+
+Mainframe technologies (Common like COBOL, JCL, DB2, VSAM, CICS and Niche like PL1,
+
+IMS, Natural-Adabas, etc)
+
+Mainframe Tools – Changeman, File Manager, Job Scheduler Endevour, etc
+
+Prior knowledge and experience in developing solutions using mainframe modernization tools
+
+such as MicroFocus, Astadia and CSP provided tools such as BluAge, G4 etc.
+
+Strong experience in building Modernization Solutions for Legacy Mainframe Applications and
+
+movement to Cloud/Target technologies like Java, .Net, Python.
+
+Strong experience in building and delivering various Modernization disposition solutions like
+
+Rehost, Re-engineer, Rewrite, Re-architect, Retire, etc.
+
+Good experience with On-Prem/Cloud solutions and understanding of the CSP and Partner
+
+ecosystem.
+
+Strong understanding of Software Architecture & enterprise framework. Well versed with SOA,
+
+Microservices, API, Event driven framework, etc
+
+Strong communication and Customer Presentation skills. Ability to engage with the customer,
+
+understand problem statements and have intelligent conversations to gather more information
+
+and build a solution.
+
+Able to conceptualize and design applications grounds up based on the current requirements.
+
+Create solution architecture documentation, work/feature-breakdown structure document and
+
+other related artifacts with deep technical and process details.
+
+Well versed with estimation methodology and able to create detailed estimation, resource
+
+planning and delivery execution plans
+
+Experience in performing Modernization assessments and Proactive Opportunity mining.
+
+Certification (added advantage)
+
+Professional Architect Certification in any of the cloud (AWS, Azure, Google Cloud)
+Cloud based DevOps Certification
+Cloud based Developer Certification
+
+Professional Attributes
+
+Self-starter who thrives in an ever-changing, fast-paced business environment
+Adaptability to the rapid change in technology
+Collaboration across different cultures and different technical domains
+Excellent communication and interpersonal skills
+Strong stakeholder management skills and business acumen
+Strong problem-solving skills, risk mitigation and crisis management
+Ability to multitask and prioritize.
+Prior experience in innovation and leading development of new assets
+
+Skills: jcl,architecture design and development,microservices,problem-solving skills,estimation methodology,vsam,mainframe transaction projects,mainframe modernization architecture,business case development,cobol,application portfolio assessment,event driven framework,cloud adoption,public cloud migration,application design and development,infrastructure sizing,thought leadership,market offerings,api,customer presentation skills,modernization assessments,cics,adaptability,communication skills,self-starter,mainframe domain,legacy mainframe technologies,mainframe tools,stakeholder management,professional architect certification,cloud based devops certification,mainframe modernization tools,on-prem/cloud solutions,prescriptive guidance,modernization solutions,innovation,collaboration,cloud ecosystems,cloud architectures,cloud based developer certification,software architecture,soa,excellent communication and interpersonal skills,multitasking,mainframe modernization projects
+
+--------------------------------------------
+JD-3
+Source- https://www.google.com/search?q=mainframe+jobs+linkedin&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxNzA0ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjk35bJtuKFAxWOcmwGHTSNA38QudcGKAF6BAgUECg#htivrt=jobs&htidocid=mo5Ux7UXK1Sy42O0AAAAAA%3D%3D&fpstate=tldetail
+Job Description-
+Key skill required - IMS DB/DC ( Strict requirement ), DB2, JCL, COBOL Work as Mainframe Developer/ taking ownership on the assigned applications/ projects and support the team .
+
+Skills Required:
+
+Cobol, JCL, DB2, IMSDC, IMS DB
+
+Skills Preferred:
+
+IBM Debug tool, Endevor, CA7,QMF, SPUFI, Selcopy
+
+--------------------------------------------
+JD-4
+Source- Google search
+Mainframe Developer:
+• Job Description / Responsibilities
+• Responsible to works on problems of complex scope, through extensive usage of standard concepts and principles.
+• Should work as a fully contributing team member, under broad guidance with independent planning and execution of responsibilities.
+• Should have extensive knowledge of at least one development technology/ programming language.
+• Should continue to build upon domain knowledge along with technical/proprietary skills to reach levels of expertise while adapting standard principles to new or changed conditions in day-to-day work.
+• Should have the ability to respond to detailed queries.
+• Should apply own judgement to independently determine a course of action, which is then executed independently post review.
+• Fast learning and self-directed, flexible enough to work on new technologies as well as some legacy components
+• Excellent English skills - should be capable of communicating outstandingly in English, both verbally and in writing
+• What We Are Looking For
+• Strong experience in designing and implementing mainframe applications in an IBM z/OS environment.
+• Strong knowledge of programming in C,C++, Assembler, JCL and REXX on z/OS
+• Good Knowledge of build and test automation.
+• Good knowledge of Diagnostics, Debugging and Troubleshooting skills on mainframe applications
+• Must be proficient with problem determination, analysis and resolution.
+• Experience in managing source code with Git repository or any other version control system.
+• Desired (nice-to-have) Skills
+• Exposure to Mainframe modernization
+• knowledge on IBM z/OS security systems like RACF, ACF2 or Top Secret
+• Exposure to Java
+
+--------------------------------------------
+
+JD-5
+Source- Google search
+Mainframe Developer:
+Hands on experience in PL1, IMSDB and COBOL programming (Mandatory)
+
+Ø Working experience in JCL, VSAM, CICS
+
+Ø Preferred to have knowledge of Microfocus COBOL
+
+Ø Worked on AGILE/Waterfall methodology
+
+Ø Knowledge on Insurance and Banking domain
+
+Ø Good to have experience in IMS,DB2, SQL server and CICS
+
+Ø Good to have Experience in CONTROL-M  
+
+--------------------------------------------
+
+JD-6
+Source- Google search
+Mainframe Developer:
+Responsibilities:
+• Understand business requirements, design and develop application code as per technical and functional programming standards.
+• Assist and troubleshoot existing Mainframe environment.
+• Present application and technical support as necessary at right time.
+• Unit testing of the developed/modified code.
+• Interact with integration infrastructure (vendors – if necessary) and varied systems.
+• Coordinate and involve in structured peer reviews and walkthroughs. Should be hands-on in developing and implementing best practices and write smart piece of code.
+• Provide prime assistance toward application releases installation into production under given direction.
+• Prepare functional and technical specifications in agreement with Team Leader/PM.
+• Prepare work estimates in agreement with Team Leader/PM.
+• Lead an agile team and provide technical guidance. Participate in customer call and drive technical discussions.
+
+The Role offers:
+• An outstanding opportunity to re-imagine, redesign, and apply technology to add value to the business and operations.
+• An end-to-end project exposure across IBM mainframe technology stack.
+• An individual (who has passion to learn) to adapt to new technology trends and upgrades quickly and scale to next level easily.
+• High visibility & opportunity to interact with multiple groups within the organization, technology vendors and implementation partners.
+• Exposure to multiple platforms and teams and work with them collaboratively to get the technical solution implemented.
+
+Essential Skills:
+• Hands-on experience in developing and implementing applications using ISPF/TSO, Cobol, JCL, CICS, DB2, VSAM etc.
+• Hands-on experience in VSAM, DB2 and SQL, writing stored procedures, performance tuning.
+• Hands-on experience in developing, implementing and maintaining applications using IMS DB/ IMS DC, PL/I, FOCUS/Webfocus.
+• Hands-on experience in using tools like IBM Debugger, IBM File Manager, Xpeditor, File-Aid, CA-7, Serena/Change man, Utilities (SYNCSORT, IEBGENER, IEBPTPCH, etc.).
+• Good Analytical skills, technical problem solving, verbal and oral communication is mandatory.
+• Ability to interact with different functional areas with excellent interpersonal and communication skills.
+• Experience working in Agile Development Methodologies such as SCRUM.
+
+--------------------------------------------
+JD-7
+Source- Google search
+Skill / Technology / Experience: Experience in OS/390 platform for providing day to day technical support in the area of OS/390, CICS, DB2, RACF, NETVIEW, JCL, AIX and Linux. Good knowledge and skill in S/390 system administration, user administration, AIX, HP-UX system administration. Operating System support Linux, Lotus Notes mail support, Server management, user administration.
+
+--------------------------------------------
+JD-8
+Source- Google search
+Mainframe Developer:
+4+ years of experience in mainframe development Strong knowledge of COBOL, JCL, CICS, DB2 and other mainframe technologies
+
+Excellent problem-solving and troubleshooting
+
+Experience with mainframe software development tools and platforms (z/OS, z/VM, z/Linux, IBM System z)
+
+--------------------------------------------
+JD-9
+Source- Google search\
+Responsibilities:
+
+Essential Job Functions:
+
+•Design and Development
+
+•Mainframe batch support
+
+•Resource should be comfortable with On-Call Support and Week-End •Release support.
+
+•Incident & Outage management
+
+•Develop code for Reporting, Defect & Enhancement
+
+•Hands on experience with JCL, COBOL, CICS, DB2, VSAM and mainframe utilities are mandatory.
+
+•Drive the Kanban, Daily Standup, co-ordination meetings with respective stakeholders.
+
+•Analytical, problem solving, creative thinking and design skills
+
+Mandatory Skills:
+
+1. Strong Mainframe skills with minimum 7-10 years of experience.
+
+2. Experience in developing design, develop, test, debug, and maintain mainframe applications using COBOL programming language
+
+3.Utilize VSAM (Virtual Storage Access Method) for efficient data access and management.
+
+4.Interact with databases using DB2, including SQL query optimization and performance tuning.
+
+5.Utilize tools such as File-AID for data manipulation, browsing, and editing.
+
+6.Write and execute SQL queries using SPUFI for data retrieval and manipulation.
+
+7.Collaborate with cross-functional teams to analyze requirements, design solutions, and implement changes.
+
+
+--------------------------------------------
+JD-10
+Source- Google search
+Mainframe Developer:
+Hogan Product Support and Maintenance :
+• Provides Prod Support; Designs, develops, installs, tests, and documents complex applications software.
+• Contributes to the design and delivery of technical architecture solution components.
+
+Must Have Skills
+• 5+ years of Mainframe production support development experience
+• 5+ Banking product experience (Mandatory)
+• 5+ years Mainframe/COBOL/CICS/JCL/IMS/DB2/MQ Series
+• Master's degree or equivalent combination of education and experience
+• Four or more years of product design and support experience
+• Experience working with software design, software development life cycle, and development methodologies and implementation
+
+--------------------------------------------
+JD-11
+Source- Google search
+Mainframe Developer:
+Your future duties and responsibilities
+• Understanding the requirement and build the technical design document.
+• Good Working knowledge on COBOL, JCL, DB2,VSAM IMS DB/DC, CICS
+• Experience in DB/DC will be added advantage.
+• Excellent problem analysis and trouble shooting skills.
+• Experience on CAGEN tools will add the value.
+• Worked in Agile methodology.
+• Good to have Insurance domain expertise.
+• Should be able to lead the small team.
+• Commitment to Quality and code/design review.
+• Clear understanding of the Software Development Life Cycle, estimation and defect management.
+
+
+--------------------------------------------
+JD-12
+Source- Google search
+Mainframe Developer:
+Responsibilities
+• Maintain system efficiency
+• Ensure system design allows all components to work together properly
+• Make recommendations for upgrades
+• Evaluate and modify system performance
+
+Primary Skills:
+
+• Have 7+ years of experience of installing and/or customizing software products Mainframe DB2 and/or data replication product suite • Experience working with large systems in data sharing SysPlex environment • Has thorough knowledge of resources available and demonstrated ability to use the resources for problem determination, product enhancements and other technical issues related to the components being administered • Strong problem determination skills in both system and application areas • Able to work both as individual and as a team member with other subject matter experts and infrastructure DBAs • A high level of personal initiative is a must to help us improve and optimize the solutions
+
+Secondary Skills:
+
+Added Advantage • Preferred experience with IDAA, IDAA Bulk Loader, and CDC Replication • Experience with design, configuration and support services to production and development departments running critical and 24*7 applications
+0
+--------------------------------------------
+JD-13
+
+Source- Google search
+Mainframe Developer:
+Location: Bangalore/Hyderabad/Noida
+• Application development experience in Design, coding, testing and debugging with mainframe skills such as CICS, VSAM, COBOL, DB2, File Aid, Changeman
+• Programming, conduct code reviews, and test software as needed, ensuring quality of deliverables
+• Must have analytical and coding skills
+• Execute various forms of testing – unit, system, regression, integration, performance, volume
+• Manages all aspects of implementation planning & coordination
+• Develops detailed plans and accurate estimates for the design, build, implement and stabilize phases of the project
+• Facilitates complex group meetings (including business partners) for technical design, decision making, problem solving, implementation and strategic planning
+
+
+--------------------------------------------
+JD-14
+Source- Google search
+Mainframe Developer:
+Skills Required
+• 4+ years Mainframe/COBOL/CICS/JCL
+• Minimum 2+ years of Hogan experience (ILP / any Application) Mandatory
+• 2+ Banking application experience (Mandatory)
+• Bachelor's degree or equivalent combination of education and experience
+• Four or more years of product design and support experience
+• Experience working with software design, software development life cycle and development methodologies and implementation
+
+--------------------------------------------
+JD-15
+Source- Google search
+Mainframe Developer:
+Must have skills:
+• Candidate should possess strong communication skills, knowledge, and hands on experience in developing Mainframe applications using z/OS, COBOL, JCL, Procedures, DB2, control M and Stored Proc.
+• 2-3 Years’ experience in mainframe development technologies such as CICS, VSAM, COBOL, DB2, JCL, File manager.
+• Proven experience in design, coding, testing, and debugging of mainframe technologies.
+• At least 2-year Experience in RDBMS/SQL Database.
+• Need to have good knowledge on copybook and file manager.
+• Have Experience in creating datasets (PS & PDS) and perform operations on them (read, Copy, delete etc ..)
+• Focus on API, UI and DB automation to ensure the possible test coverage in customer projects.
+• At least 2-3 years of experience working in Test Data management process, tools and workflow, SQL queries, Mainframe development.
+• Candidates should also be proficient in developing mainframe jobs, utilizing test data management tools, providing right sized, reusable and safe test data, resolving test data related issues, including defects and data load and masking issues.
+• Extensive knowledge in mainframe, databases, systems integrations, and data flows is preferred for this role. Additionally, candidates should be well-versed in test data management tool configuration and development, with a proven history of providing effective test data solutions. Extensive knowledge of business processes and related data flows and system integrations is also required for this position.
+• Good health care exposure and ability to perform the PHI/PI analysis method or HIPAA guidelines.
+• Expertise in a wide variety of database technologies, from Oracle, SQLServer and DB2.
+• Knowledge of data provision of EDI 834 and 837data processing.
+• Hands on experience on Core Java, Maven for automation.
+• Good Understanding of REST API types (GET, PUT, POST, DELETE).
+• Understanding of any API testing tools like – POSTMAN, Rest Client, Anypoint etc.
+
+--------------------------------------------
+
+JD-16
+Source- Google search
+Mainframe Developer:
+S100 system support engineer with knowledge of the UNISYS Platform:
+• Algol
+• CANDE
+• WFL
+• COMS
+• DMSII
+• OS
+• use of Libraries
+
+--------------------------------------------
+JD-17
+Source- Google search
+Mainframe Developer:
+skills: cobol,cics,db2,vsam, jcl
+
+--------------------------------------------
+JD-18
+Source- Google search
+Mainframe Developer:
+
+Core Responsibilities:
+• code, test, and debug programs for medium to large IT Projects
+• to create Detail design document
+• Coding, testing, debugging and providing relevant comments/documentation for the application managed.
+• and sharing Functional/Technical knowledge with the rest of the team.
+• in post-implementation reviews of both application development content and process to maximize and share learning.
+• the requirements for new project initiatives, low to medium complexity enhancements, participate in design and complete the development and unit testing.
+• Participates in conference calls and able to communicate effectively
+
+Skills Required:
+
+Should have strong exposure COBOL, JCL, DB2,
+
+--------------------------------------------
+
+JD-19
+Source- Google search
+Mainframe Developer:
+Role Description: Mainframe Architect Modernization Practice Leader.
+• Head (Legacy and Modernization) is responsible for creating high-quality AMS/Modernizing services/solutions & delivering to clients on time that drive the highest levels of customer satisfaction and productivity.
+• A culture of excellence and collaboration, identify, and implement best practices and tools, research and evaluate new technologies and methodologies, define and execute standards and methods, and facilitate communication and alignment among stakeholders.
+• Resources across the company to ensure value-added solutions are delivered across to customers of deep and broad technology, methodology, and quality skills and simultaneously define and drive the overall quality agenda.
+
+Key Skills & Responsibilities:
+• Accountable and Strategist for Service Offering, Pre Sales & Solutioning org, GTM with Sales team, Team development, Account management, Transformation & Training Initiatives, and adapting to new mainframe technologies.
+• Implementing best practices and tools for software engineering, testing, automation, and continuous integration.
+• The team provides feedback, and coaching to foster a culture of excellence and collaboration.
+• Evaluating new technologies and methodologies that can enhance the performance, reliability, and security of our services.
+• And execute standards, methods, and procedures by playing the role of customer advocate.
+• Metrics goals that provide visibility and understanding of development effectiveness.
+• Across Technology, Support, and Sales teams to prioritize assignments and manage risks/issues to ensure successful delivery with high quality.
+• Communication and alignment among stakeholders, developers, testers, and customers, ensuring clear expectations and deliverables.
+
+Qualifications:
+• Tactical leadership with a track record of Presales solutions & delivery.
+• To re-imagine & create new service offerings & competencies within the Mainframe area.
+• Have extensive knowledge of Z Series/I Series
+• Be responsible for conceptualizing ideas, and innovations to build solution Accelerators and Automation. Experience in REXX, CLIST programming, and any of the automation tools preferred. Should be strong in mainframe technologies COBOL, DB2, JCL, IMS DC, DB, CICS as a base. Should be proficient in modernizing mainframe applications to open systems. Expertise in developing mainframe Architecture and an understanding of modern mainframe market trends and Business needs are required. Require work experience in transformation projects in terms of mainframe migration to the cloud (AWS, Azure) and distributed systems.
+• In handling Mainframe Development, Enhancement, AMS, Batch support, modernization, and Migration projects from the technical front.
+• Knowledge of mainframe testing process, methodology, and best practices.
+• Developing or interfacing with new age Eng. Practices like DevOps, Generative AI, etc.
+• To Mainframe Infrastructure Services.
+• Experience in Mainframe modernization and migration projects
+• Expertise with Agile- software development teams; experience with Automation.
+• Experience in COE-related activities, Pre-Sales activities (RFP, RFI and Solutioning, Estimation) for legacy apps and modernization engagements
+• 15+ years exp in mainframe with 10+ years’ experience managing CoE/practice/Delivery teams.
+• In handling multiple accounts, defining the project scope, and milestones, and managing Budget and resources planning.
+
+--------------------------------------------
+JD-20
+Source- Google search
+Mainframe Developer:
+We are seeking a highly experienced Senior Mainframe Assembler Developer with a passion for code migration to join our team.
+
+You will play a key role in translating complex mainframe Assembler code into modern languages like Java, acting as a bridge between legacy systems and the future of our technology stack.
+
+Your in-depth knowledge of Assembler programming and strong communication skills will be instrumental in ensuring successful code migration projects that preserve business logic and Analyze and understand existing mainframe applications written in Assembler language.
+• Extract business knowledge and translate Assembler code functionality into clear and concise specifications.
+• Collaborate with Java developers to facilitate the migration of Assembler code to open systems.
+• Explain Assembler code functionality and logic to non-Assembler programmers for effective knowledge transfer.
+• Participate in all stages of the code migration lifecycle, from requirements gathering to unit testing.
+• Write and execute unit test cases to ensure the accuracy and functionality of migrated code.
+• Present migration designs and solutions to peers and product owners for review and approval.
+• Maintain strong communication channels with stakeholders throughout the migration process.
+• (Preferred) Experience working on migration projects involving card domain systems.
+• (Plus) Experience with re-learning and adapting to new mainframe projects.
+• (Plus) Proficiency in Java programming language for a holistic understanding of the migration Bachelor's degree in Computer Science, Information Technology, or a related field (a plus).
+• Minimum of 10 years of experience in Mainframe Application Development with a strong focus on Assembler language.
+• Proven expertise in analyzing, understanding, and modifying complex Assembler code.
+• Excellent communication and interpersonal skills to effectively collaborate with technical and non-technical teams.
+• Strong ability to gather and translate business requirements into technical specifications for migration.
+• Experience with unit testing methodologies and tools for code quality assurance.
+• Solid understanding of the entire code migration lifecycle and best practices.
+• Ability to present technical concepts and solutions clearly and concisely.
+
+--------------------------------------------
+JD-21
+Source- Google search
+Mainframe Developer:
+Over 10 years of hands-on experience in delivering Mainframe solutions.
+
+Analyse the existing Mainframe code written in COBOL, JClL, DB2
+
+Document the orchestration and dependencies between programs.
+
+Create source to target mappings with business transformation logic for every COBOL program which will enable the project team to migrate the mainframe program to cloud native solutions
+
+Provide a walkthrough of every program along with source to target mapping to the project team
+
+Primary Skills / Must have
+
+Must demonstrate strong technical and business leadership skills Strong Cobol, JCL, DB2, CICS experience
+
+Experience in analysing and developing mainframe programs
+
+Experience in MQ and DB2-stored procedure
+
+Experience creating/consuming data in relational database environments (preferably DB2, SQL)
+
+Proficiency in utilities such as SORT, Compare, IDCAMS and IEB utilities
+
+Detail oriented, ability to turn deliverables around quickly with high degree of accuracy
+
+Strong analytical skills, ability to interpret business requirements and produce functional and technical design documents
+
+Good time management skills - ability to prioritize and multitask, handling multiple efforts at once Strong written and oral communications skills are a must
+
+Secondary Skills / Desired skills
+
+Experience in REXX and Easytrieve.
+
+Exposure to tools such as Changeman.
+
+Knowhow of Native stored procedures
+
+Good to have experience in CICS web services.
+
+--------------------------------------------
+JD-22
+
+Source- Google search
+Mainframe Developer:
+Required Experience:
+• 3 -10 years’ software development experience including design and development.
+• Experience with CICS, Cobol, DB2, JCL, VSAM, MQ Series, File Aid, Changeman, Xpeditor
+• Banking amp; Finance Domain knowledge is a plus.
+• Preferred - RESTful and SOAP Webservices, POSTMAN/SOAPUI, IBM API Gateway.
+• Financial industry experience preferred.
+• Proficiency with Microsoft Office applications.
+• Knowledge of software development methodologies and the software development lifecycle.
+• Ability to provide solutions to a variety of technical problems of moderate scope and complexity independently.
+• Strong technical, analytical, and development skills.
+• Effective verbal and written communication skills; effective customer service skills.
+• Ability to work independently or within a team environment and handle multiple projects simultaneously.
+
+--------------------------------------------
+JD-23
+Source- Google search
+Mainframe Developer:
+Role Description: Mainframe Practice Head.
+• Head (Legacy and Modernization) is responsible for creating high quality AMS/Modernizing services/solutions & delivered to clients on time that drive the highest levels of customer satisfaction and productivity.
+• a culture of excellence and collaboration, identify and implement best practices and tools, research and evaluate new technologies and methodologies, define and execute standards and methods, and facilitate communication and alignment among stakeholders.
+• resources across the company to ensure value added solutions are delivered across to customers.
+• of deep and broad technology, methodology and quality skills and simultaneously define and drive the overall quality agenda.
+
+Responsibilities:
+• and Strategist for Service Offering, Pre Sales & Solutioning org, GTM with Sales team, Team development, Account management, Transformation & Training Initiatives and adopting to new mainframe technologies.
+• and implementing best practices and tools for software engineering, testing, automation, and continuous integration.
+• the team, providing feedback, and coaching to foster a culture of excellence and collaboration.
+• and evaluating new technologies and methodologies that can enhance the performance, reliability, and security of our services.
+• and execute standards, methods, and procedures by playing the role of customer advocate.
+• metrics goals that provide visibility and understanding of development effectiveness.
+• across Technology, Support and Sales teams to prioritize assignments and manage risks/issues to ensure successful delivery with high quality.
+• communication and alignment among stakeholders, developers, testers, and customers, ensuring clear expectations and deliverables.
+
+Qualifications
+• and tactical leadership with a track record of Presales solutioning & delivery.
+• to re-imagine & create new service offering & competencies within Mainframe area.
+• have extensive knowledge on Z Series/I Series
+• be responsible to conceptualize ideas, innovations to build solution Accelerators and Automation. Experience in REXX, CLIST programming and any of the automation tool preferred. Should be strong in mainframe technologies COBOL, DB2, JCL, IMS DC, DB, CICS as base. Should be proficient in modernizing mainframe applications to open system. Expertise in developing mainframe Architecture and understanding of modern mainframe market trends and Business needs required. Require work experience in transformation projects in terms of mainframe migration to cloud (AWS, Azure), Distributed systems.
+• in handling Mainframe Development, Enhancement, AMS, Batch support, Modernizations and Migration project from technical front
+• knowledge of mainframe testing process, methodology and best practices.
+• developing or interfacing with new age Eng. Practices like DevOps, Generative AI etc.
+• to Mainframe Infrastructure Services.
+• on experience in Mainframe modernization and migration projects
+• expertise with Agile- software development teams; experience with Automation.
+• experience in COE related activities, Pre-Sales activities (RFP, RFI and Solutioning, Estimation) for legacy apps and modernization engagements
+• 15+yrs exp in mainframe with 10+ years’ experience managing CoE/practice/Delivery teams.
+• in handling multiple accounts, defining the project scope, milestones, and managing Budget and resources planning.
+
+--------------------------------------------
+JD-24
+Source- Google search
+Mainframe Developer:
+Notice Period : 0-15 high-performance, mission-critical applications
+• Analyzing user requirements and developing software solutions
+• Ensuring software applications meet all performance and security requirements
+• Working with other developers to create high-performance, scalable applications
+• Researching new technologies and software development trends
+• Providing technical support and troubleshooting
+• Writing technical degree in computer science or related field
+• 5+ years of experience in mainframe development
+• 2+ years experience in Assembler.
+• Strong knowledge of COBOL, JCL, CICS, DB2 and other mainframe technologies
+• Excellent problem-solving and troubleshooting
+• Experience with mainframe software development tools and platforms (z/OS, z/VM, z/Linux, IBM System z)
+• Excellent verbal and written communication skills
+
+--------------------------------------------
+JD-25
+Source- Google search
+Required Technical Skill Set:
+
+Mainframe, COBOL, DB2, CICS,JCL,MF Devops Tools
+
+Must-Have:
+• Developer COBOL/CICS/JCL/VSAM/DB2.
+• Having Mainframe Development , Maintenance Experience
+• Agile Development.
+• Having Mainframe Dev-ops experience
+• Good Overview of IPC Processes
+
+Good-to-Have:
+
+IBM IDZ experience would be nice to have.
+
+--------------------------------------------
+JD-26
+Source- Google search
+Mainframe Developer:
+Responsibilities
+• Programming, conduct code reviews, and test software as needed
+• Provide L3 production support during Market hours
+• Follow project plans and task schedules
+• Ownership of application components and ensure timely delivery of the same
+• Ensure quality of deliverables
+
+Qualifications we seek in you!
+
+Minimum Qualifications
+• BE/B Tech/MCA
+
+Preferred Qualifications
+• Hands-on technical experience delivering Mainframe solutions using technologies including COBOL, CICS, DB2, VSAM, JCL, STORED PROCEDURES.
+• Excellent programming and debugging skills.
+• Good working knowledge of Relational Databases.
+• Nice to have understanding of CICS Web Services and DB2 Stored Procedures.
+• Excellent analytical and problem solving skills.
+• Ability to communicate effectively across all levels within Technology, Business and Operations.
+• Capability to approach problems as challenges and deal with them constructively while promoting this approach to other team members.
+
+--------------------------------------------
+JD-27
+Source- Google search
+Mainframe Developer:
+experience on offic COBOL, JCL, VSAM, DB2 and IMS DB (must)
+
+POSITION GENERAL DUTIES AND TASKS : 3 - 6 years As discussed, before scheduling technical discussion please have a word with candidate to confirm whether they are willing to support both development and TDM (Test data provisioning) activity. What development mean: Anything which is related to development activity aligning to their respective role(Ex., MF Developer Developing JCL s, ability to write code in COBOL etc.,) What TDM Support mean: TDM acronym Test data management When there is no development requirement comes in for some of sprint, candidate have to spend in work effort in addressing data provisioning which includes mining the data from Mainframe or Oracle Db s. 6 -9 Years Mainframe skills COBOL, VSAM, DB2, JCL,IMS DB/DC, Control-M, Abend-aid, Xpeditor,File-aid,Endeavor Strong planning, organizational and interpersonal skills required, Good Attitude and good Team spirit. Extensive experience in both Waterfall and Agile (Scrum, Kanban), Safe agile US Healthcare domain experience preferred Certifications Good to have any related to Healthcare or Testing Skills & Competentices: Extensively hands-on experience in mainframe system technologies e 365 / SharePoint online , Hands on experience 3+ years of relevant experience in SharePoint with minerience on office 365 / SharePoint online , Hands on experience in coding using Angular, HTML, JavaScript, CSS, React JS, SPFx, and RES
+
+--------------------------------------------
+JD-28
+Source- Google search
+Mainframe Developer:
+Your Role and Responsibilities
+
+The mainframe technology is one of the most reliable in the World. Now in the Cloud era IBM offers modernization of the applications for the hybrid clouds, leveraging a marriage stability of mainframe with accessibility of the cloud.
+
+Have you ever thought about assisting IT development teams to fight disruption and innovate faster, using agile practices to deliver hybrid applications via an automated pipeline?
+
+As a #DevOps zSolutions Delivery Consultant, you will learn and experience how we apply technical expertise to ensure world-class delivery using consultative skills such as problem-solving / hypothesis-based methodologies, communication, and service orientation skills. As a member of IBM Technology Expert Labs, Global Delivery Center #GDC you will be client focused, courageous, pragmatic, and technical to optimize and trailblaze new solutions that address real business challenges. 
+
+To help achieve this win-win outcome, a 'day-in-the-life' in this role may include, but not be limited to…
+• Working under general supervision you will be understanding clients' main challenges and developing solutions that help them transform mission-critical IBM Z applications for hybrid cloud environments with stability, security, and agility.
+• Participating in planning, installing, configuring, verifying, and migrating IBM Z DevOps solutions that uses robust toolsets to develop and maintain z/OS applications.
+• Ensuring accurate documentation of and delivery to the project scope and timeline alongside adherence to the zDevOps products’ implementation methodologies.
+• Demonstrating a natural bias towards self-motivation, curiosity, and initiative in addition to navigating data and people to find answers and present solutions.
+• Strong collaboration and communication skills as you work across the client, partner, and IBM team.
+• Participating in technical solution workshops.
+
+Joining the IBM Technology Expert Labs teams means you'll have a career delivering world-class services for our clients. As the ultimate expert in IBM products, you'll bring together all the necessary technology and services to help customers solve their most challenging problems. Working in IBM Technology Expert Labs means accelerating the time to value confidently and ensuring speed and insight while our clients focus on what they do best—running and growing their business. 
+
+Excellent onboarding and industry-leading learning culture will set you up for a positive impact, while advancing your career. Our culture is collaborative and experiential. As part of a team, you will be surrounded by bright minds and keen co-creators—always willing to help and be helped—as you apply passion to work that will positively impact the world around us.
+
+Required Technical and Professional Expertise
+• BE/BTech in Computer Science, Engineering, or equivalent experience in Computer Science/Information Systems/Engineering.
+• Hands-on exposure to real-world application of computer science, information systems or engineering concepts
+• Excellent communication and presentation skills that are engaging, compelling, and influential.
+• Technical Expertise in Mainframe System Software on z/OS, including deployment of software solutions for IBM Z, LinuxONE and associated operating systems and virtualization software including z/OS or Linux on Z.
+• Technical Expertise with automation, containerization, orchestration, monitoring, analytics, and visualization DevOps tools.
+• Exposure to DevOps solutions including IBM Z and open-source products.
+• Ability to work independently.
+• 1+ years of experience with IBM Z
+• 1+ years of solution consulting or relevant industry experience.
+
+Preferred Technical And Professional Expertise
+• Familiarity with installation and configuration of IBM Z products.
+• Familiarity with Git migrations.
+• Familiarity with the following products will be highly regarded: Developer for z/OS (IDz), Enterprise Edition (IDzEE), Application Delivery Foundation for z/OS (ADFz), Application Discovery and Delivery Intelligence (ADDI), IBM Z Development and Test (ZD&T) and IBM Virtual Dev and Test for z/OS (ZVDT)
+• Exposure to CI/CD
+• Technical expertise with COBOL and JAVA coding
+• Experience with delivery of training.
+• In addition to the above experience, the ideal candidate will have exceptional interpersonal and communication skills.
+• Strong analytical and problem-solving skills with excellent attention to detail.
+• Dynamic team player who is comfortable working in a small, but rapidly evolving environment.
+
+--------------------------------------------
+JD-29
+Source- Google search
+Mainframe Developer:
+Complete JD:
+
+Mainframe Sr. Developer Job Description,
+
+• Mainframe Developement with strong experience in P&C Insurance domain
+
+• 5+ years prior experience of requirements gathering and analysis
+
+• Should have strong knowledge of Insurance policy systems
+
+Essential Skills & Qualifications
+
+• Very strong knowledge in Mainframe skills like COBOL; JCL; DB2; CICS; Micro Focus, VSAM; Xpeditor; File-ID
+
+• Prior work experience in Protect / Huon knowledge (Mandatory)
+
+• Comfortable communicating with senior business users and client stakeholders
+
+• Hand-on experience in the Mainframe Batch Jobs
+
+• Experience in development project life cycle
+
+• Prior Experience in deployment support activities
+
+• Micro focus enterprise development
+
+• Hands-on experience in API development experience
+
+• Knowledge of Agile delivery (Jira)
+
+• Working experience with distributed Agile environment
+
+Mainframe Sr. Tester Job Description
+
+• Mainframe Testing Applicaiton Manual testing with strong experience in P&C Insurance domain
+
+• 5+ years prior experience of requirements gathering and analysis
+
+• Should have strong knowledge of Insurance policy systems.
+
+--------------------------------------------
+JD-30
+Source- Google search
+Mainframe Developer:
+JD
+
+COBOL, CICS, DB2, SQL development, Stored Pricedures ; Secondary - Unix, Scripting, Nice to have - Any other database, ETL Data Discovery Techniques is added advantage
+
+--------------------------------------------
+JD-31
+Source- Google search
+Mainframe Developer:
+Job Duties AND RESPONSIBILITIES
+
+Perform standard system programming activities like configuration, installation & maintenance using SMP/E, and vendor software installations in the mainframe environment.
+
+Support other team: storage management, performance tuning, capacity planning, security, networking, and operating procedures from zOS perspective.
+
+Work with Mainframe System Programmers staff across tracks to enhance the mainframe environment.
+
+Participate in software(ISVs and zOS) deployments and various support functions as defined by the department manager.
+
+Possess interpersonal skills needed to foster good relations with business and development users.
+
+Assist team members to solve problems, make innovative improvements and make decisions.
+
+Identify and implement system and process improvements in the z/OS environment Work with
+
+application support teams and other internal customers to facilitate business initiatives.
+
+Review and Approve documentation of system software products including usage instructions, configuration notes, test plans, details of customizations necessary for our environment, as well as process and procedure guides.
+• Mandatory Skills:
+• Expertise in performing SMP/E and Non-SMPE Installation of ISV products)
+• Operating system z/OS upgrades workflow execution.
+• JES3/JES2 initialization
+• Sysplex and config management(good to have)
+• Fluent in JCL and IBM Utilities (IEBGENER/IEBCOPY/AMASPZAP/DFDSS)
+• ISPF/TSO and other basic
+• Basic knowledge of REXX/CLIST
+• Designing project plan(upgrades, maintenance, decom) with task list for all stakeholders and communicating the timelines with delivery and customer.
+• Formulate roadmaps with all pre-requisites to achieve an project completion.
+• Technically guide a team of highly motivated system programmers with technical working sessions.
+
+Required Skills
+• 6+ years of professional work experience as a Mainframe System Programmer in zOS & ISVs.
+• Possess the drive and self-motivation to sharpen current skills while also learning something new
+• Intermediate proficiency in MS Office (Excel, PowerPoint, Project, and Word) or MAC equivalent products
+• Possess a conceptual or practical understanding of or have a willingness to learn various technologies including but not limited to Mainframe, Open Systems, Networking, etc.
+• Ability to present ideas in a clear and concise manner - sharp communication skills both verbal and written
+• Decision making skills – know when to ask for guidance/help or when to escalate an issue
+• Possess strong analytical/problem-solving, organizational, and time management skills
+• Proactive attitude, dependable, and detailed-oriented
+• Ability to function in a fast-paced environment and manage the stress level
+• Ability to actively participate within a team and collaborate with others effectively
+• Ability to take constructive criticism or receive corrective instructions without offense
+
+--------------------------------------------
+JD-32
+Source- Google search
+Mainframe Developer:
+Job Description
+
+5+ years of recent mainframe development.
+
+Skills include COBOL, DB2 strong SQL, Native and Cobol Stored procedures, MQ and JCL/BATCH PROCESSING.
+
+Knowledge of CICS, Oracle and SAS is a plus.
+
+--------------------------------------------
+JD-33
+Source- Google search
+Mainframe Developer:
+Requirements
+• Proficient technical skills in the Mainframe platform, including COBOL, JCL, VSAM, CICS, EXPEDITOR, and FILE-AID.
+• Expertise with Policy Management System (PMS), specifically CSC Series II (CSC products)
+• Proven track record of working in both development and production support engagements.
+• Experience with Personal Lines LOB is preferred.
+• Additional knowledge of Assembler is considered an advantage
+
+
+--------------------------------------------
+JD-34   
+
+Source- Google search
+Mainframe Developer:    
+Must have Skills : COBOL, Job Control Language (JCL) Good to Have Skills : Job Requirements : Key Responsibilities : Respond to user/client escalations and engage functional escalation and Management escalation as required Manage requests incidents on ITSM tool Implement the changes as applicable, test the changes and handover to customer Manage the incidents, infra structure changes Required for easy transition into role and join on-call group which is high priority Work as a support lead and follow ITIL processes Works with the teams on upcoming features to identify risks and dependencies Technical Experience : Hands-On architecture design and development Hands-on experience on requirements gathering and implementing them according to business needs Hands on experience on Dell Clerity and having very good programming knowledge on TPE, Unikix Secure,Unikix Client ,Unipublish ,vCOBOL and Mainframes programming Own/Prepare Root Cause Analysis for Major incidents/problems and mitigations for the issues Hands -on experience on Shell scripting Python scripting Professional Attributes : -Good communiction skill, Leadership skills, team handling skills, analytical skills and good presentation skills and ability to work independently Educational Qualification: Additional Info : Cobol,TSO,JCL,Syncsort,Easytrieve,Bluezone TN3270,XCOM and Mainframes programming -24/7 support role
+
+--------------------------------------------
+JD-35
+Source- Google search
+
+Mainframe Developer:
+Skills Required:
+• MVS Commands
+• JES2 Commands
+• JES3 Commands
+• Awareness of SA Netview, GDPS
+
+Skills preferred: REXX, JCL
+
+--------------------------------------------
+
+JD-36
+Source- Google search
+Mainframe Developer:
+Job Description:
+• Mainframe support and development
+• Required skills (COBOL / JCL / DB2 / VSAM / IMS DB DC)
+• Nice to have skills SAS/ Informatica
+
+--------------------------------------------
+JD-37
+Source- Google search
+Mainframe Developer:
+Job Description:
+Job Description:
+• Deep knowledge Maintain and Support the Mainframe Network System Programmer and administration
+• Installing and configuration Network in system side and fine tunning Mainframe
+• Environmanets with debugging and problem analysis and Responsible for SAN and NAS storage administration, storage allocation, brocade SAN zoning and file shares management.
+• Hands on knowledge on different Hitachi storage arrays, NetApp storage arrays and brocade switches.
+• Storage administration and replication configuration.
+• Good knowledge of file shares like CIFS and NFS along with snapshots, retentions and snapmirror configuration.
+• Should handle hardware break fix tasks in collaboration with vendors.
+• Hands on knowledge on periodic code and patch upgrades on NetApp, Hitachi and Brocade san switches.
+• Hands on experience on all Hitachi, NetApp and Brocade management softwares and tools for monitoring and administration
+
+--------------------------------------------
+JD-38
+
+Source- Google search
+Mainframe Developer:
+
+Job Description
+• Hands-on expertise in COBOL, JCL, IMS DB/DC, DB2, VSAM and IBM Tools (Endeavour, File Manager, Fault Analyser, Debugger)
+• Good exposure to all phases of SDLC including Requirement Analysis, Design, Development and Deployment
+• Excellent communication skills
+• Should have very good analytical and problem-solving skills and should be able to work with very minimal guidance
+• Should be able to work independently
+• Health Insurance Claims experience is mandatory
+
+Responsibilities
+• Understand the business requirements, analyse them and get required clarity
+• Performing Impact analysis
+• Creating technical design
+• Coding and unit testing
+• Supporting Integration Testing and User Acceptance Testing
+• Providing Implementation Support
+
+Key Skills
+
+Mainframe development, IMS DB OR DB2 and Healthcare domain
+
+--------------------------------------------
+JD-39
+
+Source- Google search
+Mainframe Developer:
+It is expected that the role holder will most likely have the following qualifications and experience
+
+7+ years Technology experience
+
+5+ years in application development and / or support roles
+
+Software Delivery technical skills such as Cobol, JCL, Endevor, DFSort, TWS, DB2, IMSDB, MVS, MQ Series, SQL, Ezytrieve
+
+Service Management Tools Service Now, ITIL
+
+Workflow tools such as JIRA / Rally
+
+Application Knowledge: Cards Schemes (Visa, Mastercard, EFTPOS), Vison+, MBS, P1C.
+
+--------------------------------------------
+JD-40
+Source- Google search
+Desired Technical Skills
+• Skills in technical areas which support the deployment and integration of BMC based
+• Technical skills on at least one single product in the chosen product line – basic level
+• Skills in technical areas which support the deployment and integration of BMC based solutions, including (basic to intermediate level): Operating Systems, Networking, Virtualization
+
+
+--------------------------------------------
+JD-41
+Source- Google search
+Mainframe Developer:
+Job Description
+Responsibilities
+• Design, code, test, and debug mainframe applications using languages such as COBOL, PL/I, or Assembler.
+• Collaborate with business analysts, system analysts, and other stakeholders to gather and analyze requirements.
+• Develop technical specifications and documentation for mainframe applications.
+• Perform unit testing and integration testing to ensure the quality and reliability of developed code.
+• Identify and troubleshoot technical issues in mainframe applications and provide timely resolutions.
+• Participate in code reviews and contribute to the continuous improvement of coding standards and best practices.
+• Work closely with infrastructure teams to deploy and maintain mainframe applications in production environments.
+• Stay up-to-date with emerging technologies and trends in mainframe development to enhance the efficiency and effectiveness of development processes.
+• Provide technical support and assistance to other team members and end-users as needed.
+• Adhere to organizational policies and procedures, including security and compliance requirements.
+
+Requirements
+• Bachelor's degree in Computer Science, Information Technology, or related field.
+• Strong proficiency in mainframe programming languages such as COBOL, PL/I, or Assembler.
+• Experience with mainframe development tools and utilities, including JCL, VSAM, CICS, and IMS.
+• Knowledge of mainframe database systems such as DB2 or IMS DB.
+• Familiarity with version control systems such as Endevor or Panvalet.
+• Excellent problem-solving and analytical skills.
+• Strong communication and interpersonal skills.
+• Ability to work independently and collaboratively in a team environment.
+• Attention to detail and a commitment to delivering high-quality solutions.
+• Experience with Agile development methodologies is a plus.
+
+--------------------------------------------
+JD-42
+Source- Google search
+Mainframe Developer:
+Job Description
+Responsibilities And Duties
+• Install and configure Precisely software on IBM z systems and IBM I systems.
+• Educate customers and assist with presales demos and proof of concepts on Precisely offerings and technology as well as mainframe and IBM i operations.
+• Integrate and configure discovered data, event management rule and service mapping rules in ServiceNow.
+• Configure and develop visualizations and alerts for mainframe and IBM i log data in Splunk, Elastic/Kibana/Grafana, etc.
+• Collaborate with internal teams to assist and educate on challenges or needs to help evolve Precisely technology.
+• Scope and assist in the development of statement of works for professional services engagements.
+• Assist in the testing and data validation of DB2, VSAM, IMS and sequential data replication to cloud or distributed systems.
+• Install and configure software on Linux and Windows systems.
+• Configure IMS to DB2 data and data type mappings in Precisely technology.
+
+Requirements And Qualifications
+• Must have at least 15 years of experience in systems level administration and or programming on the IBM z platform in various technologies, like DB2, IMS, VSAM, CICS, MQ, etc.
+• Must be willing to work regularly up to 2pm EST US business hours.
+• Experience interpreting mainframe and IBM i machine data including SMF, RMF III, syslog, journal logs and other.
+• Administered DB2 and or IMS databases on the IBM z platform.
+• Experience with installing and troubleshooting mainframe and IBM I software.
+• Experience working on a distributed platform like Linux and Windows.
+• Experience with visualization technologies like Splunk or Kibana and CMDB technologies like ServiceNow. Experience in mainframe and IBM I systems analysis or performance and capacity analysis and planning.
+• Experience with programming or analysis in multiple of the following technologies:
+• SQL
+• JCL and REXX programming
+• C/C++
+• UNIX scripting
+• Regular expression processing
+• XML
+
+--------------------------------------------
+JD-43
+Source- Google search
+Mainframe Developer:
+Qualifications
+• Proficiency in mainframe testing tools and technologies
+• Strong knowledge of mainframe systems and applications
+• Experience in test planning, test case design, and test execution
+• Understanding of defect management processes
+• Excellent analytical and problem-solving skills
+• Ability to work collaboratively in a team environment
+• Good communication and documentation skills
+• Relevant certifications in software testing or quality assurance
+
+--------------------------------------------
+JD-44
+Source- Google search
+Mainframe Developer:
+Job Description
+Skill: Mainframe DB2 - Application Development
+
+Technical/Functional Skills
+
+COBOL, DB2, JCL, VSAM
+
+Must have design and development experience of mainframe applications.
+
+CICS, REXX, IMSDB, Working knowledge of Scheduling tools, Change Management tools like Change man, Endevor etc.
+
+Knowledge of debugging tools with good analytical skills.
+
+--------------------------------------------
+JD-45
+Source- Google search
+
+Mainframe Developer:
+Job Description
+Skill Set : Candidates should possess strong knowledge on Mainframe Operations, Batch monitoring, Console Operations And IPL Activities.
+
+Basic understanding and hands on experience on any of the Scheduling OPC / CA7/ ZEKE/ ESP/ Control-M tools for Batch Monitoring.
+
+Good knowledge in Console Operations and should work in a complex Sysplex environment.
+
+Able to provide support for System and online monitoring, batch ABEND & recovery and system restarts.
+
+Basic knowledge on MVS, VTAM, JCL, IPL, HMC Concepts, TSO JES2, CICS, TAPE, SDSF.
+
+
+--------------------------------------------
+JD-46
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Based on recruiter search
+**Key Responsibilities :**
+- Develop, test, and maintain COBOL and JCL programs for mainframe applications.
+- Collaborate with cross-functional teams to ensure successful implementation of solutions.
+- Participate in code reviews and provide feedback on best practices for coding standards.
+- Troubleshoot and resolve issues related to mainframe systems and databases.
+- Stay up-to-date with industry trends and emerging technologies related to mainframes and DBMS.
+
+
+**Job Requirements :**
+- Familiarity with DBMS such as IMS DB and VSAM.
+- Knowledge of Websphere and IBM Data Power is a plus.
+- Bachelor's degree in Computer Science or related field preferred, but equivalent experience will be considered.
+
+--------------------------------------------
+
+JD-47
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job description
+
+Hiring for Mainframe Developer with experience range 3 years & above
+
+Mandatory Skills: Mainframes, COBOL , JCL , VSAM
+
+Education: BE/B.Tech/MCA/M.Tech/MSc./MS
+
+Responsibilities
+
+A day in the life of an Infoscion
+
+As part of the Infosys consulting team, your primary role would be to actively aid the consulting team in different phases of the project including problem definition, effort estimation, diagnosis, solution generation and design and deployment
+
+You will explore the alternatives to the recommended solutions based on research that includes literature surveys, information available in public domains, vendor evaluation information, etc. and build POCs
+
+You will create requirement specifications from the business needs, define the to-be-processes and detailed functional designs based on requirements.
+
+You will support configuring solution requirements on the products; understand if any issues, diagnose the root-cause of such issues, seek clarifications, and then identify and shortlist solution alternatives
+
+You will also contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+
+Additional Skills: Mainframes, COBOL , JCL , VSAM
+
+
+--------------------------------------------
+JD-48
+Source- Naukri.com
+
+Mainframe Developer:
+Job description
+**Key Responsibilities :**
+- Develop and maintain applications using Java, Python, and C on mainframes.
+- Collaborate with cross-functional teams to ensure successful project delivery.
+- Participate in code reviews and provide feedback to improve overall application quality.
+- Troubleshoot and resolve issues related to mainframe systems and applications.
+- Stay up-to-date with industry trends and best practices in mainframe development.
+
+
+**Job Requirements :**
+- Bachelor's degree in Computer Science or related field preferred.
+- Proficient in Mainframe Assembler, JCL, REXX, and ZOS.
+- Familiarity with Linux and REST is a plus.
+- Knowledge of Ansible is a plus.
+- Ability to work collaboratively in a team environment.
+- Strong problem-solving skills and attention to detail.
+
+--------------------------------------------
+
+JD-49
+Source- Naukri.com
+Mainframe Developer:
+Job description
+escription: Mainframe Developer with EDI development skills [both mandatory]
+
+The Mainframe Developer would need to have at least 8+ years of experience.
+
+COBOL + DB2 development experience is preferred. Application development experience in Design, coding, testing and debugging with mainframe skills such as CICS, VSAM, COBOL, DB2, JCL, SCLM.
+
+Should be able to write queries to interact with DB2.
+
+Execute various forms of testing unit, system, regression, integration.
+
+Should have knowledge on promoting code to production using any of the tools, good to have SCLM and IN-SYNCH.
+
+Manages all aspects of implementation planning & coordination
+
+Ability to provide and implement technical solutions to a wide range of problems.
+
+Experience in fixing job abends and working on minor enhancements.
+
+Develop detailed plans and accurate estimates for the design, build, implement the minor enhancements.
+
+Should be willing to learn new technologies and collaborate with the team.
+
+Hands on experience on IBM Sterling Integrator version 5.2.6 or above (Preferred not mandatory).
+
+Knowledge and experience in developing, maintaining, supporting, and monitoring of EDI Mappings.
+
+Good Knowledge and hands on experience in business process development.
+
+Good exposure on map development (X12, EDIFACT, XML, cXML, CSV, Flat files).
+
+Good experience with various file formats like ANSI X12, EDIFACT, XML, cXML, CSV, Flat files.
+
+Proficiency in DB2+SQL, XML, XSLT, Web services, APIs, FTP/SFTP, Java and JavaScript.
+
+--------------------------------------------
+JD-50
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Competencies (Technical)
+
+Mandate Skills
+
+Extensive experience in Cobol, IMS, JCL, MQ Series, DB2, File Aid, Spufi, ISPF, MQ Series and other utilities
+Very Strong analytical abilities
+
+--------------------------------------------
+JD-51
+Source- Naukri.com
+Mainframe Developer:
+Extensive experience in Cobol, IMS, JCL, MQ Series, DB2, File Aid, Spufi, ISPF, MQ
+
+Series and other utilities
+
+--------------------------------------------
+JD-52
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Experience Required : Minimum 6 years of Core Mainframe Development is must.
+Experience Preferred : Experience in Automobile, Manufacturing Industry is preferred.
+What you ll be able to do:
+As a Mainframe programmer, ensure quick turnaround in identifying application issues, Job Abends and provide timely solutions.
+Develop, code, document and execute Unit tests, System integration Testing , User acceptance tests (UAT) and deploy the code.
+Must be capable of developing new Mainframe solutions for various requirements, enhancements, features for existing and new applications.
+Develop detailed plans and accurate estimates for completion of build, system testing and implementation phases of project.
+Transform business function requirements into technical program specifications to Code, Test and Debug programs.
+Knowledge of Perform performance tuning to improve the performance over multiple functions.
+Engage other technical team Anchors/members in the design, delivery, and deployment of solutions.
+Ensure integration system activities including monitoring the technical architecture (particularly scalability, availability, and archiving) meet all SLAs.
+Resolve operational Incidents quickly, provide support to during change windows as well as on call support as required by the team.
+Must have an idea of conducting Disaster recovery (DR) test of Mainframe applications and other operational tasks.
+Essential Skills/Requirement :
+Strong technical skills in Mainframe Technologies i,e COBOL, JCL, DB2, IMS-DC, VSAM is must.
+Must have hands-on experience in Endeavor, SPUFI and File Manager.
+Resource should have hands-on Coding experience in mainframe technologies and should be able to provide quick break fix and provide solutions.
+Must have hands on knowledge on SQL Database .
+Good understanding about Solutions Architect Framework & Security and Controls.
+Good knowledge of Agile Central/Rally Backlog will be a plus.
+Must have good communication skills, A team player with can do attitude.
+Must be flexible with Shift timings (2pm-11pm).
+Work on weekends during Production deployment (if any) and to support Critical and High Priority Incident (S1/S2) - If any.
+Desirable Preferred Skills:
+Knowledge of Teradata, GCP Big Query
+An exposure to Cloud migrations (PCF/GCP/AWS/Azure etc).
+Good to have knowledge on FOCUS DB & willing to learn new technologies.
+
+
+--------------------------------------------
+JD-53
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job description
+As a CICS System Programmer, candidate will be part of a Global team responsible for building, configuring, and maintaining the Banks mainframe systems availability, efficiency, and resilience, underpinned by the architectural principle of cloned infrastructure, system configurations, applications. Key Responsibilities - • Perform mainframe CICS software upgrades coupled with administration and tuning to support mainframe environments. Current version is CICS 5.6. • Provide high degree of technical support (24*7) to reduce the likelihood of significant service outage or disaster. • Analyse new versions of CICS for functionality improving systems performance and reduce cost. • Tracking and analyzing performance and resource utilization of CICS systems • Recommend changes, upgrades, and enhancements based on the technical analysis. • Perform problem diagnostics and resolutions as well. • Participate in incident and problem management activities related to applications and CICS. • Encourage and ensure collaboration across functional users and vendors to provide guidance and manage different tasks with a can-do attitude. • Execute project and internal initiative responsibilities as assigned or delegated. • Walking ahead by being enthusiastic and responsible for strengthening and developing system skills. • Develop and maintain operational documentation, best practices, and run books for the operational platform. • Upskill junior systems programmers.
+
+
+Primary Skills:
+
+Have 10+ years of experience of installing and/or customizing mainframe CICS software in Large Data sharing environments.
+Have 5+ years of experience with CICSplex and CICS Explorer to manage CICS systems.
+Solid understanding of resource definitions and its dependencies. CF structures and its practical use in a business environment.
+Experience with Omegamon and Fault Analyzer along with basic dump analysis skills on IPCS.
+Experience in cloning and sunsetting CICS regions. • Basic understanding of CICS security with RACF.
+Exposure to working with SMF 110 records and its practical application in terms of problem determination.
+Strong problem determination skills in both system and application areas
+Proficient in working with high availability environment along with alignment to process (ITIL)
+Experience working with and maintaining other vendor tools for CICS as well as exposure to common z/OS tools like SDSF RMF etc.
+Experience with automating CICS events via CICSplex RTA and/or system automation tools on z/OS.
+
+Secondary Skills:
+
+Experience with design, configuration and supporting Application community running Critical / 24*7 applications. • Proficiency with debugging application abends to assist programmers refine code.
+
+Good to Have Skills:
+
+Programming skills - COBOL, PL/1, C, REXX, Assembler.
+Experience with basic aspects of MQ and DB2 administration and operations.
+
+--------------------------------------------
+JD-54
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job description
+Job Title- Application Developer (SAS / Mainframe) in Enterprise Services Risk Services Associate -
+
+Risk Services Team (Enterprise Services) (TDI- Private Bank-Products & Enterprises)
+
+
+Role Description:
+
+As a Senior Engineer you will also work together with business and operation units and bring development skills to enforce the development team within a Squad. You will extensively make use and apply Continuous Integration tools and practices in the context of Deutsche Banks digitalization journey.
+
+Your key responsibilities:
+
+Collaborate with business stakeholders to understand business requirements and translate them into analytical solutions using SAS.
+Clean, preprocess, and analyse large datasets using SAS programming techniques such as data step programming, PROC SQL, and SAS macros.
+Develop and maintain SAS code, scripts, and queries to automate data extraction, transformation, and reporting processes.
+Design and create visualizations, dashboards, and reports using SAS Visual Analytics to communicate insights and key findings to stakeholders.
+Perform statistical analysis, predictive modelling, and data mining using SAS to identify trends, patterns, and correlations in business data.Conduct ad-hoc analysis and data investigations to answer business questions and support decision-making.
+Collaborate with IT and other teams to integrate SAS analytics solutions with existing systems and processes.
+Stay current with industry trends and best practices in SAS analytics and data analysis techniques.
+Support for all activities associated with Project Lifecycle in different Phases.
+Shares regular project updates with the stakeholders and highlights the risk if any.
+Your skills and experience:
+
+Bachelor's degree in B.Tech/B.A ,Computer Science, Information Systems, Statistics, or related field.Proven experience as a SAS Business Analyst or similar role, with a minimum of 7 years of experience in data analysis and SAS programming.
+Proficiency in SAS programming language, including data step programming, PROC SQL, SAS macros, and SAS Visual Analytics.
+Should have good knowledge on SAS on mainframe including JCL.
+Strong analytical and problem-solving skills, with the ability to analyse complex datasets and derive actionable insights.
+Experience in statistical analysis, predictive modelling, and data visualization using SAS.
+Excellent communication and interpersonal skills, with the ability to effectively communicate technical concepts to non-technical stakeholders.
+Ability to work independently and collaboratively in a fast-paced environment with multiple stakeholders and competing priorities.
+Certification in SAS programming or SAS analytics (e.g., SAS Certified Base Programmer, SAS Certified Predictive Modeler) is a plus.
+
+--------------------------------------------
+JD-55
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Technical competency DB2, COBOL, JCL, VSAM, CICS.
+
+Minimum Hands on duration for Cobol/ DB2
+
+Ability to develop technical design from functional specifications
+
+Ability to do impact analysis for given functional / technical design
+
+Ability to create High level and low-level design / estimation
+
+Capability for Coding/Unit and Integration /system testing
+
+Ability to do code reviews and create test plan
+
+Good communication skills & client interaction experience would be a plus.
+
+Banking or Insurance domain knowledge would be helpful.
+
+
+
+Primary Skills
+Mainframe
+
+DB2
+
+COBOL
+
+CICS
+
+
+Secondary Skills
+Capability for Coding/Unit and Integration /system
+
+Ability to do code reviews and create test plan
+
+Banking or Insurance domain knowledge would be helpful.
+
+--------------------------------------------
+JD-56
+Source- Naukri.com
+Mainframe Developer:
+Job Description: Mainframe Developer
+
+
+COBOL, JCL,VSAM, IBM .
+Good communication skills.
+DB2 development and testing experience.
+Should have good troubleshooting skills and problem-solving skills.
+Understands Software Development Life cycle
+Should possess good Project Quality knowledge, Documentation Skills, Listening Skills, Questioning Skills, and Writing Skills. 
+
+--------------------------------------------
+JD-57
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job description
+Role & responsibilities
+
+Technical competency DB2, COBOL, JCL, VSAM, CICS.
+
+Minimum Hands on duration for Cobol/ DB2
+
+Ability to develop technical design from functional specifications
+
+Ability to do impact analysis for given functional / technical design
+
+Ability to create High level and low-level design / estimation
+
+Capability for Coding/Unit and Integration /system testing
+
+Ability to do code reviews and create test plan
+
+Good communication skills & client interaction experience would be a plus.
+
+Banking or Insurance domain knowledge would be helpful.
+
+--------------------------------------------
+
+JD-58
+
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job description
+At least 7+ years of software development experience.
+Profound knowledge in JCL, COBOL, VSAM, SQL and Mainframe DB2 is required.
+Profound Knowledge in Ezytrieve, REXX, File-Aid, File-Aid DB2, SPUFI.
+Strong interpersonal and analytical skills.
+Capable of coding, testing and implementing quality code with zero defects under tight timeframes.
+Must work well within a team in a fast-paced high performance organization
+
+
+--------------------------------------------
+JD-59
+Source- Naukri.com
+
+Mainframe Developer:
+Job description
+Role & responsibilities
+
+
+5+ Years experience on Mainframe Performance and Capacity
+System monitoring and performing health-checks using various tools like RMF, Omegamon ,SDSF
+Identifying any abnormalities in the system like high consumers, looping jobs or looping transactions
+Creating Monthly, Quarterly PCM report and presenting to the client
+Make code changes to automated jobs.
+Worked on Capacity planning for the LPAR decommission
+Identifying and analyzing system trends, workload, service class reports and finding its root cause
+Perform WLM changes based on changing workload behavior and demand
+Taking steps to avoid repeating Performance issues
+Supporting DR activities provided the PCM checkouts of the system performances
+Support during Major Projects, Datacenter Migration Projects
+
+
+--------------------------------------------
+JD-60
+
+Source- Naukri.com
+Mainframe Developer:
+Job description
+Job Description: We are seeking a skilled Mainframe Development Engineer to join our dynamic team. As a Mainframe Development Engineer, you will be responsible for designing, coding, testing, and maintaining mainframe applications using COBOL and DB2 technologies. Your role will involve collaborating with cross-functional teams to deliver high-quality solutions within the Agile development framework. Additionally, you will actively participate in the DevOps practices to ensure seamless integration and deployment of mainframe applications. If you have a passion for mainframe development, a strong understanding of Agile processes, and proficiency in COBOL and DB2, we encourage you to apply and become a key contributor to our innovative projects.
+
+Key Responsibilities:
+
+Designing, coding, and testing mainframe applications using COBOL and DB2.
+Collaborating with business analysts, system architects, and other stakeholders to understand requirements and translate them into technical solutions.
+Participating in Agile ceremonies such as sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+Writing clean, efficient, and maintainable code following best practices and coding standards.
+Conducting unit testing and integration testing to ensure software quality and reliability.
+Utilizing DevOps tools and practices for continuous integration and deployment of mainframe applications.
+Troubleshooting and resolving technical issues in mainframe applications.
+Keeping abreast of industry trends and advancements in mainframe development technologies.
+Requirements:
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Proven experience in mainframe development using COBOL and DB2.
+Strong understanding of Agile methodologies and principles.
+Experience with mainframe testing techniques and tools.
+Familiarity with DevOps practices and tools for mainframe development.
+Excellent problem-solving and troubleshooting skills.
+Ability to work collaboratively in a team environment.
+Effective communication skills and ability to articulate technical concepts to non-technical stakeholders.
+Continuous learner with a passion for exploring new technologies and best practices in mainframe development.

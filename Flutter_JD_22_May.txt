@@ -1,0 +1,1568 @@
+Jod description for the FLutter developer
+-------------------------------------------------------------------------
+JD- 1
+
+Source - LinkedIn
+
+Job Description:
+Job Responsibilities
+
+Design and develop high-volume, low-latency applications and delivering high-availability and performance
+Participating in meetings as per project requirements
+Create well designed, testable, efficient code
+Participate in all phases of the development life cycle
+Assist in the preparation and production of releases of software components
+Ensure designs are in compliance with specifications
+Investigate alternatives and technologies and present them for architectural review, in order to support continuous improvement
+Collaborate with cross-functional teams to define, design, and ship new features
+Work on bug fixing and improving overall application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+
+Mandatory Requirements
+
+Strong development skills with verifiable past work in Flutter
+Proficient experience working with Dart and various Firebase capabilities.
+Past experience working with API management and client integration.
+A strong understanding of State Management, managing async data streams, and familiarity with design principles.
+Ability to transform complex requirements to clear, time-oriented specifications.
+Good knowledge of fundamental design principles behind a scalable application
+Up to date with latest trends, techniques, and technologies
+
+Preferred Requirements
+
+Previous Flutter apps that are published and available on the Play/App Store.
+Proficient understanding of cross-platform compatibility and UI consistency in various device types.
+Familiarity with Javascript/Typescript.
+Knowledge of Android and iOS programming.
+Proactive approach to build better in-house coding practices and systems.
+Be highly autonomous in solving complex tasks, issues and platform challenges.
+Experience in a B2C startup environment and Product development
+
+Qualities
+
+Strong organizational skills
+Great interpersonal and communication skills
+Good time-management skills
+Passion for results and excellence
+Must be able to get the job done by working collaboratively with others
+Proactive problem resolution
+
+Eligibility Criteria
+
+Official Notice Period or Last working day of lesser than 15 days
+Minimum 2 years of experience in flutter development and in position of a Flutter Developer or a similar role
+Prior experience in a B2C product based startup and building products from scratch is a must
+Well-versed with development using Flutter, Firebase Capabilities and Dart
+Willing to work in a startup
+Bachelor's/ Master's or equivalent degree in Computer Science/IT Engineering or related field
+-------------------------------------------------------------------------
+JD- 2
+
+Source - LinkedIn
+
+Job Description:
+Create multi-platform apps for iOS and Android using Google's Flutter development framework.
+
+Must have proper knowledge of Flutter development.
+
+Experience building a moderately complex Android app with knowledge of dart.
+
+Willing to work with cross-platform frameworks.
+
+Willing to learn and work on different mobile platforms/frameworks when needed
+-------------------------------------------------------------------------
+JD- 3
+
+Source - LinkedIn
+
+Job Description:
+Develop mobile and web apps using Google's Flutter development framework and Dart with a modular approach and clean code with the best coding practices.
+Architect, build and maintain excellent Flutter applications with clean code.
+Implement pixel perfect UI's that match designs.
+Implement clean, modern, smooth animations and transitions that provide an excellent user experience.
+Integrate third-party API's.
+Release applications to the Apple and Google Play stores.
+Work as part of a small team, which will include other Mobile and Web developers, Node.js developers, a technical lead, project manager, QA professional, and a designer.
+Complete two-week sprints, and participate in sprint retrospectives and daily standups.
+Work with modern tools including Jira, Slack, GitHub, Google Docs, etc. Skills:- Flutter, Android Development and iOS App Development
+-------------------------------------------------------------------------
+JD- 4
+
+Source - LinkedIn
+
+Job Description:
+Design and Build sophisticated and highly scalable apps using Flutter.
+Build custom packages in Flutter using the functionalities and APIs already available in native Android and IOS.
+Translate and Build the designs and Wireframes into hight quality responsive UI code.
+Write efficient queries for core Data.
+Use of Model-View-Controller ( MVC) and Model-View-ViewModel-Controller (MVVM) as it relates to designing, developing architecture, and developing maintainable, testable, and functional software that meets product requirements.
+Explore feasible architectures for implementing new features.
+Resolve any problems existing in the system and suggest and add new features in the complete system.
+Suggest space and time-efficient Data Structures.
+Follow the best practices while developing the app and also keeping everything structured and well documented.
+Use CI/CD for smooth deployment.
+Document the project and code efficiently.
+Manage the code and project on Git in order to keep in sync with other team members and managers.
+Communicate with the Project Manager regarding the status of projects and suggest appropriate deadlines for new functionalities.
+Ensure security guidelines are always followed while developing the app.
+Validate the cloud system to ensure any new changes do not compromise the security of the backend server.
+Suggest new features and/or enhancements.
+Consulting with our customer-facing representatives about software system design and maintenance.
+Interact with the Clinical Specialists and Product Manager to help understand end-user feedback.
+Maintaining software through product lifecycle including design, development, verification, and bug fixes.
+Connect regularly with the Quality Assurance Specialist to deliver a stable app.
+Resolve all the bugs reported by the Quality Assurance Specialist in a timely manner.
+Perform time profiling and memory leaks assessment.
+Execute app verification protocol.
+Write tests for the App.
+
+Must-Have
+
+Flutter: To build cross-platform mobile apps for Android, IOS, and Web. This should include making responsive UIs to efficiently query data and also manage states in an optimized manner.
+Native Android and IOS: To build custom Flutter Packages.
+Firebase: Should have experience with Cloud Firestore, Push Notifications, Cloud Functions, and Analytics.
+Adobe XD: Should know how to use Adobe XD to use the design file and use it to build the app.
+Git: To manage and collaborate in different projects with the rest of the team.
+
+Good To Have
+
+Angular
+Bootstrap
+JavaScript
+-------------------------------------------------------------------------
+JD- 5
+
+Source - LinkedIn
+
+Job Description:
+B.tech /B.S. or M.tech/M.S. in Computer Science, IT or related field.
+Experience 5 to 7 years
+Should be proficient in Python.
+Experience with the Django framework
+Good in backend programming. Creating APIs, ETLs, etc.
+Good in data structures
+Exposure of cloud deployment is a plus.
+Strong in software development processes (design patterns, documentation, unit testing, architecture exposure, etc)
+Understanding of Algorithms and Data structures
+Experience in Requirement/Design/Code Review & Inspections
+Hands-on experience with using Git (handling branching and merging)
+Outstanding interpersonal and communication skills
+
+Skills: flutter,flutter,developer tools
+-------------------------------------------------------------------------
+JD- 6
+
+Source - LinkedIn
+
+Job Description:
+Must have:-
+
+Flutter
+Dart
+Mobile App Development
+Rest Api.
+3rd Party Libraries.
+Agile Methodology.
+
+﻿
+
+Primary Technical Skills / Must Have: -
+
+Bachelor's or Master's degree in Computer Science or related field with 3 years of experience.
+Proven experience in developing mobile applications using Flutter framework
+Proficient in Dart programming language
+Strong understanding of mobile app development processes, including design, development, and deployment
+Experience with RESTful APIs, 3rd party libraries and APIs
+Knowledge of agile software development methodologies
+Good communication and interpersonal skills
+Ability to work independently and as part of a team
+
+Role:-
+
+Participate in all aspects of the SDLC (analysis, design, coding testing & implementation).
+Follow and improve existing coding standards and best practices.
+Capability to approach problems as challenges and deal with them positively and swiftly.
+
+Responsibilities:-
+
+Bachelor's or Master's degree in Computer Science or related field with 3 years of experience.
+Proven experience in developing mobile applications using Flutter framework
+Proficient in Dart programming language
+Strong understanding of mobile app development processes, including design, development, and deployment.
+Experience with RESTful APIs, 3rd party libraries and APIs.
+Knowledge of agile software development methodologies.
+Good communication and interpersonal skills.
+
+Skills: app,api,3rd party libraries,restful apis,mobile app development,mobile,agile methodology,dart,flutter
+-------------------------------------------------------------------------
+JD- 7
+
+Source - LinkedIn
+
+Job Description:
+Qualifications And Skills
+
+Solid experience in mobile app development using Flutter framework
+Proficient in Dart programming language
+Familiarity with native build tools, like Android Studio and Xcode
+Experience with third-party libraries and APIs
+Knowledge of Git version control system
+Understanding of agile development methodologies
+Excellent problem-solving and debugging skills
+Strong communication and teamwork skills
+Ability to work independently and meet deadlines
+Bachelor's degree in Computer Science or a related field is preferred
+
+Roles And Responsibilities
+
+Develop mobile applications using Flutter framework
+Collaborate with cross-functional teams to define, design, and ship new features
+Maintain code quality, organization, and automatization
+Troubleshoot and debug issues to ensure optimal performance
+Unit-test code for robustness and reliability
+Ensure the best possible performance, quality, and responsiveness of the applications
+Stay up-to-date with emerging technologies and trends in mobile development
+-------------------------------------------------------------------------
+JD- 8
+
+Source - LinkedIn
+
+Job Description:
+Design and develop high-quality, responsive, and user-friendly mobile applications using Flutter framework.
+Collaborate with cross-functional teams to identify and prioritize application requirements.
+Ensure the performance, quality, and responsiveness of applications.
+Troubleshoot and debug issues that arise during development, testing, and production.
+Write clean, maintainable, and scalable code.
+Integrate third-party libraries and APIs as needed.
+Stay up-to-date with emerging trends and technologies in mobile development.
+
+Requirements
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+Proven experience as a Flutter Developer or Mobile Application Developer.
+Strong knowledge of Dart programming language and Flutter framework.
+Experience with integrating RESTful APIs, third-party libraries, and services.
+Familiarity with Agile methodologies and software development best practices.
+Good understanding of software design patterns, data structures, and algorithms.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+-------------------------------------------------------------------------
+JD- 9
+
+Source - LinkedIn
+
+Job Description:
+Build and ship apps:Use a single codebase to build and ship apps for devices like iOS and Android
+
+Write code:Write readable code using the Dart programming language
+
+Develop user-friendly apps:Understand UI design concepts and develop user-friendly mobile applications using Flutter
+
+Build REST APIs:Build REST APIs using Node
+
+Develop Flutter apps:Use advanced strategies like state management, API integrations, and scalable databases to develop Flutter apps
+
+Work with Socket.io:Work with the Socket.io library for Flutter and Node
+
+Develop cryptographic functions:Learn and develop cryptographic functions for product security
+
+Manage product workloads:Manage product workloads on public/private cloud
+
+Skills Required
+
+Flutter Developer with knowledge of MS sql and Node js
+-------------------------------------------------------------------------
+JD- 10
+
+Source - LinkedIn
+
+Job Description:
+Experience with Flutter SDK and Dart programming language.
+Strong knowledge on Flutter widgets like Cupertino for iOS and Material Components for Android.
+Knowledge on building flutter module and flutter plug-ins.
+Experience working on mobile platform like Android/iOS is required.
+Good knowledge in OOPS concepts and JAVA.
+Experienced in building mobile applications that utilizes web services (SOAP / REST / JSON / GSON).
+Worked on Dart.js
+Experience with third-party libraries and APIs.
+Good knowledge of database (MySQL, SQLlite, RealM).
+Knowledge on play-store publishing & distribution.
+Identify problems and bottlenecks before hand and report to the concerned personnel.
+Strong knowledge on mobile app development cycle and design principles.
+Good understanding of Android/iOS design guidelines, SDK and excellent JavaScript skills.
+Knowledge and experience with UX/UI design skills.
+
+Responsibilities
+
+Design and build advanced applications for the Flutter platform
+Collaborate with cross-functional teams to define, design, and ship new features
+Work with outside data sources and APIs
+Unit-test code for robustness, including edge cases, usability, and general reliability
+Work on bug fixing and improving application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+
+Skills:- Flutter, Android Development and DART
+-------------------------------------------------------------------------
+JD- 11
+
+Source - LinkedIn
+
+Job Description:
+At least 3 years of software development experience Preferred between 3 to 5 years.
+
+Good hold designing and building IOS mobile applications
+
+Build and publish applications in app store
+
+Implement new technologies to maximize application performance
+
+iOS
+
+Excellent knowledge of Flutter using Dart Language
+Very good experience with Objective-C and iOS SDK
+Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text
+PWA development experience
+Push Notifications & Toast & other libraries for user experience
+Good hands-on knowledge of Emulators
+Hybrid app development in Flutter a must
+Existing applications on play store (preferably Fintech/Neobanking) would be great
+Expert in APIs (Restful), need to be able to integrate external applications at quick pace. Also manage internal applications and related APIs. Provide support to external partners when integrating our APIs
+UI/UX concepts and ability to thinks from design perspective
+Location and Map APIs
+ASO experience preferred
+
+Besides above technical skills/expertise, the candidate
+
+Should be a clear and effective communicator
+Should be able to manage work systematically and identify priorities for meeting deadlines
+Should be proactive in identifying problems and suggesting solutions
+
+Skills: core text,ios sdk,dart language,aso,flutter,ui/ux concepts,pwa development,emulators,core animation,apis,core data,core graphics,application,ios,objective-c,push notifications,restful
+-------------------------------------------------------------------------
+JD- 12
+
+Source - LinkedIn
+
+Job Description:
+Mobile App Development: Design and implement high-performance, reusable, and reliable mobile applications.
+Clean Code: Write clean, efficient, and maintainable code following best practices and coding standards.
+API Integration: Integrate with various APIs to fetch and update data in the mobile application.
+State Management: Implement state management using Provider to ensure efficient data flow and application performance.
+Firebase Integration: Utilize Firebase services for features such as authentication, real-time databases, and cloud messaging.
+MVC Architecture Pattern: Implement the Model-View-Controller (MVC) architectural pattern to ensure a scalable and maintainable codebase.
+Testing: Conduct thorough testing of the application, including unit testing and integration testing, to ensure a robust and bug-free product.
+Collaboration: Collaborate with cross-functional teams, including designers and product managers, to deliver high-quality solutions.
+Documentation: Create and maintain comprehensive project documentation, including design documents, code documentation, and release notes.
+
+Requirements
+
+This position is for the Nagpur office, candidates willing to relocate to Nagpur may only apply.
+Proven experience as a Flutter Developer with a strong portfolio of mobile applications.
+Solid understanding of clean code principles and best practices.
+Experience with API integration and working with RESTful APIs.
+Proficiency in state management using Provider.
+Hands-on experience with Firebase services, including authentication and real-time databases.
+Familiarity with MVC architecture pattern.
+Strong problem-solving skills and attention to detail.
+Excellent communication and collaboration skills.
+Ability to work independently and as part of a team in a fast-paced environment.
+Experience with deployment processes and tools is a plus.
+-------------------------------------------------------------------------
+JD- 13
+
+Source - LinkedIn
+
+Job Description:
+Design and Build sophisticated and highly scalable apps using flutter.
+Build custom packages in Flutter using the functionalities and APIs already available in native Android and IOS.
+Translate and Build the designs and Wireframes into high quality responsive UI code.
+Write efficient queries for core Data.
+Explore feasible architectures for implementing new features.
+Resolve any problems existing in the system and suggest and add new features in the complete system.
+Suggest space and time efficient Data Structures.
+Follow the best practices while developing the app and also keeping everything structured and well documented.
+Document the project and code efficiently.
+Manage the code and project on Git in order to keep in sync with other team members and managers.
+Interact with the Product Manager to help understand end-user feedback.
+Ensure security guidelines are always followed while developing the app.
+Suggest new features and/or enhancements.
+Maintain software through product lifecycle including design, development, verification and bug fixes.
+Resolve all the bugs in a timely manner.
+Execute app verification protocol.
+Follow company policies and quality procedures to ensure quality product deliverables.
+If you have experience with Bluetooth Low Energy (BLE) based devices and related applications please highlight the same in your resume
+
+Skills:- Flutter, Android Development, iOS App Development and Mobile App Development
+-------------------------------------------------------------------------
+JD- 14
+
+Source - LinkedIn
+
+Job Description:
+design and develop high-volume, low-latency applications for mission-critical systems, delivering high-availability and performance
+contribute in all phases of the development lifecycle concept, design, build, deploy, test, release to app stores and support.
+familiarity with ios integration with flutter
+
+Key Skills : basics of java ,oops concepts, flutter, dart programing.
+-------------------------------------------------------------------------
+JD- 15
+
+Source - LinkedIn
+
+Job Description:
+4 to 6 years of experience in mobile app development
+Strong proficiency in Flutter and Dart programming languages
+Experience with native Android and/or iOS development
+Knowledge of RESTful APIs and integration with backend services
+Familiarity with cloud message APIs and push notifications
+Understanding of mobile UI/UX design principles
+Solid understanding of the full mobile development life cycle
+Excellent problem-solving and debugging skills
+Strong communication and teamwork skills
+-------------------------------------------------------------------------
+JD- 16
+
+Source - LinkedIn
+
+Job Description:
+Bachelor's degree in Computer Science or a related field
+1 to 3 years of experience in developing mobile applications using Flutter
+Strong knowledge of Flutter framework, Dart programming language, and mobile app development best practices
+Experience with RESTful APIs and integration of third-party libraries
+Familiarity with version control systems, such as Git
+Excellent problem-solving and communication skills
+
+-------------------------------------------------------------------------
+JD- 17
+
+Source - LinkedIn
+
+Job Description:
+Design and Build sophisticated and highly scalable apps using Flutter.
+Build custom packages in Flutter using the functionalities and APIs already available in native Android and IOS.
+Translate and Build the designs and Wireframes into high quality responsive UI code.
+Explore feasible architectures for implementing new features.
+Resolve any problems existing in the system and suggest and add new features in the complete system.
+Suggest space and time efficient Data Structures.
+Follow the best practices while developing the app and also keeping everything structured and well documented.
+Use CI/CD for smooth deployment.
+Document the project and code efficiently.
+Manage the code and project on Git in order to keep in sync with other team members and managers.
+Ensure security guidelines are always followed while developing the app.
+Consulting with our customer facing representatives about software system design and maintenance.
+Perform time profiling and memory leaks assessment.
+-------------------------------------------------------------------------
+JD- 18
+
+Source - LinkedIn
+
+Job Description:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+
+2-4 years of experience in mobile development.
+
+Strong knowledge of Dart, Flutter for iOS and/or Android development.
+
+Experience with Flutter, is must and experience in React Native, or other cross-platform development frameworks. is a plus
+
+Knowledge of RESTful APIs, Git, and Agile development methodologies.
+
+Excellent problem-solving and debugging skills.
+
+Strong communication and collaboration skills.
+-------------------------------------------------------------------------
+JD- 19
+
+Source - LinkedIn
+
+Job Description:
+1-2 years of hands-on professional experience in working with remote data via REST and JSON
+
+Solid understanding of Flutter, Dart, Flutter UI and animations. Should have experience working with native technologies like Android, iOS Knowledge.
+
+Strong understanding of design patterns over and above MVP, MVVM, and MVC
+
+Demonstrated experience in building and managing production mobile apps.
+
+Experience with cross-platform technologies like ionic and React Native skills
+
+Experience with Agile development, scrum.
+
+Knowledge of GitHub vgera , rest apis vgera etc.
+-------------------------------------------------------------------------
+JD- 20
+
+Source - LinkedIn
+
+Job Description:
+Strong Experience in developing Mobile Application, minimum 4 appls that are available on AppStore and Play Store
+At least one Mobile app developed in the Flutter framework
+Experience working with REST API /.
+SQL server and SQL Lite experience
+Should expertise in Firebase
+Should expertise in Push Notifications
+Should have expertise in Google Maps Integration
+Experience in App Deployment / Publish in Google Play Store and Apple App Store.
+Good to have experience with Angular with Ionic framework and migration of old app to new technology
+-------------------------------------------------------------------------
+JD- 21
+
+Source - Indeed.com
+
+Job Description:
+A Bachelor's degree in Computer Science or a related field.
+
+Proficiency in the Flutter framework, with a solid understanding of its underlying architecture.
+
+Familiarity with fundamental mobile app development principles such as REST APIs, push notifications, and deployment strategies.
+
+Experience working with Git or similar version control systems.
+
+Strong analytical skills and a knack for problem-solving.
+
+Ability to thrive in a collaborative team environment.
+-------------------------------------------------------------------------
+JD- 22
+
+Source - Indeed.com
+
+Job Description:
+Responsibilities:
+
+Design and build advanced applications for the Flutter platform.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Working with external data sources and APIs.
+Unit-testing code for robustness, including edge cases, usability, and general reliability.
+Working on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Ensuring the best possible performance, quality, and responsiveness of applications.
+Maintaining code quality, organisation, and UX automation.
+Essential Knowledge & Experience :
+
+Proven experience or knowledge in Flutter development.
+Strong understanding of Dart programming language.
+Experience with state management solutions in Flutter (familiarity with GetX is a plus, but not mandatory).
+Experience with RESTful/GRPC APIs to connect Flutter applications to back-end services.
+Knowledge of other web technologies and UI/UX standards.
+Understanding of Apple’s/Google's design principles and interface guidelines.
+Experience with performance tuning, threading, and performance tuning.
+Familiarity with cloud message APIs and push notifications.
+Proficient understanding of code versioning tools, such as Git.
+Familiarity with continuous integration.
+Desirable knowledge & Experience:
+
+Experience with GetX state management is highly desirable.
+Knowledge of the mobile landscape, architectures, trends, and emerging technologies.
+Solid understanding of the full mobile development life cycle.
+-------------------------------------------------------------------------
+JD- 23
+
+Source - Indeed
+
+Job Description:
+Solid understanding of Flutter, Dart, Flutter UI and animations.
+
+Have two or more iOS/Android apps developed with Flutter. Either deployed on the AppStore/Google Play or available on Github;
+
+Should have experience working with native technologies Android Or iOS
+
+Knowledge and understanding of Firebase
+
+Experienced in working with remote data via REST and JSON
+
+Strong understanding of design patterns over and above MVP, MVVM, and MVC
+
+Demonstrated experience in building and managing production mobile apps.
+
+Experience with third-party libraries and APIs;
+
+Understanding of the Agile development life-cycle;
+
+Experience with automated testing and building;
+
+Experience with Git, Jenkins, or other version control tools;
+
+Ability to write readable code, create extensive documentation for existing code, and refactor the previously written code into readable state.
+
+Familiarity with SQL/NoSQL databases and their declarative query languages
+
+Responsibilities:
+
+Create multi-platform apps for iOS/Android using Flutter Development Framework
+
+Micro code enhancements within mobile platforms like android/iOS Flutter widgets for iOS and Android.
+
+Participation in the process of analysis, designing, implementation and testing of new apps
+-------------------------------------------------------------------------
+JD- 24
+
+Source - Indeed
+
+Job Description:
+Responsibilities:**
+
+- Develop and maintain mobile applications using Flutter framework
+
+- Collaborate with cross-functional teams to define, design, and ship new features
+
+- Write clean, maintainable, and efficient code
+
+- Troubleshoot and debug issues to ensure optimal performance and usability
+
+- Stay up-to-date with emerging technologies and trends in mobile development
+
+- Participate in code reviews and provide constructive feedback to team members
+
+- Work closely with designers to implement pixel-perfect UI designs
+
+**Requirements:**
+
+- Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience)
+
+- Proven experience developing mobile applications using Flutter framework
+
+- Solid understanding of Dart programming language
+
+- Experience with third-party libraries and APIs
+
+- Strong knowledge of mobile UI design principles and best practices
+
+- Familiarity with version control systems such as Git
+
+- Excellent problem-solving and communication skills
+
+- Ability to work effectively in a fast-paced, collaborative environment
+
+**Nice to Have:**
+
+- Experience with native Android or iOS development
+
+- Knowledge of Firebase or other backend services
+
+- Familiarity with agile development methodologies
+-------------------------------------------------------------------------
+JD- 25
+
+Source - Indeed
+
+Job Description:
+Design and develop high-quality mobile applications for Android and iOS platforms using Flutter framework.
+Collaborate with cross-functional teams, including designers and back-end developers to develop mobile applications that meet business requirements.
+Write clean, efficient, and maintainable code.
+Perform code reviews and ensure code quality.
+Participate in the full software development lifecycle from ideation to deployment.
+Continuously learn and stay up-to-date with the latest trends, techniques, and technologies in mobile application development.
+Requirements:
+
+Proven experience as a Flutter Developer.
+Strong understanding of Flutter framework, mobile application architecture, and design patterns.
+Experience with Dart programming language.
+Experience with mobile app development tools such as Android Studio, Xcode, etc.
+Strong problem-solving skills and attention to detail.
+Excellent communication and interpersonal skills.
+Ability to work in a team environment and collaborate with cross-functional teams.
+Bachelor's degree in Computer Science or related field is preferred.
+-------------------------------------------------------------------------
+JD- 26
+
+Source - Indeed
+
+Job Description:
+Experience in development of Android/iOS applications and have deployed them on Google Play/App Store.
+1+ years knowledge in mobile app development.
+In depth understanding of programming languages like Kotlin and Dart.
+Familiarity using version control tools like Git, Subversion etc. and IDEs like Android Studio, VS Code etc.
+Understanding of the Agile Software Development Life Cycle and been exposed to Scrum projects.
+Knowledge of Dart programming language, Rest APIs and integration of various APIs from third parties.
+Comfortable using test cases for debugging code, enhancing performance and reliability.
+-------------------------------------------------------------------------
+JD- 27
+
+Source - Indeed
+
+Job Description:
+Requirements:
+
+Solid understanding of the full mobile development life cycle.
+Experience with Flutter and Dart programming language.
+Experience with third-party libraries and APIs.
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
+Familiarity with cloud message APIs and push notifications.
+Proficient understanding of code versioning tools, such as Git.
+Knowledge of continuous integration.
+Ideal Candidate:
+
+Minimum of 3 years of experience in mobile software development.
+At least 1 year of experience developing with Flutter.
+Strong communication skills to effectively collaborate with designers and developers.
+Ability to work in a dynamic, fast-paced environment.
+Strong attention to detail in UX and interactions.
+A strong commitment to quality and efficiency.
+Flexibility and willingness to learn new technologies as needed.
+-------------------------------------------------------------------------
+JD- 28
+
+Source - Indeed
+
+Job Description:
+Responsibility
+
+Develop mobile applications using Flutter
+Test and deploy programs/ applications
+Collaborate with other departments (such as UI/UX, QA) to ensure timeliness and quality
+Assist team members in problem solving
+Qualification
+
+Any degree from a reputable university
+1 to 2 years of experience in mobile application architecture and feature development
+Expert in using mobile app libraries and SDKs
+Preferred skills
+
+Should have experience in developing mobile apps for Android and iOS.
+Knowledge of version control systems (e.g., Git, DevOps).
+Candidate will possess strong low-level programming skills and familiarity with languages such as Spring Boot, JAVA, or C.
+PostgreSQL database experience is must
+Excellent communication and problem solving skills.
+Key Skills:
+
+Flutter, Native Android/iOS, C, C++, Spring Boot, Java, java Script
+-------------------------------------------------------------------------
+JD- 29
+
+Source - Indeed
+
+Job Description:
+Key Responsibilities:
+
+Develop mobile applications for Android and iOS platforms using Flutter framework.
+Collaborate with cross-functional teams to define, design and ship new features.
+Write clean, efficient, and maintainable code in adherence to coding standards.
+Troubleshoot and debug issues to maintain application performance and stability.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Requirements:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Proven experience in mobile application development using Flutter framework.
+Strong understanding of Dart programming language and Flutter architecture.
+Proficiency in building responsive and adaptive user interfaces.
+Experience with RESTful APIs, third-party libraries, and cloud services integration.
+Solid understanding of mobile app design principles, patterns, and best practices.
+-------------------------------------------------------------------------
+JD- 30
+
+Source - Indeed
+
+Job Description:
+Responsibilities:
+
+Mobile Application Development:
+Design, develop, and maintain Android and iOS applications.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure the performance, quality, and responsiveness of applications.
+Front-end Development:
+Build intuitive and engaging user interfaces using modern frameworks and tools.
+Ensure the mobile applications are responsive and provide a seamless user experience across different devices.
+Back-end Development:
+Develop and maintain server-side logic, databases, and APIs to support mobile applications.
+Ensure the reliability and scalability of back-end services.
+Code Quality and Best Practices:
+Write clean, maintainable, and efficient code.
+Conduct code reviews and provide feedback to improve code quality.
+Follow best practices for software development and ensure compliance with coding standards.
+Troubleshooting and Debugging:
+Identify and fix bugs and performance issues.
+Optimize applications for maximum speed and scalability.
+Collaboration and Communication:
+Work closely with product managers, designers, and other stakeholders to understand requirements and deliver solutions that meet business needs.
+Communicate effectively with team members and stakeholders.
+Continuous Improvement:
+Stay updated with the latest industry trends and technologies.
+Continuously improve development processes and tools.
+Requirements:
+
+Education:
+Bachelor's degree in Computer Science, Engineering, or related field.
+Technical Skills:
+Proven experience in developing mobile applications for both Android and iOS platforms.
+Proficiency in Android development using Java or Kotlin.
+Proficiency in iOS development using Swift or Objective-C.
+Experience with front-end technologies such as HTML, CSS, and JavaScript.
+Strong knowledge of RESTful APIs and integration with mobile applications.
+Familiarity with version control systems such as Git.
+Understanding of mobile design principles and interface guidelines.
+Experience with cloud services and APIs (e.g., Firebase, AWS, Google Cloud).
+Soft Skills:
+Excellent problem-solving skills and attention to detail.
+Strong communication and interpersonal skills.
+Ability to work effectively in a team environment.
+Self-motivated and able to manage multiple tasks simultaneously.
+-------------------------------------------------------------------------
+JD- 31
+
+Source - Indeed
+
+Job Description:
+Job Overview
+
+We are seeking a talented Flutter Developer to join our team at Pragetx. As a Flutter Developer, you will be responsible for designing and implementing mobile applications using the Flutter framework. You will work closely with our development team to create high-quality, performant, and visually stunning applications that delight our users.
+Responsibilities
+
+Develop mobile applications for iOS and Android platforms using the Flutter framework.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Write clean, maintainable, and efficient code.
+Test and debug applications to ensure optimal performance and usability.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Work closely with designers to implement UI/UX designs that enhance user experience.
+Participate in code reviews to maintain code quality and ensure adherence to coding standards.
+Able to Handle a team of juniors, and also able to do client communication.
+Skill Required
+
+Proven experience developing mobile applications using Flutter.
+Strong understanding of Dart programming language and Flutter framework.
+Experience with third-party libraries and APIs.
+Familiarity with Agile development methodologies.
+Excellent problem-solving and communication skills.
+Ability to work effectively in a fast-paced, collaborative environment.
+Experienced into GetX and Bloc for state management.
+A passion for learning and staying updated on the latest technologies and trends in mobile development.
+-------------------------------------------------------------------------
+JD- 32
+
+Source - Indeed
+
+Job Description:
+Responsibilities:
+
+Mobile App Development: Design and build advanced applications for the Flutter platform.
+Collaboration: Work with cross-functional teams to define, design, and ship new features.
+Performance Optimization: Ensure the performance, quality, and responsiveness of applications.
+Bug Fixing: Identify and correct bottlenecks and fix bugs.
+Code Quality: Help maintain code quality, organization, and automation.
+UI/UX Implementation: Collaborate with UI/UX designers to translate design wireframes into high-quality code.
+Testing: Conduct thorough testing to identify and fix bugs, perform unit testing, and integration testing.
+API Integration: Integrate third-party APIs and services into Flutter applications.
+Documentation: Create and maintain comprehensive project documentation.
+Technical Support: Provide technical support and guidance to clients as needed.
+Qualifications:
+
+Proven experience as a Flutter developer with a strong portfolio of mobile applications.
+Proficiency in Flutter and Dart.
+Experience with RESTful APIs and third-party libraries and APIs.
+Solid understanding of mobile application development lifecycle.
+Knowledge of different state management approaches in Flutter (e.g., Provider, BLoC, Riverpod).
+Familiarity with version control tools such as Git.
+Experience with continuous integration and deployment (CI/CD) processes.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Ability to work independently and manage time effectively.
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience).
+Preferred Qualifications:
+
+Experience with other mobile development frameworks such as React Native or native Android/iOS development.
+Knowledge of backend development, especially Node.js or Firebase.
+Understanding of Agile methodologies.
+Contributions to open-source projects or active participation in the Flutter community.
+-------------------------------------------------------------------------
+JD- 33
+
+Source - Indeed
+
+Job Description:
+Requirements:
+
+1 year of experience working with Flutter and Dart programming language.
+
+Understanding of mobile app development concepts and practices.
+
+Familiarity with RESTful APIs and integrating them into Flutter applications.
+
+Basic knowledge of state management in Flutter (e.g., Provider, Bloc).
+
+Proficiency in version control using Git.
+
+Ability to work collaboratively in a team environment.
+
+Strong problem-solving skills and attention to detail.
+
+Bachelor's degree in Computer Science or related field (preferred).
+-------------------------------------------------------------------------
+JD- 34
+
+Source - Indeed
+
+Job Description:
+Full job description
+Role : Flutter Developer
+Experience : 3+ Years
+Location : Work from home
+Notice period : immediate
+We are hiring a full-time Flutter Developer. As a Flutter Developer, you will be responsible for designing, developing and maintaining high-quality mobile applications for both iOS and Android platforms.
+At least 3-5 years Flutter Experience Developer required.
+Strong experience in Flutter SDK and Dart programming language
+Experience with developing high-quality mobile applications for both iOS and Android platforms
+Expertise in State Management, APIs, and UI/UX design principles
+Experience with Firebase, RESTful API Integration, GraphQL, and third-party libraries/plugins
+Adept at debugging, testing, and performance optimization of mobile applications
+A keen eye for detail and vulnerability to security attacks
+Bachelor's degree or higher in Computer Science or a related field
+Excellent communication, collaboration, and analytical skills with a track record of meeting deadlines
+Job Responsibilities
+
+Lead the design and development of user interfaces for web applications using React.js.
+Collaborate closely with UX/UI designers and backend developers to translate design mockups and wireframes into interactive, responsive web pages.
+Implement best practices for frontend architecture, code quality, and performance optimization.
+Stay up-to-date with the latest frontend technologies, tools, and frameworks, incorporating them into our development processes as needed.
+Collaborate with cross-functional teams to define requirements, plan sprints, and deliver high-quality software solutions on time.
+-------------------------------------------------------------------------
+JD- 35
+
+Source - Indeed
+
+Job Description:
+Responsibilities:
+
+Design, develop, and implement native Android applications using Java and/or Kotlin.
+Write clean, maintainable, and well-documented code.
+Collaborate with designers, product managers, and other engineers to bring product visions to life.
+Participate in code reviews and unit testing.
+Stay up-to-date with the latest trends and technologies in Android development. (Bonus points for exploring Flutter!)
+Identify and resolve bugs and performance issues.
+Qualifications:
+
+Minimum of 2 years of experience developing Android applications with Java and/or Kotlin.
+Strong understanding of Android development concepts (Activities, Services, Broadcast Receivers, etc.).
+Experience with Android Studio and development tools.
+Familiarity with UI/UX design principles.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team.
+Benefits:
+
+Competitive salary and benefits package.
+Opportunity to work on challenging and innovative projects.
+Collaborative and supportive work environment.
+Continuous learning and development opportunities. (We encourage exploration of new technologies like Flutter!)
+Plus Points:
+
+Experience with Flutter for cross-platform development.
+Experience with integrating third-party libraries and APIs.
+Experience with version control systems (Git).
+-------------------------------------------------------------------------
+JD- 36
+
+Source - Indeed
+
+Job Description:
+Full job description
+We are looking for an experienced Sr. Android + Flutter Developer who will join our talented software team that works on mission-critical applications. Your duties will include managing Flutter (Android, iOS) application development while providing expertise in the full software development lifecycle, from concept and design to testing.
+
+You should have good experience in building high-performing, scalable, enterprise-grade applications and be able to write clean code and ensure your programs run properly. We also expect you to be passionate about building software and perform well working in a team, along with developers, engineers, and web designers.
+
+Requirements
+
+Preferred Experience:
+
+# Total 4 to 7 Years of Experience in Mobile App Development, from which 2+ years experience in Flutter Technologies. and 2+ yrs in Android Development
+
+Preferred Mobile & Flutter Technology Skills:
+
+Translate and Build the designs and Wireframes into high-quality responsive UI code. Know how to deal with different screen sizes.
+Must have work experience with Flutter SDK and Dart programming language and Flutter widgets.
+Must have a good command of State Management like Provider, Getx, Stacked, other similar.
+Ability to understand business requirements and translate them into technical requirements.
+Ability to work with web service APIs and various 3rd party libraries.
+Maintaining software through product lifecycle including design, development, verification, and bug fixes.
+Experience with version control such as GIT and SVN.
+Desirable skill for Firebase: Should have experience with Cloud Firestore, Push Notifications, Cloud Functions, and Analytics.
+Preferable to build custom packages in Flutter using the functionalities and APIs already available in native Android and IOS.
+Familiarity with Android and iOS build deployments to Apple and Google Store.
+Follow the best practices while developing the app, maintain best code quality and also keeping everything structured and well documented.
+-------------------------------------------------------------------------
+JD- 37
+
+Source - Indeed
+
+Job Description:
+Key Responsibilities:
+
+Develop and maintain cross-platform mobile applications using Flutter.
+Collaborate with cross-functional teams, including UI/UX designers and backend developers.
+Implement clean, efficient, and maintainable code while adhering to coding standards.
+Work closely with designers to implement UI/UX designs and ensure a seamless user experience.
+Conduct thorough testing and debugging to ensure optimal performance and reliability.
+Keep up to date with emerging industry trends and technologies in mobile app development.
+Participate in code reviews to maintain code quality and promote best practices.
+Provide technical guidance and support to junior developers when necessary.
+Qualifications:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field (preferred).
+Minimum 2 years of professional experience in mobile app development with a focus on Flutter.
+Strong proficiency in Dart programming language.
+Experience in building and deploying mobile applications for both iOS and Android platforms.
+Knowledge of mobile application architecture and design patterns.
+Familiarity with RESTful APIs, third-party libraries, and integration.
+Experience with version control systems (e.g., Git).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and meet project deadlines.
+Familiarity with Agile/Scrum development methodologies (a plus).
+-------------------------------------------------------------------------
+JD- 38
+
+Source - Indeed
+
+Job Description:
+Responsibilities:
+
+Learn the fundamentals of Flutter framework and Dart programming language.
+Work closely with senior developers to understand project requirements and contribute to the development of mobile applications.
+Participate in code reviews and collaborate with team members to ensure high-quality code.
+Troubleshoot and debug applications to optimize performance and enhance user experience.
+-------------------------------------------------------------------------
+JD- 39
+
+Source - Indeed
+
+Job Description:
+Responsibilities:
+
+Develop in-depth understanding of the Flutter mobile app development framework.
+Develop mobile applications utilising Flutter, Java, and other relevant technologies.
+Maintain existing applications and actively participate in new projects.
+Develop user interface components and apply them to existing apps.
+Design, build, and troubleshoot mobile apps in accordance with development goal.
+PR and other maintenance related to Flutter applications and related technologies.
+Manage and monitor mobile app performance.
+Work with other developers to troubleshoot technical issues.
+Research the latest Flutter development technologies.
+Requirements:
+
+Bachelor’s degree or higher in computer science or a related field.
+3+ years of experience in developing mobile applications with Flutter.
+Experience in developing apps with and Dart flutter.
+Strong understanding of RESTful API.
+-------------------------------------------------------------------------
+JD- 40
+
+Source - Indeed
+
+Job Description:
+Full job description
+● Familiarity with Git or other version control systems.
+● Excellent problem-solving and debugging skills.
+● Ability to work independently and in a team environment.
+● Good communication and interpersonal skills.
+● Experience with Agile development methodologies is a plus.
+Location: Bangalore
+Company Description:
+Vikgol is a software development company based in Bengaluru. We provide easy access to
+topflight teams of developers, designers, and product managers through our on-demand
+software development service. With our streamlined process and useful automation, users can
+quickly get fixed price quotes and assemble teams of top-tier talent for their projects.
+Role Description:
+This is a full-time on-site role for a Mobile Application Developer with 2.5-5 years of relevant
+experience at Vikgol in Bengaluru. The Mobile Application Developer proficient in Flutter and
+React Native to join our team in Bangalore. The ideal candidate should have a strong passion
+for mobile technologies and a proven track record of delivering high-quality applications for both
+iOS and Android platforms using Flutter and/or React Native frameworks.
+Responsibilities:
+● Develop innovative and user-friendly mobile applications for iOS and Android platforms.
+● Collaborate with cross-functional teams to define, design, and ship new features.
+● Write clean, maintainable, and efficient code.
+● Ensure the performance, quality, and responsiveness of applications.
+● Identify and resolve technical issues and bugs.
+● Stay updated with the latest industry trends, technologies, and best practices.
+● Work closely with product managers and designers to implement the vision and
+requirements into the applications.
+● Optimize application performance and ensure seamless user experience.
+● Continuously discover, evaluate, and implement new technologies to maximize
+development efficiency.
+Requirements:
+● Minimum 2.5-5 years of relevant experience is a must.
+● Bachelor's degree in Computer Science, Engineering, or related field.
+● Proven work experience as a Mobile Application Developer, with expertise in Flutter
+and/or React Native.
+● Strong proficiency in Dart programming language for Flutter development.
+● Experience with JavaScript, TypeScript, or similar languages for React Native
+development.
+● Extensive experience with iOS and/or Android SDK, frameworks, and libraries.
+● Solid understanding of mobile UI/UX design principles and best practices.
+● Experience with RESTful APIs, JSON, and web services integration.
+
+● Familiarity with Git or other version control systems.
+● Excellent problem-solving and debugging skills.
+● Ability to work independently and in a team environment.
+● Good communication and interpersonal skills.
+-------------------------------------------------------------------------
+JD- 41
+
+Source - Naukri.com
+
+Job Description:
+Role & responsibilities
+
+As a Flutter Developer, you will be in charge of reviewing the software specifications and UI mockups, developing a cross-browser mobile application from scratch, and leading the application testing effort. You'll work alongside a backend developer, as well as a UI designer to ensure you create high-performing application with a smooth user experience.
+
+Designing, developing, testing, maintaining, and deploying software in the Flutter framework and Dart language.
+Developing user interface components and implementing them by following well-known Flutter / Dart workflows and practices.
+Communicating with product and engineering leads to implement business and project objectives.
+Code review of team members' commits as part of CI/CD cycle.
+Participate in testing, quality assurance and bug fixes as part of the CI/CD cycle
+
+Preferred candidate profile
+
+2 to 5 years of experience developing mobile apps natively in iOS and/or Android.
+2 years of commercial experience developing and delivering Flutter based apps.
+Good understanding of state management, Flutter flavors and app architecture.
+Strong communications and consultative skills. Self-initiated and proactive.
+Experience with building apps and software for consumer goods is a bonus.
+Degree in software engineering, computer science, or software development is a plus.
+Firebase, Azure DevOps experience is a plus
+Skills
+Dart
+Flutter
+iOS
+Android
+Git
+-------------------------------------------------------------------------
+JD- 42
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Based on recruiter search
+**Key Responsibilities :**
+- Collaborate with cross-functional teams to design and develop high-performance, scalable, and user-friendly mobile applications using Flutter.
+- Implement RESTful APIs and Firebase services to integrate third-party systems and data sources.
+- Optimize application performance, stability, and reliability through code review, testing, and debugging.
+- Contribute to the overall architecture and design of new features and products.
+- Stay up-to-date with the latest trends and best practices in mobile development and Flutter framework.
+
+
+**Job Requirements :**
+- Bachelor's degree in Computer Science or related field preferred.
+- Strong proficiency in Flutter, Dart, Android, iOS, REST, Firebase, and mobile application development.
+- Familiarity with SQLite and GitHub is a plus.
+- Ability to work collaboratively in a fast-paced environment and manage multiple projects simultaneously.
+- Passion for learning and staying current with emerging technologies and industry standards.
+-------------------------------------------------------------------------
+JD- 43
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Join us if you like to :
+
+- Build the Flutter web app for Ventura while reusing components from the Flutter app
+
+- Ownership and monitoring of our D2C frontend
+
+- Robust documentation skills and desire to share information with others
+
+- Desire and ability to prototype ideas quickly, and be willing to experiment and learn
+
+
+We'll need you to bring :
+
+- Good Flutter skills
+
+- Be open to learning and feedback
+
+- Good understanding of how JavaScript applications actually work behind the scenes
+
+- Demonstrable experience around writing testable code, working with git, doing peer-level code review, daily standups, and generally championing software excellence
+
+
+What you get :
+
+- Chance to build out a next-gen fintech product from ground 0
+
+- Opportunity to influence the design of the product
+
+- Flexible and work anywhere environment running out of Slack
+-------------------------------------------------------------------------
+JD- 44
+
+Source - Naukri.com
+
+Job Description:
+WsCube Tech is looking for Flutter Developer to join our dynamic team and embark on a rewarding career journey
+Designing and developing user-friendly mobile applications using Flutter
+Writing clean and maintainable code following best practices and coding standards
+Debugging and fixing issues in existing applications
+Implementing new features and functionality as per project requirements
+Collaborating with cross-functional teams, including designers, product managers, and back-end developers
+Ensuring the performance, quality, and responsiveness of applications
+Writing automated tests and maintaining test coverage
+Should have excellent programming skills
+Deep understanding of mobile app architecture, design patterns, and best practices
+Should also have strong problem-solving skills
+-------------------------------------------------------------------------
+JD- 45
+
+Source - Naukri.com
+
+Job Description:
+Key Responsibilities :
+
+Develop and maintain high-performance, scalable, and user-friendly Flutter applications.
+Collaborate with cross-functional teams to ensure successful delivery of projects.
+Participate in code reviews and provide feedback on best practices for architecture, design, and implementation.
+Stay up-to-date with the latest Flutter technologies and trends.
+Job Requirements :
+
+Proficient in Flutter, JavaScript, HTML, CSS, PHP Core, MySQL, AJAX, and Backend development.
+Familiarity with PHP and Core PHP is a plus.
+Strong understanding of SQL and database management principles.
+Knowledge of TypeScript is preferred.
+Bachelor's degree in Computer Science or related field preferred but not required.
+-------------------------------------------------------------------------
+JD- 46
+
+Source - Naukri.com
+
+Job Description:
+Job description
+The Flutter Developer is responsible for creating a Hybrid Application for iOS and Android using Googles Flutter development framework. You should have deep experience contributing to and managing full-scale production applications. The ideal candidate must display excellent written and oral skills with demonstrated interpersonal and organization abilities and must be able to work in a varied, fast-paced product development environment.
+
+In addition, the ability to self-manage, curiosity is a must in this role.
+
+It is recommended to have a good knowledge of Python, C++, or Java.
+Must have work experience with Flutter SDK and Dart programming language.
+Experience in developing complex Flutter applications with Login/Signup and user management.
+Experience in creating robust and user-friendly production level and scalable Android and iOS applications using Flutter.
+Experience working with Python/NodeJS/Express API backends.
+Excellent knowledge of GET/POST requests and integrating APIs with the frontend application.
+Experience with third-party libraries and APIs.
+Experience working with Firebase service like Authentication and Firestore.
+Strong knowledge of Flutter widgets for both Android/iOS.
+Knowledge on building flutter modules and flutter plug-ins.
+Good knowledge in DART and OOPS concepts.
+Shall be able to write modular and concise code.
+-------------------------------------------------------------------------
+JD- 47
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Zimo Infotech LLP is looking for Flutter Developer to join our dynamic team and embark on a rewarding career journey
+Designing and developing user-friendly mobile applications using Flutter
+Writing clean and maintainable code following best practices and coding standards
+Debugging and fixing issues in existing applications
+Implementing new features and functionality as per project requirements
+Collaborating with cross-functional teams, including designers, product managers, and back-end developers
+Ensuring the performance, quality, and responsiveness of applications
+Writing automated tests and maintaining test coverage
+Should have excellent programming skills
+Deep understanding of mobile app architecture, design patterns, and best practices
+Should also have strong problem-solving skills
+
+-------------------------------------------------------------------------
+JD- 48
+
+Source - Naukri.com
+
+Job Description:
+Role Description: -
+
+This is a full-time Flutter developer role located in Bengaluru, India. As a Flutter developer, you will be responsible for developing and maintaining mobile application code using Dart programming language, while collaborating with cross-functional teams to support end-to-end mobile development processes.
+
+Familiarity using version control tools like Git, Subversion etc. and IDEs like Android Studio, VS Code etc.
+Understanding of the Agile Software Development Life Cycle and being exposed to Scrum projects.
+Knowledge of Dart programming language, Rest APIs and integration of various APIs from third parties.
+Comfortable using test cases for debugging code, enhancing performance and reliability.
+Understand the various practices and processes followed in the team.
+Document and run tests to enhance product performance.
+Lead development initiatives for other features.
+Well-versed in creating automated test cases, threading, performance tuning, and offline storage.
+At least a working knowledge of APIs (Application Programming Interfaces) and third-party libraries.
+Strong problem-solving and critical-thinking abilities.
+Excellent communication skills that facilitate interaction with multiple stakeholders.
+Confident, detail-oriented, and highly motivated to contribute to the growth of the organization as part of a high-performing team.
+
+Responsibilities: -
+
+The ability to work under pressure and adhere to tight deadlines.
+Building multi-platform applications for Android and iOS using the Flutter development framework of Google.
+Collaborating with other developers to create, deploy, and maintain Flutter-based applications for different platforms.
+Writing and reviewing multi-application codes.
+Overseeing and reviewing application design.
+Building, implementing, and managing product modules along with their sub-systems.
+Testing products to remove bugs and any malfunctioning aspects.
+Carrying out unit testing and integration analysis.
+Ensuring consistency between the delivered product features and the requirements/criteria of the business.
+-------------------------------------------------------------------------
+JD- 49
+
+Source - Naukri.com
+
+Job Description:
+Proven experience as a Flutter developer or similar role with strong portfolio of mobile applications developed using Flutter.
+
+Must have hands-on experience in any backend technologies such as Node.js/ PHP/ Python/ DotNet/ AWS/ HTML/ CSS/ JavaScript etc...
+
+Proficiency in Dart programming language and flutter framework.
+
+Understanding of mobile app design principles and UI/UX best practices.
+
+Experience with third-party libraries and APIs.
+
+Excellent problem solving and analytical skills.
+
+Education qualification: BE/ ME computer or IT, BCA/ MCA, BSc/ MSc IT
+-------------------------------------------------------------------------
+JD- 50
+
+Source - Naukri.com
+
+Job Description:
+Designing and developing user-friendly mobile applications using Flutter
+Writing clean and maintainable code following best practices and coding standards
+Debugging and fixing issues in existing applications
+Implementing new features and functionality as per project requirements
+Collaborating with cross-functional teams, including designers, product managers, and back-end developers
+Ensuring the performance, quality, and responsiveness of applications
+Writing automated tests and maintaining test coverage
+Should have excellent programming skills
+Deep understanding of mobile app architecture, design patterns, and best practices
+Should also have strong problem-solving skills
+-------------------------------------------------------------------------
+JD- 51
+
+Source - Naukri.com
+
+Job Description:
+Experienced in programming languages for mobile development - Java or Swift
+Knowledge of at least dart language, third-party libraries and APIs.
+Good English communication skill
+Self-driven person
+-------------------------------------------------------------------------
+JD- 52
+
+Source - Naukri.com
+
+Job Description:
+Job Purpose :Responsible for writing codes, testing, and maintaining applications to ensure that the needs of the various divisions/departments at the company and its Business Units are met. Additionally, leading a team of app developers, providing guidance, and monitoring their progress to ensure timely and high quality deliverables. Also, offering assistance and technical support to team members to enhance their skills and address any application-related issues effectively. Responsible for writing codes, testing, and maintaining applications to ensure that the needs of the various divisions/departments at the company and its Business Units are met. Providing technical support to the system users regarding applications issues.
+
+Job Responsibilities :- Develop, modify, and maintain applications components (reports, alerts, forms, personalization, administration, etc.) to enhance the systems to be aligned with business requirements.- Perform coding, benchmark testing, debugging, and job control language, macros, subroutines, and other software system control modules. - Analyze, design, develop, test, deploy and maintain applications to satisfy end users' needs and meet business requirements. - Create and maintain applications users' access with required privileges as per user's requirements to authorize users according to operational needs. - Participate in maintaining, controlling, and optimizing applications, ensuring system availability and maximum running time for SAKAN. - Provide support and assistance for IT application end-users as required and solve reported problems to allow them to perform their work efficiently. - Prepare the required documentation that provides adequate guidelines for using and maintaining applications effectively. - Monitor applications performance and prepare related performance status reports to have efficient control and ensure continuous improvement. - Perform other duties related to the job as assigned by the Direct Manager - Coordination with PMO and making sure that the deadlines and tasks that they are responsible toward the same goals on the same schedule.
+
+Qualification : - Bachelor's Degree in computer science, Information Technology, or related field. - Certifications in programming languages and application development tools will be an advantage - At least 8+ years of experience as a Mobile App Developer or similar role.
+
+Technical Skills : - Experience work with dart, API Integration - Control Panel and Forms Creation. Firebase Authentication. Firebase Real-Time Database - User registration and login using email, Phone, and social media, Firebase Storage - Push Notifications, Google Maps. Experience with Mobile design patterns e.g., MVVM, GoF, Bloc, Provider &, etc. - Experience with GETX mini framework of flutter.- Experience with Crashlytics. Maintaining the state management with navigation. - Good knowledge of third parties' packages for HTTP and other features. - Must have built at least two Android and/or iOS apps with Flutter - Working experience in mobile development Android or iOS - Have published at least two mobile apps in Google Play or App Store - Experience with third-party libraries and APIs.
+
+- Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies - Solid understanding of the full mobile development life cycle.
+
+- Proficient understanding of code versioning tools, such as Git and GitHub
+-------------------------------------------------------------------------
+JD- 53
+
+Source - Naukri.com
+
+Job Description:
+Job description
+We are seeking a talented and motivated Software Engineer with expertise in developing mobile applications using Flutter technology. The ideal candidate will also have exposure to Cloud Native technologies and a passion for creating seamless and engaging user experiences.
+
+Job highlights
+
+Required Skills 4-7 years of proven experience in mobile application development with Flutter
+Proficient in either Android (Java / Kotlin) or iOS (Swift) development
+Proficient in mobile application testing methodologies
+Experience in building and deploying mobile applications on both Android and iOS platforms
+
+
+Job Responsibilities
+Develop and maintain mobile applications using Flutter framework for cross-platform functionality.
+Collaborate with UX/UI designers to implement visually appealing and user-friendly interfaces.
+Ensure high performance and responsiveness of applications.
+Demonstrate proficiency in either Android or iOS development alongside Flutter.
+Write clean, efficient, and maintainable code. Integrate third-party APIs and services into mobile applications.
+Understand Flutter BLOC pattern well
+Good understanding of Dart.
+Good debugging and troubleshooting skills.
+Extensive experience with Git, JSON, RESTFul APIs
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Strong understanding of OOP concepts and design patterns
+PublishApp to Play Store App Store
+Publish app to testing in Play Store Internal testing / App Store Test Flight.
+Publish the app in Play Store / App Store Production.
+Conduct thorough testing of applications, identify and resolve bugs and performance bottlenecks.
+Utilize debugging tools to troubleshoot and optimize application functionality.
+Utilize version control systems, such as Git, for code management.
+Implement best practices and industry standards in mobile application development.
+
+
+Required Skills
+4-5 years of proven experience in mobile application development with Flutter.
+Proficient in either Android (Java/Kotlin) or iOS (Swift) development.
+Strong understanding of the Flutter framework and Dart programming language.
+Experience in building and deploying mobile applications on both Android and iOS platforms.
+Experience integrating third-party APIs and services.
+Strong collaboration skills, working effectively with cross-functional teams.
+Proficient in mobile application testing methodologies.
+Strong debugging skills and ability to troubleshoot application issues.
+Ability to implement industry best practices in mobile application development.
+Experience with Cloud Native technologies (e.g., Kubernetes, Docker, AWS, Google Cloud Platform) is a plus.
+Familiarity with Agile development methodologies.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration abilities.
+Ability to work effectively in a fast-paced and dynamic environment.
+-------------------------------------------------------------------------
+JD- 54
+
+Source - Naukri.com
+
+Job Description:
+Developing and implementing highly responsive user interface components using react concepts.
+Writing application interface codes using JavaScript following react js workflows.
+strong design and development experience worked on at least 2 Mobile application apps from scratch who can easily add any new features and functionalities into the existing app.
+Understanding of the Flutter Platform to be able to use its constructs to build great quality App.
+Troubleshooting interface software and debugging application codes.
+Design and develop new custom components to meet project requirements.
+Good understanding of accessibility and security compliance protocols.
+Expertise in Git Environment.
+Skills and Requirements:
+2+ years of experience
+Manage time across multiple projects and tasks in a team environment.
+Good understanding of accessibility and security compliance protocols.
+Analytical mind with a problem-solving aptitude.
+Good verbal and written communication skills.
+Ability to work independently on an assignment and as a member of a team.
+-------------------------------------------------------------------------
+JD- 55
+
+Source - Naukri.com
+
+Job Description:
+enderindia Infotech is looking for Flutter Developer to join our dynamic team and embark on a rewarding career journey
+Designing and developing user-friendly mobile applications using Flutter
+Writing clean and maintainable code following best practices and coding standards
+Debugging and fixing issues in existing applications
+Implementing new features and functionality as per project requirements
+Collaborating with cross-functional teams, including designers, product managers, and back-end developers
+Ensuring the performance, quality, and responsiveness of applications
+Writing automated tests and maintaining test coverage
+Should have excellent programming skills
+Deep understanding of mobile app architecture, design patterns, and best practices
+Should also have strong problem-solving skills
+-------------------------------------------------------------------------
+JD- 56
+
+Source - Naukri.com
+
+Job Description:
+Experienced in Flutter for mobile apps, proficient in Dart, third-party APIs, Android/iOS dev, teamwork, problem-solving, CS degree preferred.
+-------------------------------------------------------------------------
+JD- 57
+
+Source - Naukri.com
+
+Job Description:
+Develop mobile applications using Flutter and Dart
+Design and implement user interfaces
+Troubleshoot and debug applications
+Optimize applications for maximum speed and scalability
+Collaborate with other developers to ensure quality and consistency
+-------------------------------------------------------------------------
+JD- 58
+
+Source - Naukri.com
+
+Job Description:
+applications that will run across Android, iOS, and the web. We are looking for someone passionate about performance, reliability, and design with the experience and credentials to back up that passion.
+Fulltime, Permanent
+Qualification
+Bachelors/Masters degree in Computer Science Engineering or a related subject
+Desired Key skills
+0-1 years of work experience as a Flutter Developer or similar role. Freshers can also apply.
+Knowledge of Dart and familiar with flutter.
+Knowledge in authoring, testing, and deploying code.
+Basic knowledge in SQLite, MySQL, PostgreSQL, Firebase databases.
+Create multi-platform apps for iOS/Android using Flutter development framework.
+-------------------------------------------------------------------------
+JD- 59
+
+Source - Naukri.com
+
+Job Description:
+Job Title : (Job Name) : Senior Software Engineer Frontend(Dart & Flutter) Business Unit (PA) : Digital Banking Reports to (job) : Sr Developer Location of role : Gurgaon/Mumbai Actionable (4-6)
+
+Our Client with digital factory is going through a major digital transformation within it banking business creating ripples in the Fintech world of India. Digital Factory will provide cutting edge digital solutions for all business lines like Payment, Wealth, Wallets, Core Banking, loan/ lending etc.
+Designing, developing, testing, maintaining, and deploying software in the Flutter framework and Dart language.
+Developing user interface components and implementing them by following well-known Flutter Dart workflows and practices.
+Communicating with product and engineering leads to implement business and project objectives.
+Code review of team members commits as part of CI/CD cycle.
+Participate in testing, quality assurance and bug fixes as part of the CI/CD cycle.
+Design and build SDKs for android and iOS platform and associated tools for development, debugging and instrumentation. Using cross platform framework (Flutter).
+Designing world class completely digital, fully automated no human touch digital banking experience for customers.
+Thought leader for junior developers
+Educational Qualifications
+Key Skills
+
+4-6 years of experience as a full stack developer or similar role
+Relevant computer science degree or relevant experience
+Strong hands on experience Mobile front end expert with exposure to full stack development (Flutter & Dart/ Node.js/Java)
+Proven experience on Dart, Flutter, Android Or iOS native apps.
+Handson experience in MVC , MVVM & Bloc design patterns, Statefull & Stateless widget, GetX, Providers state management , Widget tree shaking , Method and Plateform channels, Isolations, Streams , Material design guidelines , SSL Pining flutter responsive UI, Custom plugins, REST APIs, Memory management using Flutter Dev tools, flutter Web driver, Multithreading, Apk size reduction techniques like Proguard.
+Experience in writing unit test , snapshot testing.
+Code Quality Tools: SonarQube.
+Code Versioning tools: Git, Github, Bitbucket.
+CI/CD Pipeline: Jenkins
+Strong systems design experience with DS/ Algo
+Familiarity with agile development methodlogy.
+Nice To Have : React Native, FlutterFlow, Any Fintech exposure.
+-------------------------------------------------------------------------
+JD- 60
+
+Source - Naukri.com
+
+Job Description:
+Responsibilities :
+
+- Design and build advanced applications for the Flutter platform.
+
+- Collaborate with cross-functional teams to define, design, and ship new features.
+
+- Work on bug fixing and improving application performance.
+
+- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+
+- Translate designs and wireframes into high-quality code.
+
+- Ensure the best possible performance, quality, and responsiveness of the application.
+
+- Identify and correct bottlenecks and fix bugs.
+
+- Help maintain code quality, organization, and automation.
+
+Requirements :
+
+- Proven experience in Flutter app development.
+
+- Strong experience with Dart programming language.
+
+- Experience working with third-party libraries and APIs.
+
+- Solid understanding of the full mobile development life cycle.
+
+- Knowledge of UI/UX principles and best practices.
+
+- Familiarity with version control systems (e.g., Git).
+
+- Strong problem-solving skills and attention to detail.
+
+- Excellent communication and teamwork skills.
+
+- Bachelor's degree in Computer Science or a related field (preferred).
+
+Nice to Have :
+
+- Experience with native Android or iOS development.
+
+- Knowledge of mobile design patterns.
+
+- Contributions to open-source projects.
+
+- Familiarity with agile development methodologies.

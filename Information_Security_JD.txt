@@ -1,0 +1,2309 @@
+-------------------------------------------------------------------------
+JD- 1
+
+Source - LinkedIn
+
+Job Description:
+This is a full-time remote role for an Information Security Manager. The Information Security Manager will be responsible for managing the information security program, including the development, implementation, and monitoring of the information security management system (ISMS), cyber and network security policies and procedures, and technologies. The role also involves managing and performing risk assessments and audits, incident response, and managing the security awareness program. The Information Security Manager will be responsible for ensuring compliance with regulatory requirements and industry standards for information security.
+
+
+Qualifications
+
+Strong knowledge of Information Security Management and ISMS
+Experience in Cybersecurity, Network Security and Information Security
+Experience managing security policies, procedures, and technologies
+Experience conducting risk assessments and audits
+Strong communication, analytical and problem-solving skills
+Familiarity with regulatory requirements and industry standards for information security like NIST, ISO 27001 etc.
+Experience in security awareness program management is a plus
+Bachelor's or Master's degree in Information Security or Computer Science or equivalent experience
+CISSP And CISM Certification is a must
+-------------------------------------------------------------------------
+JD- 2
+
+Source - LinkedIn
+
+Job Description:
+Top 5 Skill Set
+
+Hands-on experience with security technologies
+Experience in Information security and business continuity internal audits
+Strong Knowledge in risk management, ISO 27001, ISO 22301 PCI DSS, HIPAA, GDPR, SOC 2
+Knowledgeable in security concepts, techniques, tools, methods, and practices
+Good technical in cyber security products
+Individually to perform the technical audits
+Strong on Infrastructure and networking Audtis.
+Need Strong experience in Internal and external Auditing, Risk and compliances, Security and compliances, GDPR, Data Protection
+
+
+General description of the role:
+
+Minimum 6 years of experience in managing security audits, such as, ISO 27001, HIPAA, SOC 1, SOC2, PCIDSS
+In-depth knowledge of security controls, interpreting control requirements for SOC 2, ISO, or HIPAA, PCIDSS audits, reviewing control evidence for completeness an accuracy, and ensuring evidence provided to auditors satisfies control requirements.
+Ensure continuity of compliance with ISO27001 and ISO 22301, PCI DSS, HIPAA, GDPR
+Provide orientation to Business Units on Risk Assessment, Business Continuity Plan and Business Impact Analysis
+Facilitate in preparation of Business continuity plan for each project and functions
+Conduct internal ISMS and BCMS audits and identify potential gaps in the system
+-------------------------------------------------------------------------
+JD- 3
+
+Source - LinkedIn
+
+Job Description:
+Required Skills/Experience:
+
+Bachelor's degree in Computer Science, Information Security, or related field; advanced degree or certifications (e.g., CISSP, CISM, CISA) preferred.
+7+ years of experience in IT security management, including Level 3 support, incident response, and risk management in enterprise environments.
+Expert-level knowledge of IT security principles, standards, frameworks (e.g., ISO 27001, NIST Cybersecurity Framework), and regulatory requirements (e.g., GDPR, HIPAA, PCI DSS).
+Advanced technical skills in security technologies and tools, including firewalls, intrusion detection/prevention systems (IDS/IPS), SIEM, and identity/access management solutions.
+Proficiency in conducting security assessments, penetration testing, and vulnerability assessments to identify and mitigate security risks effectively.
+Strong analytical and problem-solving skills, with the ability to diagnose and resolve complex security issues in a timely manner.
+Excellent communication and interpersonal skills, with the ability to collaborate effectively with technical and non-technical stakeholders.
+Proven leadership and team management skills, with the ability to mentor and develop staff in a fast-paced and dynamic environment.
+
+
+Preferred Skills/Experience:
+
+Experience with cloud security technologies and best practices for securing cloud environments (e.g. Azure, AWS, Google Cloud).
+Familiarity with security automation, scripting, and orchestration tools (e.g., Python, Ansible, Terraform) for streamlining security operations.
+Previous experience in a leadership role or managing a team of security professionals in a Level 3 support capacity.
+-------------------------------------------------------------------------
+JD- 4
+
+Source - LinkedIn
+
+Job Description:
+Functional Description: The Global Risk & Compliance (GRC) group within American Express is responsible for providing oversight and governance of risks to ensure that the company operates in a safe and sound manner within regulatory expectations. In a world increasingly subject to digitalization and the use of technology, technology risk management has become increasingly significant across organizations, becoming one of the key themes at board meetings. Cyberattacks have become increasingly commonplace and the trend continues to move upward.
+
+Roles & Responsibilities: This individual contributor role is part of the second line technology risk management team within the GRC group, headed by the Chief Risk Officer (CRO) of the company. This is a unique opportunity to work with a team of diverse and talented professionals who are responsible for building the technology risk management program and providing independent risk oversight to the technology, cyber security and business continuity management risks.
+
+Reporting to the Director for Cybersecurity, Technology, and Resiliency Risk Oversight (CTRRO), this position is responsible for independently assessing and reporting risks and providing a view of aggregate risks. The risks identified by this team are reported to the Senior Management, Risk Management Committees, Board of Directors and Regulators. This position will be responsible for effectively collaborating with key stakeholders across lines of business and lines of defense to ensure risks are managed effectively and efficiently in accordance with the company policies and applicable regulatory requirements.
+
+Conduct independent, proactive risk management and oversight of technology, cybersecurity and business continuity management risks generated within business processes or that occur due to use of Technology.
+Learn technology, cybersecurity, and business continuity management processes at American Express, demonstrating strong levels of curiosity and willingness, in order to present an effective credible challenge. 
+Perform data-driven reviews focused on technology, cybersecurity, and business continuity management risks.
+Develop and enhance data-driven key risk indicators and key performance indicators that provide real time and meaningful insights into the risk and performance trends.
+Stay knowledgeable of relevant regulations, guidelines & industry standards.
+Support the design of independent technology risk oversight program which defines the engagement and integration with various risk management programs, including Process Risk Self Assessments, Business Continuity Management, New Product Approval, Mergers & Acquisitions etc.
+
+Minimum Qualifications: 
+
+Bachelor’s Degree in related field
+5+ years of experience in risk management across any of the three lines of defense
+Proven ability to identify risks, analyze issues and derive meaningful insights about risk trends
+by conducting interviews and analyzing large volumes of data
+Excellent analytical skills with high attention to detail and accuracy
+Excellent critical thinking and problem solving skills with minimal supervision
+Excellent verbal, written and interpersonal communication skills
+Willingness to challenge traditional thinking by actively engaging in constructive dialogue 
+Educational background: Computer Science or Information Systems 
+Working knowledge of one or more of the data mining tools/technologies (e.g. Microsoft Excel: Pivot Tables SQL, SAS, Python, R)
+Experience in risk management across cyber security, information technology, 3rd party, business continuity management
+Industry certifications (e.g. CISM, CISA, CRISC)
+Understanding of risk assessment methodologies, frameworks and industry standards (e.g. COSO, COBIT, ISO 27001, FAIR or NIST RMF)
+Knowledge of relevant policies & regulations (e.g. OCC Heightened Standards, FFIEC IT booklets)
+ Experience with Governance, Risk and Compliance tools (e.g. Archer)
+-------------------------------------------------------------------------
+JD- 5
+
+Source - LinkedIn
+
+Job Description:
+Functional Description:
+
+The Global Risk & Compliance (GRC) group within American Express is responsible for providing oversight and governance of risks to ensure that the company operates in a safe and sound manner within regulatory expectations. In a world increasingly subject to digitalization and the use of technology, technology risk management has become increasingly significant across organizations, becoming one of the key themes at board meetings. Cyberattacks have become increasingly commonplace and the trend continues to move upward.
+
+Roles & Responsibilities:
+
+This individual contributor role is part of the second line technology risk management team within the GRC group, headed by the Chief Risk Officer (CRO) of the company. This is a unique opportunity to work with a team of diverse and talented professionals who are responsible for building the technology risk management program and providing independent risk oversight to the technology, cyber security and business continuity management risks.
+
+Reporting to the Director for Cybersecurity, Technology, and Resiliency Risk Oversight (CTRRO), this position is responsible for independently assessing and reporting risks and providing a view of aggregate risks. The risks identified by this team are reported to the Senior Management, Risk Management Committees, Board of Directors and Regulators. This position will be responsible for effectively collaborating with key stakeholders across lines of business and lines of defense to ensure risks are managed effectively and efficiently in accordance with the company policies and applicable regulatory requirements.
+
+Conduct independent, proactive risk management and oversight of technology, cybersecurity and business continuity management risks generated within business processes or that occur due to use of Technology.
+Learn technology, cybersecurity, and business continuity management processes at American Express, demonstrating strong levels of curiosity and willingness, in order to present an effective credible challenge. 
+Perform data-driven reviews focused on technology, cybersecurity, and business continuity management risks.
+Develop and enhance data-driven key risk indicators and key performance indicators that provide real time and meaningful insights into the risk and performance trends.
+Stay knowledgeable of relevant regulations, guidelines & industry standards.
+Support the design of independent technology risk oversight program which defines the engagement and integration with various risk management programs, including Process Risk Self Assessments, Business Continuity Management, New Product Approval, Mergers & Acquisitions etc.
+
+Minimum Qualifications: 
+
+Bachelor’s Degree in related field
+5+ years of experience in risk management across any of the three lines of defense
+Proven ability to identify risks, analyze issues and derive meaningful insights about risk trends
+by conducting interviews and analyzing large volumes of data
+Excellent analytical skills with high attention to detail and accuracy
+Excellent critical thinking and problem solving skills with minimal supervision
+Excellent verbal, written and interpersonal communication skills
+Willingness to challenge traditional thinking by actively engaging in constructive dialogue 
+Educational background: Computer Science or Information Systems 
+Working knowledge of one or more of the data mining tools/technologies (e.g. Microsoft Excel: Pivot Tables SQL, SAS, Python, R)
+Experience in risk management across cyber security, information technology, 3rd party, business continuity management
+Industry certifications (e.g. CISM, CISA, CRISC)
+Understanding of risk assessment methodologies, frameworks and industry standards (e.g. COSO, COBIT, ISO 27001, FAIR or NIST RMF)
+Knowledge of relevant policies & regulations (e.g. OCC Heightened Standards, FFIEC IT booklets)
+ Experience with Governance, Risk and Compliance tools (e.g. Archer)
+
+We back our colleagues and their loved ones with benefits and programs that support their holistic well-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:
+
+Competitive base salaries 
+Bonus incentives 
+Support for financial-well-being and retirement 
+Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location) 
+Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need 
+Generous paid parental leave policies (depending on your location) 
+Free access to global on-site wellness centers staffed with nurses and doctors (depending on location) 
+Free and confidential counseling support through our Healthy Minds program 
+Career development and training opportunities
+
+-------------------------------------------------------------------------
+JD- 6
+
+Source - LinkedIn
+
+Job Description:
+Roles And Responsibilities
+
+Spearhead the overall operations of the organization, overseeing IT security, cloud technology implementation, data center management, and networking infrastructure work :
+Experience in Multilocation handling.
+Develop and implement strategic plans to enhance operational efficiency and align with business objectives.
+Ensure the security of IT systems by implementing robust cybersecurity measures, conducting regular audits, and staying updated on the latest security threats and solutions.
+Collaborate with cross-functional teams to design and implement cloud-based solutions, optimizing resource utilization and scalability.
+Manage the day-to-day activities of the data center, ensuring uninterrupted operations and implementing disaster recovery plans.
+Streamline networking processes to enhance communication and connectivity, leading to improved overall organizational productivity.
+Foster a culture of continuous improvement, implementing best practices and technologies to drive operational excellence.
+Implement and manage comprehensive IT security programs, including firewalls, antivirus solutions, and intrusion detection systems.
+Conduct regular vulnerability assessments and penetration testing to identify and address potential security risks.
+Develop and deliver training programs to educate employees on cybersecurity best practices and ensure compliance with security policies.
+Responded promptly to security incidents, conducting thorough investigations and implementing corrective actions.
+Design and implement network solutions, including LANs, WANs, and VPNs, to meet organizational requirements.
+Monitor network performance, identifying and resolving issues to ensure seamless connectivity.
+Collaborate with vendors to procure networking equipment and negotiated contracts to optimize costs.
+
+Education Qualifications/Professional Experience
+
+Graduation/Post Graduation in Computer science or Equivalent
+MBA : Operation/General Management
+
+Skills
+
+IT Security
+Cloud Technology (AWS, Azure, GCP)
+Data Center Management
+Networking (TCP/IP, DNS, DHCP)
+Cybersecurity
+Risk Management
+Strategic Planning
+Project Management
+Team Leadership
+Vendor Management
+
+Certifications
+
+Certified Information Systems Security Professional (CISSP)
+AWS Certified Solutions Architect
+Cisco Certified Network Associate (CCNA)
+Certified Data Center Professional (CDCP)
+-------------------------------------------------------------------------
+JD- 7
+
+Source - LinkedIn
+
+Job Description:
+Functional Description
+
+This individual contributor role is part of the second line technology risk management team within the GRC group, headed by the Chief Risk Officer (CRO) of the company. This is a unique opportunity to work with a team of diverse and talented professionals who are responsible for building the technology risk management program and providing independent risk oversight to the technology, cyber security and business continuity management risks.
+
+Reporting to the Director for Cybersecurity, Technology, and Resiliency Risk Oversight (CTRRO), this position is responsible for independently assessing and reporting risks and providing a view of aggregate risks , particularly in the context of migration initiative to new product platforms and capabilities. The risks identified by this team are reported to the Senior Management, Risk Management Committees, Board of Directors and Regulators. This position will be responsible for effectively collaborating with key stakeholders across lines of business and lines of defense to ensure risks are managed effectively and efficiently in accordance with the company policies and applicable regulatory requirements.
+
+Responsibilities
+
+Conduct independent, proactive risk management and oversight of technology, cybersecurity and business continuity management risks generated within business processes or that occur due to use of Technology.
+Learn technology, cybersecurity, and business continuity management processes at American Express, demonstrating strong levels of curiosity and willingness, in order to present an effective credible challenge. 
+Perform data-driven reviews focused on technology, cybersecurity, and business continuity management risks.
+Identify key risks associated with migration of product platforms and capabilities.
+Provide risk oversight to ensure compliance with RBI’s Payment Vision 2025 in a timely manner.
+Develop and enhance data-driven key risk indicators and key performance indicators that provide real time and meaningful insights into the risk and performance trends.
+Stay knowledgeable of relevant regulations, guidelines & industry standards.
+Support the design of independent technology risk oversight program which defines the engagement and integration with various risk management programs, including Process Risk Self Assessments, Business Continuity Management, New Product Approval, Mergers & Acquisitions etc.
+
+Required Qualifications: 
+
+Bachelor’s Degree in related field
+7+ years of experience in risk management across any of the three lines of defense
+Proven ability to identify risks, analyze issues and derive meaningful insights about risk trends
+by conducting interviews and analyzing large volumes of data
+Excellent analytical skills with high attention to detail and accuracy
+Excellent critical thinking and problem solving skills
+
+with minimal supervision
+
+Excellent verbal, written and interpersonal communication skills
+Willingness to challenge traditional thinking by actively engaging in constructive dialogue 
+
+Preferred:
+
+ Educational background: Computer Science or Information Systems 
+ Working knowledge of one or more of the data mining tools/technologies (e.g. Microsoft Excel: Pivot Tables SQL, SAS, Python, R)
+ Experience in risk management across cyber security, information technology, 3rd party, business continuity management
+ Industry certifications (e.g. CISM, CISA, CRISC)
+ Understanding of risk assessment methodologies, frameworks and industry standards (e.g. COSO, COBIT, ISO 27001, FAIR or NIST RMF)
+ Knowledge of relevant policies & regulations (e.g. RBI, OCC Heightened Standards, FFIEC IT booklets)
+ Experience with Governance, Risk and Compliance tools (e.g. Archer)
+
+-------------------------------------------------------------------------
+JD- 8
+
+Source - LinkedIn
+
+Job Description:
+Role & Responsibility
+
+ Lead the development, implementation, and maintenance of the company's ISMS based on the ISO 27001 framework.
+ Conduct regular risk assessments to identify and prioritize security threats and vulnerabilities.
+ Develop and implement security policies, procedures, and standards to mitigate identified risks.
+ Manage and maintain the company's information security controls, including access control, network security, incident response, and data security.
+ Oversee the implementation and management of security awareness and training programs for employees.
+ Conduct regular audits and reviews of the ISMS to ensure its effectiveness.
+ Stay up-to-date on the latest information security threats, vulnerabilities, and best practices.
+ Collaborate with other departments, such as IT, HR, and Legal, to integrate information security considerations into business processes.
+ Report to senior management on the status of the information security program.
+-------------------------------------------------------------------------
+JD- 9
+
+Source - LinkedIn
+
+Job Description:
+Requirement
+
+ Bachelor's degree in Information Technology, Cybersecurity, or a related field (Master's degree preferred).
+ Minimum of 5 years of experience in information security, preferably in a leadership role.
+ Good understanding of cloud security architecture, security assessments, audit standards for the Cloud, security threats in the cloud
+ Certified Information Systems Security Professional (CISSP) certification or equivalent experience.
+ Strong understanding of the ISO 27001 framework and the information security management process.
+ Experience in conducting risk assessments and developing security controls.
+ Excellent communication, collaboration, and problem-solving skills.
+ Ability to work independently and manage multiple priorities simultaneously.
+ Strong analytical and critical thinking skills.
+ Proficient in MS Office Suite and familiarity with security management tools
+
+-------------------------------------------------------------------------
+JD- 10
+
+Source - LinkedIn
+
+Job Description:
+Responsibilities
+
+ Help to maintain Milestone’s controls framework and ensure it is consistent with the business objectives, applicable legislation, and certifications. 
+ Provide inputs to measure and analyze cyber security posture across the organization 
+ Oversee delivery of SIEM, vulnerability management and threat hunting tool reports and recommend improvements and solutions to current cyber security issues and risks. 
+ Participate in the assessment of current state and issue identification, develop recommendations aligned to strategic objectives, and draft high level conceptual and detailed design recommendations 
+ Support Milestone audits and security compliance reviews (including but not limited to: SSAE18/Soc2 Type2, ISO27000 etc.) 
+ Support company-wide annual Risk Assessments and Investigation Deep Dives. 
+ Support execution of supplier and service partner Due Diligence and ad hoc audit requests. 
+ Contribute to building and maintaining audit, risk, and compliance maturity program. 
+ Support rest of Milestone’s business units in ability to adopt innovative solutions and technology towards delivering a data secure environment both internally and externally. 
+ Liaise with cross-functional teams to provide consulting as SME on governance and compliance requirements. 
+ Develop, maintain, and regularly update the standards and policies framework, including coordinating signoffs from affected parties. 
+ Produce management reports and support with presentations for Committee and Board meetings and Risk management reporting. 
+ Support reporting to the internal Infosec organization, including weekly meeting minutes, ad-hoc meetings, and workshop minutes. 
+ Support KPI/KRI reporting - create performance dashboards for Infosec, analyse the data and share insights with the wider team. 
+ Provide support in evaluation of security tools for the firm. 
+ Assist various teams in capturing and refining information protection requirements, integrating those requirements into system designs and ensuring program compliance. 
+ Provide support for contract review for customer engagement from an Infosec perspective. Provide support for periodic Awareness to internal employees. 
+ Prepares and/or conducts written and oral reports and presentations. 
+
+Skills
+
+ At least 8 years’ experience is security risk and compliance management or similar position. Experience in the Financial Services would be welcome. 
+ At least a Bachelor’s Degree in Computer Science or related field with relevant practical experience. 
+ Industry recognized certifications (CISA, CISM, CRISC, CISSP) will be considered as a strong advantage. 
+ Experience in SOC2 compliance audits and related standards. 
+ Experience with ISO27001, COBIT and other security standards. 
+ Knowledge of security tools – SIEM, Vulnerability management, Email security monitoring, DLP etc 
+ Good understanding of the risk-based controls and governance approach and its practical application in the environment. 
+ Understanding of key controls and how they impact the business from an operational or systems perspective. 
+ Fluent in English (both orally and in written proficiency). 
+ Excellent interpersonal and communication skills, including ability to interact effectively with positions of all levels 
+ Ability to prioritize and execute on multiple, simultaneous, complex priorities 
+ Ability to deal with highly confidential information in a professional manner 
+-------------------------------------------------------------------------
+JD- 11
+
+Source - LinkedIn
+
+Job Description:
+7+ years of experience in any of the Information Security disciplines or equivalent experience. 
+ Bachelor's degree in cyber security, Information Security, Computer Science, or a related field. 
+ Known industry certifications such as CompTIA Network+ or Security+, CISSP, CISM, or CISA. 
+ Strong leadership and team management skills. 
+ Excellent communication and interpersonal skills. 
+ In-depth knowledge of security protocols, standards, regulations and frameworks. 
+ Basic required technical competencies in: Application/System Architecture, Infrastructure, Networking, Requirements, SDLC, DevOps, Security. 
+ Intermediate level of technical competencies in: Configuration management and Testing. 
+ General understanding of Cybersecurity practices such as Least Privileged access, safe handling of secrets, and threat hunting. 
+ Knowledge of public cloud infrastructure. 
+ Experience with Python or a similar scripting language. 
+ Experience working with Git or general code repository experience. 
+ General understanding of Linux Operating Systems. 
+-------------------------------------------------------------------------
+JD- 12
+
+Source - LinkedIn
+
+Job Description:
+HolcimAs the world’s global leader in building solutions, Holcim is reinventing how the world builds.We operate four business segments: Cement, Aggregates, Ready-Mix Concrete and Solutions & Products, and hold leading positions in all regions of the globe, with around 60,000 employees in around 60 countries. Holcim experts solve the challenges that customers face around the world, whether they are building individual homes or major infrastructure projects. Demand for our materials and solutions is driven by global population growth, urbanization, improved living standards and sustainable construction.We are listed at the Swiss stock exchange SIX and Euronext.Job descriptionRole Information Security ManagerLocation : Airoli Navi Mumbai (Hybrid)Experience 10-12 YearsSummaryEducation / QualificationBachelor’s degree in Computer Science, Information Technology or Engineering degree in any discipline with experience/ skills in Information Security/ Cybersecurity/ IT Security/ OT Security, etc.CEH/ CFIH/ CISSP/ CISM/ CRISC certifications are added advantageRoles and Responsibilities:ExperienceAt least 10+ years of experience in Information Security/ Cybersecurity, primarily in IT Security Projects/ Assessments/ Implementation, Security Design/ Architecture/ Implementation/ Operations/ Reviews, IT Risk Assessment, Vendor Security and Risk Assessments, Cybersecurity Engineering, Business Case Preparation, Data Protection and Privacy initiatives, etcRequired skills:IT & Security Risk Assessment Frameworks and ProcessesGood knowledge in ISO 27001, NIST Cybersecurity FrameworksNetwork & Security Fundamentals with Hands-on experience preferredKnowledge/ Experience in Application Security/ SSDLC/ DevSecOps and Cloud SecurityIT/ OT Security Projects, Solution POCs/ Evaluations, etcStrong People and Project Management expertise in IT Security/ Information SecurityResponsibilities:Planning, Supporting and Driving various IT Security, OT Security, Cybersecurity/ Data Security and Privacy Projects/ Initiatives/ POCs, as neededPerforming Security Reviews for IT/ Business Projects/ Requirements and ChangesAssessing and managing risks, vulnerabilities, threats and compliance within the RegionIT/OT Cybersecurity Assessment, Control Implementation and SupportEnsure VAPT are embedded as part of our Application Development, Enhancement and Release Lifecycle Processes.Create, Review and Update Security Policies and Guidelines, as neededCybersecurity Awareness Training and CampaignsThird Party/ Vendor Security & Risk AssessmentSecurity Reviews and Approvals for Third Party/ External Accesses and Data SharingSupporting the implementation of DevSecOpsParticipate in various internal forums/ working groups within Holcim on IT Security, Cloud Security, Application Security, SOC/ CSC and contribute to global security initiatives and projectsCyber/ Security Incident Response, Investigation, Root Cause Analysis, Corrective and Preventive Action PlansData Protection and Privacy Initiatives
+-------------------------------------------------------------------------
+JD- 13
+
+Source - LinkedIn
+
+Job Description:
+Job Description
+
+This is a very critical role, in an extremely fast-moving environment. The ideal candidate would be a self-starter, with fast thinking skills, and an extremely organized individual. Candidate should be well equipped with a diverse knowledgebase in IT and Security domains.
+
+This is a dual-role. You are expected to be a technical SPOC in your respective areas (mentioned in the JD). Hands-on experience and knowledge is expected, specifically in the areas of application security architecture, Security tools and technologies, risk management, technology evaluation and data centre security. This individual also manages the security effectiveness of security tools and technologies and their security providers. He will also be part of security roadmap and improvements.
+
+Key Responsibilities& Job Specifications (Key Skills Required)
+
+Monitor and Manage all IT Security infrastructure, tools and technologies
+
+Majority of work in Managing and Maintaining Security Tools and Technology like Firewall, VPN, Proxy, Anti-DDOS, Anti-APT, PAM etc. which also includes SOC operations.
+
+Monitor internal, external policy and regulatory compliance in security technologies and operations.
+
+Technically sound and hands-on knowledge to manage and maintain various security products like PAM, Firewall/IPS/IDS, Proxy, Anti-virus, Load Balancer, SSL VPN, DDoS and Network security.
+
+Knowledge on Cybersecurity tools like SIEM, PAM, DLP, EDR, UBEA, Anti-APT, Deception, Data encryption technologies etc.
+
+Working experience on Information Security (IS) Policies & IT Procedures, ISO 27001 assessments, IT audits, Cyber Security audits. Support team in this area.
+
+Implementation of new security solutions and handling SOC operations, proof of concept (POC).
+
+Participate in the creation and or maintenance of policies, security metrics, standards, baselines, guidelines and procedures.
+
+Work experience on Web application Security, Penetration testing, conduct vulnerability audits and assessments for security and other systems.
+
+Understanding and experience on cyber Security incident response and SOC operations. Required to work in SOC operations as required.
+
+Should have strong communication, leadership, and strategic decision-making skills.
+
+Work as project manager for designing, implementation and maintenance of new security tools and technologies or other security initiatives.
+
+Input in to the design and implementation of standards, policies, guidelines and appropriate architectural principles to ensure the firms cyber security goals continue to be met.
+
+Review and implement security controls for new projects/assignments happenings in MCX.
+
+Carry out threat hunting, red teaming or any other proactive security assessments as per CISO strategy.
+
+Qualifications/Experience
+
+Very good communication skills, documentations skills, presentation skills.
+
+Experience in implementing security tools and project management in one or more of the tools mentioned above.
+
+Team management, work independently. Managing the shifts and working in shifts.
+
+-------------------------------------------------------------------------
+JD- 14
+
+Source - LinkedIn
+
+Job Description:
+About the role: 
+
+Navi is looking for an Associate Manager Information Security to be part of the information security program at the Group Level ensuring cybersecurity compliance to the requirements put forth by regulators - RBI, IRDAI & SEBI. 
+
+
+
+Key responsibilities: 
+
+As Navi operates in the regulatory space, this role requires interpreting and helping implement regulations related to cyber security by Reserve Bank of India, IRDAI and SEBI, as well as any other applicable regulatory guidance related to the service offerings issued by relevant institutions 
+Further to the point above, ensure on-going monitoring and compliance with existing regulatory expectations across these dimensions. 
+Ensuring that information security principles, policies, frameworks, standards and controls are defined, implemented and managed effectively. 
+Partner and collaborate extensively with cross-functional teams, such as Engineering, Infrastructure, IT, Legal, and help minimize information security risks 
+Architect and deliberate on the solutions that are compliant with relevant regulatory cybersecurity requirements 
+Conduct and review results of Technology Risk Assessment, recommending mitigation strategies to bring the Risk to appropriate levels 
+Ensure readiness of the organization for internal and external audits by keeping all documents, evidences, ready 
+If required, represent Navi in Board and Board Committee meetings, as well as in discussions with regulators 
+Conduct Security awareness programs, train personnel on data security & privacy related processes and responsibilities 
+Review / conduct Third Party Risk Assessments & Vendor assessments before onboarding
+Review security solutions / controls implemented by Tech / Engineering teams, controls at data center, cyber / information security incidents, IT BCP and DR drills, cloud security controls 
+Identify and define Security KPIs including weekly, monthly reports and update Security Dashboards
+
+
+Required Skills: 
+
+Prior experience in the Fintech/Startup industry and knowledge of one of the regulatory compliances like PCI DSS, RBI Master Directives, IRDA, SEBI cyber security guideline is required 
+Hands-on approach in solving complex security problems 
+Experience with Cyber Security & Risk Management frameworks like ISO27001, NIST SP 800-37, etc Cyber Kill Chain, MITRE ATT&CK, or other relevant frameworks 
+Working knowledge of Cloud environments like AWS, GCP is beneficial 
+Exposure to Agile methodologies, DevOps, Cloud technologies is beneficial
+Ability to multitask and meet deadlines, and to prioritize in a highly dynamic work environment 
+Ability to balance risk, potential impact, resourcing, business drivers, and timelines
+Excellent verbal and written communication skills 
+4+ years of experience working in information security or compliance.
+Preferred Qualifications: 
+
+Bachelor’s degree / Diploma in computer science, information technology or Information security
+Relevant certifications (e.g., ISO 27001 Lead Auditor Lead Implementer, CISA, CISM, CISSP, etc.)
+-------------------------------------------------------------------------
+JD- 15
+
+Source - LinkedIn
+
+Job Description:
+Role Description
+
+ The Manager, Risk Management, Information Security position will be an integral member of the Information Security and Risk Management team. This role will be responsible for design, development, implementation and monitoring of risk management program. Work in Chief Information Security Officer (CISO) office under Director, Information Security Governance, Risk and Compliance, this role serves as an information security technology professional for Grant Thornton to support the design, implementation, and maintenance of a cohesive information security governance, risk and compliance program. The successful candidate will have a good mix of deep technical knowledge, understanding of industry best practice, frameworks and regulations, and a demonstrated background in information security risk management program.
+ An experienced and motivated risk and compliance individual contributor is needed to work across a matrixed team in place today and growing in the future. The successful candidate has a track record of developing strong relationships, collaborating across teams, coordinating multiple timelines, and managing complex, cross discipline projects.
+
+The Ideal Candidate
+
+ is a self-starter, with the ability to drive tasks to completion independently and learn new skills on the job as program requirements evolve.
+ possesses strong business judgment, deep analytical thinking, is comfortable managing multiple responsibilities within a fast-paced environment, and has worked collaboratively with others to develop, implement, and communicate business improvement and innovative strategies.
+ possesses strong verbal and written communication skills, a solution-oriented approach, and relationship-building skills are important attributes to succeed in this role.
+ global view of their business and think in terms of immediate problem solving but also automating, expanding, and scaling solutions broadly.
+ thinks strategically at a global level and effectively develop key processes, procedures and communications that facilitate cross-functional implementation of risk management processes and risk reporting.
+
+Skills
+
+Responsibilities:
+
+Develop the information security risk management framework and risk appetite
+Collaborate and partner with Enterprise Risk Management function to gain alignment and advance the program
+Perform information security risk assessments across a variety of platforms and applications
+Perform information security supplier/vendor risk assessments. Utilize the best methods for identifying potential supplier risks.
+ Prepare risk reports, facilitate risk treatment by proposing remediation/mitigating controls and recommendations to business stakeholders; prepare risk register to monitor and track risks.
+Assess exposure to risk, measure operational risk against ERM frameworks, assist in establishing policies and procedures to minimize risk, identify ways to protect the organization from data loss and reputational damage
+Support iterative review of assessment results, working with appropriate stakeholders across the lines of defense
+Perform and facilitate the collection, review, and assimilation of risk assessment data and reporting into concise and meaningful reports/dashboards for leadership
+Remain up to date with emerging threats, best practices and relevant legislation
+Work and communicate hand-in-hand with both external and internal stakeholders on critical issues that are directly impacting the business.
+Contribute to the development of scalable models and tools that speed up both decision making and accuracy for the organization.
+Meet with stakeholders to gather and integrate feedback and evangelize the program
+Create metrics and measure progress and compliance. Take leading role in drafting and presenting deep-dive documents, including responses to senior executives.
+Provide supply chain security assessment remediation oversight.
+
+
+Experience
+
+Other details
+
+Experience with information security risk management framework, assessment, audit and controls based on industry standard frameworks (i.e. NIST; ISO; COSO; HiTrust, FAIR)
+Experience with regulatory requirements (i.e. PCI; GDPR; HIPPA; Privacy; CCPA; etc.)
+Experience using GRC tools and technologies in support of the assessment/audit process (RSA Archer, Security Scorecard, Bitsight, etc.)
+Experience gathering information from a range of different sources to help identify weaknesses in security controls
+Expert with security control design, development, implementation, and monitoring
+Demonstrated experience across multiple information security domains preferred 
+
+Qualifications
+
+Bachelor's degree in Computer Science, Engineering or related field or equivalent work experience
+CISA, CRISC, CISM, or CISSP certifications (one or more) preferred
+Demonstrated advanced verbal and written communication skills
+Excellent organization skills and be a self-motivated learner
+Hands-on experience conducting Information Security risk assessments and supplier risk assessments
+-------------------------------------------------------------------------
+JD- 16
+
+Source - LinkedIn
+
+Job Description:
+Technical SkillsSound knowledge on information security principles, cloud security threat modelling, security architecture, system and network security, authentication and security protocols, cryptography.
+
+Strong hands-on cloud architecture, experience of working on large scale cloud based services (including SaaS, PaaS, IaaS) and understanding of security challenges involved in deploying Cloud Applications
+
+Knowledge on Information Security fundamentals, OWASP tools and methodologies
+
+Good to have
+
+security certifications: one of the below certifications.CISSP (Certified Information Systems Security Professional) or
+
+CCSP (Certified Cloud Security Professional)
+
+Knowledge of common security attacks, post exploitation skills, security bug classification frameworks
+
+Effective understanding and implementation Risk Management process
+
+Knowledge on Web/mobile/infrastructure security assessments (pen tests, code reviews, security checks and SDLC consulting)
+
+Other Skills/requirementsAbility to present findings to technical staff and executives.
+
+Experience in handling app teams queries, providing recommendations & mitigation strategies in order to remediate vulnerabilities.
+-------------------------------------------------------------------------
+JD- 17
+
+Source - LinkedIn
+
+Job Description:
+Requirements & Competencies
+
+Bachelor’s degree.
+Experience managing, leading, and working with remote/distributed teams with diverse backgrounds with 4 or more years of managing others in a security field.
+4 or more years relevant professional experience in security operations or performing Incident Response.
+Advanced understanding of present-day cyber-threats, attacker techniques and behaviors, and effective methods to both detect & repel these threats for a global organization with a distributed enterprise IT environment.
+Serve as SME for threat and attack detection using SIEM, SOAR, threat intelligence, log analysis, network and EDR telemetry, forensic triage acquisition methods and other response techniques.
+Deep understanding of effective defensive controls for network, email, endpoint, identities, and data security both in traditional IT and in the Cloud.
+Foundational experience and background with broad enterprise-level IT technologies including networks, endpoints, virtualization, cloud, operating systems, email, storage, databases, etc.
+Proficiency leading projects and project management experience with a focus on delivering results.
+Flexibility to work outside regularly scheduled/normal business hours as required.
+
+Responsibilities
+
+Provide incident response as part of the 24x7 Security Operations Center
+4-6 years of experience of working in Security operations and Incident response. 
+Managing our SOC and all related tools, solutions, processes, and people.
+Leading the daily work of security analysts has a desire for developing a SOC and SOAR platform, and prioritizing response and effective in the remediation of threats.
+Implementing and managing others in delivery of processes and standard work for the global security operations function. This includes threat mapping, playbook development, building threat intelligence informed detections, and performing detailed investigations including threat hunting and intrusion analysis, utilizing an advanced security stack for daily work, and ensuring team SLAs and performance is met and delivered.
+Security Incident Management includes implementing automation to gain efficiencies, reduce errors, and increase capacity of an enterprise incident response program.
+Become the subject matter expert in the preparation, identification, and eradication of information and technology threats, and thus will be called up to influence and guide the overall Information Security Program direction and approach.
+Building correlation queries, on boarding data to Splunk, knowledge of deploying technical Addon’s from Splunk base.
+Experience of working with Vulnerability Management.
+Must have expert networking protocol knowledge.
+Able to demonstrate an understanding of current offensive / defensive computing and forensics.
+Should be able to provide threat Intel services.
+Prior experience detecting, analyzing and/or responding to security incidents.
+Good Communication & written skills.
+Hands-on experience with common security technologies (IDS, Firewall, SIEM, etc.)
+Understanding of common security threats, attack vectors, vulnerabilities, and exploits
+Shift work, with flexibility to cover both day and nighttime shifts.
+Managing a Splunk Enterprise Security environment, O-365 and Azure.
+Should be able to work independently, with Vendors and drive the calls whenever required.
+Promote a risk-awareness culture, work closely with GRC team in India and US to ensure efficient and effective risk and compliance management practices.
+Conducts initial triage of security events and incidents. Facilitates communication within the SOC and documents progress throughout the Incident Response Lifecycle.
+Recognizes potential, successful, and unsuccessful intrusion attempts and compromises through reviews and correlation with different security tools.
+Proper escalation and hand-off of security incidents for containment and remediation
+Tuning of rules, filters, and policies for detection-related security technologies to improve accuracy and visibility.
+Jumping on the call with Vendors and other teams to discuss issues with Splunk/ to get their requirements and deliver the same in the form of projects.
+Providing weekly/monthly reports to the Upper Management.
+Maintaining documentation of policies and procedures
+Security process improvement
+Work closely with team and guide them from time to time.
+
+Work with different application teams/security vendors within India U.S and U.K and provide suggestions in improving security posture.
+-------------------------------------------------------------------------
+JD- 18
+
+Source - LinkedIn
+
+Job Description:
+Job Summary & Core Requirements
+
+ Minimum 5 years' experience in IT Governance and Cyber Security as HOD (mandatory) 
+ Vendor industry experience (mandatory) 
+ Hands on and ability to implement security technical solutions (mandatory) 
+ Manage communication with MAS auditor, incident reporting, engagement 
+ Leading tasks and multiple teams of information security resources 
+ Knowledge of application security, database security, and network security 
+ A practical knowledge and understanding of Risks Assessment 
+ Mitigation controls, maintenance of IT Risk Register. 
+ Knowledge of establishing security baselines for IT systems. 
+ CISSP certified (mandatory) 
+ AWS security certification (mandatory)
+-------------------------------------------------------------------------
+JD- 19
+
+Source - LinkedIn
+
+Job Description:
+Roles And Responsibilities
+
+Conduct Third-Party Security Assessments: Perform comprehensive assessments of third-party vendors' security controls, policies, and procedures to identify potential vulnerabilities and risks.
+Risk Analysis: Analyze the results of security assessments to evaluate the level of risk posed by third-party engagements. Assess the impact of identified vulnerabilities on the organization's data security and operational resilience.
+Regulatory Compliance: Ensure that third-party engagements comply with relevant regulatory requirements, industry standards, and contractual obligations. Stay updated on regulatory changes and incorporate them into assessment processes.
+Documentation and Reporting: Document assessment findings, including identified vulnerabilities, risks, and recommendations for remediation. Prepare clear and concise reports to communicate assessment results to stakeholders, including senior management and regulatory bodies.
+Collaboration: Collaborate with internal stakeholders, including Business and Vendor Relationship Managers, Legal, Information Security, and Procurement teams, to facilitate the assessment process and ensure alignment with organizational objectives.
+Vendor Management: Provide guidance to Business and Vendor Relationship Managers on selecting, onboarding, and managing third-party vendors from a security perspective. Assist in establishing and maintaining vendor security requirements and standards.
+Continuous Improvement: Identify opportunities to enhance the effectiveness and efficiency of the third-party security assessment process. Implement best practices and lessons learned from previous assessments to continuously improve security posture.
+
+-------------------------------------------------------------------------
+JD- 20
+
+Source - LinkedIn
+
+Job Description:
+Develop and maintain the organization's information security policies, standards, and procedures.
+Responsible for all documentation and records related to information security Management System.
+Conduct regular risk assessments and vulnerability scans to identify potential security threats and weaknesses.
+Conduct internal audits to ensure compliance to the defense posture of the organization.
+Implement and manage security controls, including firewalls, intrusion detection systems, and encryption technologies.
+Monitor security logs and alerts to detect and respond to security incidents in a timely manner.
+Lead incident response efforts, including investigation, containment, and recovery activities.
+Ensure compliance to change management controls across all information Technology projects.
+Develop and deliver security awareness training programs to educate employees about security best practices.
+Collaborate with IT teams to ensure the secure design and implementation of new systems and applications.
+Stay up to date on emerging threats, vulnerabilities, and security technologies.
+Manage relationships with external vendors and security service providers.
+Prepare and present reports on the organization's security posture to senior management and stakeholders.
+-------------------------------------------------------------------------
+JD- 21
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Primary focus is to provide technical expertise and tooling to ensure the highest level of reliability and availability for critical applications. Able to provide consultation and strategic recommendations by quickly assessing and remediating complex availability issues. Responsible for driving automation, efficiencies to increase quality, availability, and auto-healing of complex processes.
+ 
+Information Security Manager Technology Issues, Events and Remediation
+Operational risk management is a key component of our operating model as it upholds the trust and security that is central to our brand promise and is critically important to the company s ongoing growth and success
+The Technology Issues, Events and Remediation team has the responsibility for coordinating the issue management function across all American Express Technology functions
+The team provides end-to-end resolution and governance for all Operational Risk Events (ORE) and Corrective Action Plans (CAP) including strengthening the control environment while enabling growth and ensuring flawless customer experiences
+On a daily you will be asked to:
+Perform hands-on issue resolution management, guidance, and monitoring of various Capabilities to ensure ORE and CAP guidelines and landmarks are met timely and align with governance and compliance mandates.
+Collaborate with key team members on operational risk processes for Technology, such as loss events and compliance issues and ownership of events.
+Manage and facilitate ownership issues and concerns in risk and Bank forums.
+Facilitate and Lead Technology Ops Excellence risk and governance forums
+Support Technology partners to ensure that effective Issue resolution (via Loss Event and Corrective Action management) is implemented
+Build and maintain excellent relationships across Technology and Business Unit Operational Excellence teams
+Work closely with senior leaders and their representatives to ensure appropriate risk management, mitigation and/or elimination
+Ensure deliverables satisfy objectives and the expectations of a variety of partners, including the CIO, CISO and other senior leaders within Technology and other areas.
+Partner with key technology leads to implement process improvements and controls across Technology as related to OREs.
+Perform thematic root cause analysis and collaborate on recurring technology caused events to identify unmitigated risks and areas for control enhancements.
+Lead process redesign efforts to ensure detailed and timely documentation and analysis of OREs and CAPS which includes the identification of relevant risks and implementation of mitigating controls.
+Minimum Qualifications:
+bachelors Degree in related field.
+5-7 years of risk management, controls analysis, and/or 10+ years issue management/remediation experience required
+Experience with the development and/or assessment of IT General Controls
+Deep understanding of compliance, risk management and internal IT control frameworks
+Outstanding ability to engage, educate, influence, and collaborate across organizations
+Experience in assessing technology risks and responding through development of controls
+Experience working with audit, compliance, operational risk, regulatory, and/or control functions
+Solid ability to synthesize large amounts of data into short key messages and identify and analyze related trends
+Consistent record of adjusting quickly to shifting priorities, multiple demands, ambiguity and rapid change
+Strong interpersonal and partnership skills / ability to develop relationships with peers in business unit and central operational risk management group
+Cyber security knowledge
+Proven ability to translate complex technical information into clear, accessible concepts for diverse audiences.
+Proven experience with industry GRC tools like, RSA Archer, OpenPages, MetricStream, etc
+Strong MS Office skills (Excel, Power Point, Word).
+Preferred Qualifications: CISA, CISM, or CRISC
+masters degree
+Benefits include:
+Competitive base salaries
+Bonus incentives
+Support for financial-well-being and retirement
+Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location)
+Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
+Generous paid parental leave policies (depending on your location)
+Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)
+Free and confidential counseling support through our Healthy Minds program
+Career development and training opportunities
+-------------------------------------------------------------------------
+JD- 22
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Based on recruiter search
+Key Responsibilities :
+
+Perform threat analysis, risk assessments, and threat modeling.
+Develop and implement security frameworks and policies.
+Collaborate with cross-functional teams to ensure compliance with security standards.
+Conduct regular security audits and assessments.
+Monitor network activity for potential security breaches.
+Provide training and awareness on cyber security best practices.
+Job Requirements :
+
+Strong understanding of security framework, threat analysis, MFT, SOC, incident, threat modeling, authentication, firewall, and network security.
+Proficient in Python and Java.
+Familiarity with threat analysis tools such as SANS Top 25 or OWASP Top 10.
+Knowledge of cyber security trends and best practices.
+Bachelor's degree in Computer Science or related field preferred but not required.
+-------------------------------------------------------------------------
+JD- 23
+
+Source - Naukri.com
+
+Job Description:
+Key Responsibilities :
+
+Collaborate with cross-functional teams to develop and implement information security strategies, policies, and procedures.
+Conduct regular security assessments and audits to identify vulnerabilities and risks.
+Develop and maintain incident response plans and procedures.
+Monitor network activity using SIEM tools and respond to security incidents promptly.
+Provide training and awareness programs to employees on cyber security best practices.
+Collaborate with IT teams to ensure secure software development lifecycle (SDLC) practices are followed.
+Participate in regular security meetings and provide updates on security trends and threats.
+Job Requirements :
+
+Strong knowledge of IR, SIEM, Cyber Security, Malware Analysis, and Management.
+Familiarity with SOC and SOAR tools such as Splunk, Qradar, and Carbon Black.
+Bachelor's degree in Computer Science or related field preferred.
+Certifications such as CISSP, CISM, or CISA are a plus.
+-------------------------------------------------------------------------
+JD- 24
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Daily you will be asked to:
+
+Partner with technology teams to understand their business processes and corresponding IT process flows to determine risks as well as ensure adequate controls are designed and implemented to mitigate risk.
+Partner with our second line function to ensure technology teams perform risk identification, assessments, and control implementations to meet second line s deadlines.
+Identify and proactively flag areas of high risk for intervention (e.g., automated alerts for near-threshold breach)
+Utilizing reports, work with our internal clients (technology teams) to meet certification, testing, and other required deadlines.
+Ensure various compliance requirements (SOX, GLBA, etc.) are met through implementation of controls.
+Perform Process Risk Self-Assessments on existing new processes within technology business units.
+Serve as a Subject Matter Expert (SME) for Information Security and Data Protection and Technology risk pillars identified through the Process Risk Self-Assessment activities provide consulting services on mitigative controls, quality control and other activities to support our Operational Risk Framework
+Work closely with senior leaders and their representatives to ensure appropriate risk management, mitigation and/or elimination activities are taken, to ensure that deliverables and milestones satisfy objectives and expectations of a variety of stakeholders, including the CIO, CISO, VP and other senior leaders and external stakeholders.
+Accurately identify, measure, and mitigate areas of process and operational risk.
+Drive creative thinking to generate process improvements for our team regarding accelerators for our internal clients as well as internal team processes.
+Requirements
+
+Bachelors in related field
+CISA, CISM, or CRISC
+5+ years of relevant experience
+Requires deep understanding of compliance, risk management and internal IT control frameworks.
+Expertise with GRC Archer a plus
+Proven ability to lead without authority.
+Exceptional ability to engage, educate, influence, and collaborate across the enterprise.
+Experience with either waterfall or agile software delivery lifecycles.
+Experience in data analytics to enable process improvement.
+Strong ability to synthesize large amounts of data into short key messages and identify and analyze related trends.
+Proven ability to adjust quickly to shifting priorities, multiple demands, ambiguity, and rapid change.
+Strong interpersonal and collaboration skills / ability to develop relationships with peers in business unit and central operational risk management group.
+Audit and compliance experience.
+Ability to meet deadlines in a multi-tasked environment.
+Exceptional communication skills, both written and presentation
+ISO 270001 LA / LI preferred.
+-------------------------------------------------------------------------
+JD- 25
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Based on recruiter search
+Key Responsibilities :
+
+Conduct risk assessments and develop risk management strategies.
+Collaborate with stakeholders to implement information security policies and procedures.
+Monitor compliance with regulatory requirements such as PCI DSS, ISO, and TPRM.
+Perform regular IT audits and provide recommendations for improvement.
+Participate in incident response planning and execution.
+Provide training and awareness programs for employees on information security best practices.
+Job Requirements :
+
+Strong knowledge of PCI, ISO, and TPRM standards.
+Familiarity with IT audit methodologies and tools.
+Ability to communicate complex technical concepts to non-technical stakeholders.
+Bachelor's degree in Computer Science or related field preferred, but equivalent experience will be considered.
+-------------------------------------------------------------------------
+JD- 26
+
+Source - Naukri.com
+
+Job Description:
+Job description
+As the Information Security Manager, you will be responsible for developing, implementing, and managing the organizations information security program. You will work closely with internal stakeholders to identify security risks, establish policies and procedures, and implement controls to mitigate potential threats. Additionally, you will oversee security awareness training programs and lead incident response efforts to address security incidents effectively.
+Ke y Responsibilities
+Develop and maintain the organizations information security policies, standards, and procedur
+Responsible for all documentation and records related to information security Management System.
+Conduct regular risk assessments and vulnerability scans to identify potential security threats and weaknes
+Conduct internal audits to ensure compliance to the defense posture of the organiza
+Implement and manage security controls, including firewalls, intrusion detection systems, and encryption technologie
+Monitor security logs and alerts to detect and respond to security incidents in a timely manner.
+Lead incident response efforts, including investigation, containment, and recovery activities.
+Ensure compliance to change management controls across all information Technology proje
+Develop and deliver security awareness training programs to educate employees about security best pr
+Collaborate with IT teams to ensure the secure design and implementation of new systems and applica
+Stay up to date on emerging threats, vulnerabilities, and security technologi
+Manage relationships with external vendors and security service provider
+Prepare and present reports on the organizations security posture to senior management and stakeholder
+R equ i r e ments
+Bachelors degree in Computer Science, Information Technology, or a related field. Masters degree preferr
+Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM), or other relevant certifications preferr
+7 years of experience with at least 2 years of experience in information security management rol
+Strong understanding of cybersecurity principles, standards, and best pr
+Experience with security frameworks such as NIST, ISO 27001, or CIS Contro
+Excellent leadership, communication, and interpersonal skill
+Ability to collaborate effectively with cross-functional teams and stakeholder
+Proven track record of successfully managing security incidents and implementing security contro
+Experience with security technologies such as SIEM, IDS/IPS, endpoint protection, and data loss prevention (DLP) solu
+Strong analytical and problem-solving skills.
+-------------------------------------------------------------------------
+JD- 27
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Key Accountabilities
+
+Working with important stakeholders collaboratively (Various functions of organization, regulators and auditors, entity security teams, Group
+
+and GO security teams) to create right security standards and practices within organization.
+
+Provide information security awareness training to organization personnel. Ensuring yearly training module is conceptualized along with Group
+
+team, tested, and released to employees and monitor completion as per defined timelines within the organization. Period report to be shared
+
+with stakeholders on progress and defaulters to seek support from Line managers and function leads for timely completion
+
+Assess current technology architecture for vulnerabilities, weaknesses and for possible upgrades or improvement
+
+Implement and oversee technological upgrades, improvements, and major changes to the information security environment
+
+Develop, implement, and monitor a strategic, comprehensive enterprise information security and IT risk management program to ensure that
+
+the integrity, confidentiality, and availability of information is owned, controlled or processed by the organization. Carry out yearly Information
+
+Security Risk Assessment for all required functions, quantity and monitor the risks till closure.
+
+Develop, maintain, and publish up-to-date information security policies, standards, and guidelines. Yearly refresh of ISMS policies as per latest
+
+Group Security guidelines, audit observations and local regulatory guidelines. Oversee the approval and dissemination of security policies and
+
+practices.
+
+Create, communicate, and implement a risk-based process for vendor risk management, including the assessment and treatment for risks
+
+that may result from partners, consultants, and other service providers. Carry out Vendor Due diligence as per the latest framework released
+
+by AXA Group
+
+Liaise with the enterprise architecture team to ensure alignment between the security and enterprise architectures, thus coordinating the
+
+strategic planning implicit in these architectures. Represent Security in Architecture Review Board and carry out Security Assessment for
+
+strategic projects and new products/solutions.
+
+Manage security incidents and events to protect corporate IT assets, including intellectual property, regulated data and the company's
+
+reputation.
+
+Work with various stakeholders to identify information asset owners to classify data and systems as part of a control framework Establishing
+
+security procedures, such as access control and employee security training programs
+
+Developing and enforcing rules regarding employee conduct while on the job
+
+Conducting security audits and periodic assessments of company facilities and systems to identify potential risks or weaknesses
+
+Coordinating with Group Physical Security team regarding potential threats to company security
+
+Conducting physical inspections of facilities to identify security risks and vulnerabilities
+
+Reviewing security procedures and making recommendations for improvement
+
+Conducting physical security assessments to identify potential risks based on location, structure, security measures, etc.
+
+
+Position Summary
+
+Information & Physical Security Manager is required to be hands-on with the implementation of best in class security framework in the
+
+organization in conjunction with local regulatory guidelines and group security standards & instructions.
+
+Specific position related experience
+
+Minimum 10-16 years of Industry experience
+
+Strong leadership skills and the ability to work effectively with business managers, IT engineering and IT operations staff
+
+The ability to interact with stakeholders, build strong relationships at all levels and
+
+across all business units and organizations and understand business imperatives.
+
+Project management skills: financial/budget management, scheduling and resource management
+
+Knowledge of Physical Security with certification like Physical Security Professional ( PSP)
+
+A strong understanding of the business impact of security tools, technologies and policies
+
+Excellent verbal, written and interpersonal communication skills, including the ability to
+
+communicate effectively with the IT organization, project and application development teams,
+
+management and business personnel
+
+In-depth knowledge and understanding of information risk concepts and principles as a means of relating business needs to security controls,
+
+an excellent understanding of information security concepts, protocols, industry best practices and strategies
+
+Experience working with legal, audit and compliance staff
+
+Experience developing and maintaining policies, procedures, standards and guidelines
+
+Experience with common information security management frameworks, such as International Standards Organization (ISO) 2700x, the IT
+
+Infrastructure Library (ITIL). Knowledge of and experience in developing and documenting security architecture and plans, including strategic,
+
+tactical and project plans
+
+Strong analytical skills to analyze security requirements and relate them to appropriate security
+
+Controls
+
+An understanding of operating system internals and network protocols
+
+Familiarity with the principles of cryptography
+
+Experience in system technology security testing (vulnerability scanning and penetration testing).Familiarity in application technology security
+
+testing (white box, black box, Grey box and code review
+
+Certifications such as CISA/CISM/CISSP/CRISC, ISO 22301:2012 Lead Auditor/ Physical Security Professional
+-------------------------------------------------------------------------
+JD- 28
+
+Source - Naukri.com
+
+Job Description:
+Job description
+About Us:
+
+M1Xchange is an RBI licensed TReDS platform (Trade Receivables Discounting System) enabling thousands of MSMEs to get their receivables paid early and grow their business. The platform enables MSMEs to discount their approved invoices pending with corporate buyers basis a unique bidding model from 55+ banks and NBFCs to get the best interest rates for the transaction. With a focus on driving financial inclusion and providing cutting-edge services, we are poised for rapid growth and expansion. We are seeking a dynamic and strategic-minded individual to join our team.
+
+
+Responsibilities
+
+
+Provide information security awareness training to organization personnel.
+Creating and managing security strategies
+Oversee information security audits, whether performed by organization or third-party personnel.
+Manage security team members and all other information security personnel.
+Provide training to information security personnel during onboarding.
+Evaluate department budget and costs associated with technological training.
+Assess current technology architecture for vulnerabilities, weaknesses and for possible upgrades or improvement (In discussion with IT Team)
+Implement and oversee technological upgrades, improvements and major changes to the information security environment.
+Serve as a focal point of contact for the information security team and the customer or organization.
+Manage, configure & review the physical security, disaster recovery and data backup systems.
+Communicate information security goals and new programs effectively with other department managers and senior management.
+
+Candidate Profile:
+
+
+Minimum 8 to 10 Years experience in Banking/ NBFC / FinTech/ Insurance sector, Information security function.
+Engineering Graduate (Electronics & Communication / CSE)
+Desirable certifications: CISM, ISO-27001 Lead Auditor
+Experience in implementation program of ISO-27001 certification & successfully maintaining the same. Knowledge about PIMS: ISO 27701.
+Exposure to DPDP Act & GDPR
+Excellent communication skills, email writing, well conversant with MS Excel, Power BI
+Data management & presentation skills.
+Ability to independently manage the Information security program.
+Keen eye on process development & refining.
+-------------------------------------------------------------------------
+JD- 29
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Craft and implement comprehensive operational security strategies covering all information security aspects for a growing team.
+Responsible for security operations and aligning them with global security objectives and practices.
+Collaborate with US counterparts to synchronize efforts in Engineering, Governance, Risk, and Compliance (GRC) and Security Architecture.
+Drive a focused initiative to automate security workflows within the operational team, enhancing efficiency and response times.
+Engage with team members to ensure that work is valuable and efficient for the business.
+Identify business, cyber, and operational risks, working with the team to develop mitigation strategies.
+Maintain communication and troubleshoot security systems with security vendors.
+Promote continuous professional development of the team, staying ahead of the evolving threat landscape and regulatory requirements.
+Ad-hoc crisis management for any ongoing or identified critical cyber security incidents.
+Managerial Responsibilities:
+Provide leadership and direction to the security team, fostering an environment of accountability and excellence.
+Develop team members through mentorship, training, and performance management.
+Manage cross-functional projects and initiatives, ensuring successful delivery and alignment with business goals.
+Serve as a subject matter expert and advisor to senior management on security-related matters.
+
+Qualifications
+
+Required Experience:
+8+ years experience in leading security operations, focusing on vulnerability, threat management, and incident response.
+Experience with the following security operations tools; logging systems, firewalls, anti-virus, SIEM, vulnerability management tools, DLP, CASB, etc.
+Experience with cloud security and developing and implementing cloud systems in AWS, Azure or GCP.
+Expertise in security automation, threat intelligence, and incident management.
+Firm grasp of GRC and frameworks such as SOC2, ISO, and NIST CSF.
+Ability to work collaboratively with teams across different geographies and time zones.
+Proficient in English, including speaking, reading and writing.
+
+Preferred
+
+-------------------------------------------------------------------------
+JD- 30
+
+Source - Naukri.com
+
+Job Description:
+Job description
+1.Candidate must have strong experience in Information Security Management system, Policy procedures
+creation, implementation
+2.ISO 27001 assessment Specification for a framework of policies procedures that include all technical operational controls
+3.Candidate must have strong experience of Information Security Risk Management, Security Assessment,
+defense in depth and offensive vs defensive techniques
+4.Candidate must have experience on Vulnerability Management, Incident Management, Threat intelligence
+and Analytics
+5.Candidate must have experience of Cybersecurity Framework implementation, tools technologies
+6.Candidate must have knowledge of Cybersecurity tools like Web Application Firewall, Privilege Identity
+Access Management, SIEM, ZTA Micro segmentation and Encryption
+7.Must have understanding of Endpoint Network Security technologies like EDR, Firewall, IDS/IPS, SSL VPN
+etc
+8.Candidate must have good communication skills (written verbal both)
+Skills / Competencies
+1.He / She must have 10 - 12 Years of experience in Information Security, IT Risk management with
+strong academic background.
+2.Ability to stay current with emerging threats, security risks and potential impacts to the business.
+3.Should have strong exposure on Frameworks, IDS/ IPS, Firewalls, Standards, Web app security,
+Vulnerability Scanners, Network Security, Cyber security, Anti malware systems etc.
+4.Hands on experience in Information Security & Risk areas driving remediation, analysis and
+mitigation in Cyber security, IT Infrastructure and applications.
+5.Candidate should have at least one Information security certification CISM, CISA, CISSP or CEH
+Graduate (BSc. IT, BE) with Information Security Certifications
+CISM, CISSP
+1.He / She will responsible for managing Information & Cybersecurity compliance requirements.
+2.Perform risk assessment of all key applications and IT Infrastructure to ensure all risks are identified and mitigated.
+3.Responsible for handling the relevant application security practice areas like penetration testing, vulnerability assessment, data leakage protection, network security, monitoring, etc.
+4.Periodically provide reports of IT security compliance, Risk, and overall security posture to Chief Information Security Officer
+5.He / She will be ensuring that potential security incidents are correctly identified, analyzed, investigated, reported and taken care of the ongoing operational components of Enterprise Information security
+6.Responsible for evaluating and performing proof of concept of new Cyber Security Products required by Organization
+7.He / She will be responsible to manage Business Continuity program as per regulatory framework.
+Role: Manager Information Security
+-------------------------------------------------------------------------
+JD- 31
+
+Source - Naukri.com
+
+Job Description:
+Role & responsibilities
+
+Manage our Security Operation Center partner relationship, ensuring processes and procedures are working as expected to ensure an efficient service and effective alignment with regular operations.
+Own, maintain and improve internal Information Security policies.
+Owning the Information security roadmap, in alignment with company goals and strategy, and ensure we are up to date and continuously improving our security posture.
+Collaborate closely with other IT teams, such as System Administrators, Developers, and Management, to communicate security risks, suggest improvements, and coordinate security measures.
+Highlight InfoSec recommendations and concerns as part of our demand management process for new initiatives and projects.
+Manage and facilitate the vulnerability management process end to end to ensure visibility and priorization to any critical vulnerability that might be identified.
+Ensure proper awareness for all our employees, regularly publishing internal tips, training and updates that are understandable and easy to follow by all.
+Close alignment with Internal Audit, Legal and HR department to ensure a transparent & collaborative cross functional relationship.
+Be the contact point as a Subject Matter Expert in any security incident, project, external audits and cyber-insurance
+Stay up to date with industry trends and emerging technologies to make proactive recommendations.
+
+
+
+Preferred candidate profile
+
+
+Bachelors degree in Information Technology, Computer Science, or a related field plus CISSP with 5 to 10 yrs experience in Information Security System.
+3-5 years of experience as a Security Analyst and/or a Security Consultancy / Advisory role.
+Familiarity with Operational Technology (OT) systems and protocols will be a plus.
+Familiarity and awareness of global data privacy regulations.
+Familiarity and previous experience with ISO 27000 certification highly desirable
+Understanding of applications, development, networking, end point and cloud security principles and best practices.
+Excellent customer service and interpersonal skills.
+Strong communication and teamwork abilities.
+Problem-solving, troubleshooting and critical thinking skills.
+Adaptability and a proactive approach to end-user support.
+Proficient in English (both written and verbal).
+
+-------------------------------------------------------------------------
+JD- 32
+
+Source - Naukri.com
+
+Job Description:
+Job description
+15+ years experience in the Technology industry.
+7+ years Security Architecture experience with focus on IAM control domain
+Or
+10+ years Solution Architecture experience with significant exposure in the IAM space
+Human & System authentication/authorisation, Adaptive authentication/authorisation, Identity Lifecycle Management & Governance, Interdomain Trust, Privileged Access Management, Directory Services, Identity s role in Zero Trust Architectures, Roles & Entitlements management, Cloud/SaaS IAM, Mainframe IAM, Secrets Management;
+Ability to shape Security solutions for Group wide consumption through sound design & architectural expertise and foresight. eg: what, why and how;
+Appreciates complex solutions and technology landscapes, balancing trade-offs between business, technical and security drivers;
+Awareness of the Product/Vendor market with the ability to execute on industry trends and good practices.
+-------------------------------------------------------------------------
+JD- 33
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Qualification
+
+Master's Degree in Information Technology/Information Security or relevant degree like CEH/CISM/CISSP/CISA
+Experience
+
+Should have minimum experience of 9-10 years` in monitoring & managing technology risk including operational, cyber and digital technology related strategic risks
+responsible for developing company level security policies, standards and procedures, setting up Cyber emergency team, act as a key liaison with internal, external and statutory auditors and responsible for timely closure of audit finding.
+Role: Manager Information Security
+-------------------------------------------------------------------------
+JD- 34
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Dear Candidate,
+
+Please read the Job description and carefully and apply with your updated resume.
+
+Manager - Information Security
+
+Total Information Security Technical Experience: 10+ Years
+Joining: Immediate CTC 15-19 LPA
+- Provide information security awareness training to all personnel within the organization.
+- Create and manage security strategies for the organization.
+- Oversee information security audits conducted by the organization or third-party
+personnel. Familiar with various standards such as DPDP Act, Security Compliance under
+RBI, PCI DSS v3.2.1 and 4.0, PA DSS (PCI SSS), PCI PIN, NPCI, SAR, ISO 27001:2013, etc.
+- Manage the security team and all other information security personnel.
+- Provide training to information security personnel during onboarding.
+- Evaluate the current technology architecture for vulnerabilities, weaknesses and suggest
+possible upgrades or improvements.
+- Implement and oversee technological upgrades, improvements and major changes to the
+information security environment.
+- Serve as a point of contact for the information security team and the customer or
+organization.
+- Manage and configure physical security, disaster recovery and data backup systems.
+- Effectively communicate information security goals and new programs with other
+department managers within the organization.
+- Possess good knowledge of Applications, Networks, and IT Infra architecture to ensure
+security with best practices.
+- Conduct due diligence of new onboarding clients and third-party risk assessment. Perform
+VAPT, WAPT (OWASP TOP 10 and NIST Standards), Source Code Review, External PT,
+Internal
+PT, Segmentation PT, Wireless Scan, card under and reporting and Mitigation.
+- Conduct BCP DC/DR Drills with documentation.
+- Have hands-on experience with EV/OV SSL/TLS certificates.
+
+
+
+
+- Must be familiar with various on-premises / cloud security tools/devices like Firewall, WAF,
+DDoS, DLP, MDM, and Software & Applications Hardening and assessments.
+
+Role: Manager Information Security
+-------------------------------------------------------------------------
+JD- 35
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Job Description :
+
+The Information Security manager is expected to liaise with other teams (Internal & External)to manage Information & IT Security related activities with regards to RBI PSS, PCI DSS & other security compliance requirements like ISO 27001.
+
+Perform risk assessment, define all security controls to address riskidentified.
+
+Document non- compliance with standards and work towards timely resolution of any open issues with the respective application / process / stakeholder
+
+Responsibilities
+
+Responsible for implementation of an Information Security Framework across all functions of the organization
+
+Work with stakeholders to define systems requirements for new technology implementations
+
+Defend security audits conducted by customers (Banks), PCI (VISA, MA) & regulatory bodies (RBI)
+
+Carry out BCP & DR Drills
+
+Implement a cost- effective Information Technology security program for the Organization including policies, procedures, guidelines, awareness training, overall security infrastructure and monitoring
+
+Responsible for designing and operation of related compliance monitoring and improvement activities to ensure compliance both with internal security policies etc. and applicable laws and regulations
+
+Lead, design, implement, operate and maintain Information Security compliance program
+
+Champion PCI DSS certification & other security certifications
+
+Create procedures, perform system security audits, penetration- tests, and vulnerability assessments
+
+Proactively conduct internal audits based on security policies defined, highlight non- compliances and suggest actions to resolve the same
+
+Monitoring FIM & SIEM tool alerts
+
+Prepare & send status reports to all key stakeholders
+
+Qualifications
+
+BE/ Any other relevant graduate technical degree with at least 6- 8 years of full- time work experience in information security management and/ or related functions (such as IT audit and IT Risk Management)
+
+Information security management qualifications such as CISSP, CISM, or CISA mandatory
+
+Additional relevant professional certifications will be an advantage.
+
+Skills
+
+PCI DSS Certification / exposure is mandatory
+
+Experience with security standards like ISO 27001, PCI- DSS, PA- DSSwith sound knowledge in data and transaction security especially end- to- end Key management and PIN encryption
+
+Deep understanding of information security principles and best practices required
+
+Experience in having completed at least 1 end- to- end PCI- DSS scope discovery, system audit and resolution of non- compliances
+
+Experience in execution of BCP & DR Drills for systems & applications
+
+Experience in implementing and/ or managing security change projects in medium to large enterprises
+
+Experience in implementation/ review of Network Security Architecture, Infrastructure Security, Vulnerability Assessment/ Penetration Test etc
+
+Good analytical and communication skills
+
+Ability to interact with senior management of the company and enlist their commitment to all Security Process initiatives
+
+Ability to champion and draw support from all staff from the various departments of the company in a tactful manner
+
+Ability to work in teams and escalate critical issues to his/ her Supervisor
+
+Ability to work under pressure to meet tight deadlines
+-------------------------------------------------------------------------
+JD- 36
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Information security Explains the purpose of and provides advice and guidance on the application and operation of elementary physical, procedural and technical security controls. Performs security risk, vulnerability assessments, and business impact analysis for medium complexity information systems. Investigates suspected attacks and manages security incidents. Uses forensics where appropriate.
+
+Specialist advice Actively maintains knowledge in one or more identifiable specialisms. Provides detailed and specific advice regarding the application of their specialism(s) to the organisations planning and operations. Recognises and identifies the boundaries of their own specialist knowledge. Collaborates with other specialists, where appropriate, to ensure advice given is appropriate to the needs of the organisation.
+
+Research : Within given research goals, builds on and refines appropriate outline ideas for research, including evaluation, development, demonstration and implementation. Applies standard methods to collect and analyse quantitative and qualitative data. Creates research reports to communicate research methodology and findings and conclusions. Contributes sections of material of publication quality. Uses available resourcesto update knowledge of any relevant field and curates a personal collection of relevant material. Participates in research communities.
+
+Emerging technology monitoring Supports monitoring of the external environment and assessment of emerging technologiesto evaluate the potential impacts, threats and opportunities to the organisation. Contributes to the creation of reports, technology roadmapping and the sharing of knowledge and insights.
+
+Security administration Investigates minor security breaches in accordance with established procedures. Assists users in defining their access rights and privileges. Performs non-standard security administration tasks and resolves security administration issues.
+
+Digital Forensic Contributes to digital forensic investigations. Processes and analyses evidence in line with policy, standards and guidelines and supports production of forensics findings and reports.
+
+Penetration testing Maintains current knowledge of malware attacks, and other cyber security threats. Creates test cases using in-depth technical analysis of risks and typical vulnerabilities. Produces test scripts, materials and test packs to test new and existing software or services. Specifies requirements for environment, data, resources and tools. Interprets, executes and documents complex test scripts using agreed methods and standards. Records and analyses actions and results. Reviews test results and modifies tests if necessary. Provides reports on progress, anomalies, risks and issues associated with the overall project. Reports on system quality and collects metrics on test cases. Provides specialist advice to support others.
+
+If required:People Management / Resource Management: May be involved and gives some input on hiring Transition decisions Ensures appropriate leadership skills are present at every level through creating a motivational and supportive work environment in which employees are coached, trained and provided with career opportunities through development Allocates the different work to the respective employees considering experience, complexity, workload and organizational efficiency Continuously monitors and evaluates team workload and organizational efficiency with the support of IT systems, data and analysis and team feedback and makes appropriate changes to meet business needs. Provides team members/direct reports with clear direction and targets that are aligned with business needs and GIT objectives
+
+Requisite Education and Experience / Minimum Qualifications :
+
+Four-year college or university degree with focus on Business Administration or IT or related areas, or equivalent combination of education and experience Proficient spoken and written command of English At least 5-year experience in IT 2 years ofexperience in relevant area 1year of experience in team management Understanding of different culture Participatedin projects with people from other functions/markets
+-------------------------------------------------------------------------
+JD- 37
+
+Source - Naukri.com
+
+Job Description:
+Job description
+As an Information Security Manager at Milestone, you will help the security and compliance team to take our current cyber security program to the next level
+You will work closely with various teams across our organization to ensure we are remaining proactive and ensuring our processes and systems are designed and implemented following best security practices
+You will also be responsible for maintaining operational effectiveness of our company by mitigating risk all while increasing our security posture and protecting its assets
+The primary purpose of this position is to provide the maintenance, upkeep and provide front line support of our cyber-security program
+This role will report to Chief Information Security Officer (CISO) and will be an Individual contributor role in the beginning
+Depending on the performance and the role evolution, will be converted to a managerial role
+Responsibilities:
+Help to maintain Milestone s controls framework and ensure it is consistent with the business objectives, applicable legislation, and certifications.
+Provide inputs to measure and analyze cyber security posture across the organization
+Oversee delivery of SIEM, vulnerability management and threat hunting tool reports and recommend improvements and solutions to current cyber security issues and risks.
+Participate in the assessment of current state and issue identification, develop recommendations aligned to strategic objectives, and draft high level conceptual and detailed design recommendations
+Support Milestone audits and security compliance reviews (including but not limited to: SSAE18/Soc2 Type2, ISO27000 etc.)
+Support company-wide annual Risk Assessments and Investigation Deep Dives.
+Support execution of supplier and service partner Due Diligence and ad hoc audit requests.
+Contribute to building and maintaining audit, risk, and compliance maturity program.
+Support rest of Milestone s business units in ability to adopt innovative solutions and technology towards delivering a data secure environment both internally and externally.
+Liaise with cross-functional teams to provide consulting as SME on governance and compliance requirements.
+Develop, maintain, and regularly update the standards and policies framework, including coordinating signoffs from affected parties.
+Produce management reports and support with presentations for Committee and Board meetings and Risk management reporting.
+Support reporting to the internal Infosec organization, including weekly meeting minutes, ad-hoc meetings, and workshop minutes.
+Support KPI/KRI reporting - create performance dashboards for Infosec, analyse the data and share insights with the wider team.
+Provide support in evaluation of security tools for the firm.
+Assist various teams in capturing and refining information protection requirements, integrating those requirements into system designs and ensuring program compliance.
+Provide support for contract review for customer engagement from an Infosec perspective. Provide support for periodic Awareness to internal employees.
+Prepares and/or conducts written and oral reports and presentations.
+Skills:
+At least 8 years experience is security risk and compliance management or similar position. Experience in the Financial Services would be welcome.
+At least a Bachelor s Degree in Computer Science or related field with relevant practical experience.
+Industry recognized certifications (CISA, CISM, CRISC, CISSP) will be considered as a strong advantage.
+Experience in SOC2 compliance audits and related standards.
+Experience with ISO27001, COBIT and other security standards.
+Knowledge of security tools SIEM, Vulnerability management, Email security monitoring, DLP etc
+Good understanding of the risk-based controls and governance approach and its practical application in the environment.
+Understanding of key controls and how they impact the business from an operational or systems perspective.
+Fluent in English (both orally and in written proficiency).
+Excellent interpersonal and communication skills, including ability to interact effectively with positions of all levels
+Ability to prioritize and execute on multiple, simultaneous, complex priorities
+Ability to deal with highly confidential information in a professional manner
+-------------------------------------------------------------------------
+JD- 38
+
+Source - Naukri.com
+
+Job Description:
+ob description
+
+Job Description :
+
+the Information Security manager is in charge of the Information Security Management function, providing line management, leadership and strategic direction for the function and liaising closely with other managers.
+The purpose of the Information Security Management function, in turn, is to bring the organization s information security risks under explicit management control through the Information Security Management System.
+
+Responsibilities
+Routine line management and leadership of staff within the Information Security Management function
+Leadership and strategic direction for the function, ranging from planning and budgeting to motivational and promotional activities expounding the value of information security
+Liaison with and offers strategic direction to related governance functions (such as Physical Security/Facilities, Risk Management, IT, HR, Legal and Compliance) plus senior and middle managers throughout the organization as necessary, on information security matters such as routine security activities plus emerging security risks and control technologies
+Recruitment, leadership and direction for a loose network of information security ambassadors distributed throughout the organization
+Leads the design, implementation, operation and maintenance of the Information Security Management System based on the ISO/IEC 27000 series standards, including certification against ISO/IEC 27001 where applicable
+Forms a centre of excellence for information security management, for example offering internal management consultancy advice and practical assistance on information security risk and control matters throughout the organization and promoting the commercial advantages of managing information security risks more efficiently and effectively
+Leads or commissions the preparation and authorizes the implementation of necessary information security policies, standards, procedures and guidelines, in conjunction with the Security Committee
+Leads the design and operation of related compliance monitoring and improvement activities to ensure compliance both with internal security policies etc. and applicable laws and regulations
+Leads or commissions suitable information security awareness, training and educational activities
+Leads or commissions information security risk assessments and controls selection activities
+Leads or commissions activities relating to contingency planning, business continuity management and IT disaster recovery in conjunction with relevant functions and third parties
+
+Skills
+Creating, testing and implementing network disaster recovery plans
+Performing risk assessments and testing of data processing systems
+Installing firewalls, data encryption and other security measures
+Recommending security enhancements and purchases
+Training staff on network and information security procedures
+
+Competencies
+At least 5 years of full-time work experience in information security management and/or related functions (such as IT audit and IT Risk Management)
+Information security management qualifications such as CISSP or CISM
+Absolutely trustworthy with high standards of personal integrity (demonstrated by an unblemished career history, complete lack of criminal convictions etc.), and willing to undergo vetting and/or personality assessments to verify this if necessary
+Hands-on team leadership and management experience, ideally coupled with suitable management qualifications such as an MBA
+Typically a background in technical IT r les such as IT architecture, development or operations, with a clear and abiding interest in information security
+-------------------------------------------------------------------------
+JD- 39
+
+Source - Naukri.com
+
+Job Description:
+Job description
+Should have technical experience in design, configuration,
+and management of SIEM solutions
+Experience in administering IT security controls
+Lead engineering team to manage customer web proxies &
+authentication solutions, firewalls, IPS/ID Systems
+-------------------------------------------------------------------------
+JD- 40
+
+Source - Naukri.com
+
+Job Description:
+Job description
+We are seeking an Information Security Governance Manager to be responsible for implementing a comprehensive and consistent security governance and compliance strategy across the organization to protect and manage its technology and data related information security risks
+The candidate will be responsible for coordinating, identifying gaps, providing guidance and establishing end to end security governance to ensure effective internal controls are implemented to achieve data privacy, security, reliability and resilience that meets compliance and local regulatory requirements
+Responsibilities
+Support the delivery of global security governance and compliance strategies.
+Manage and maintain a security compliance framework across global entities that can align to Binance s compliance and Internal audits requirements.
+Develop, manage and maintain effective information security policies, processes, standards and procedures.
+Lead and support ISO 27001, PCI-DSS, SOC 2 Type 1/2 and other security compliance projects.
+Develop maturity model and track of information security controls.
+Internal first point of contact for general security enquiries. Proactively approach and support internal stakeholders across global entities.
+Establish and maintain global security governance and compliance process.
+Respond security questionnaire from internal/external security audit and organize/document the common answers and approaches for future audits.
+Facilitate security risk management within the business units.
+Establish and maintain information risk metrics to highlight information assets that have the highest risk exposure.
+Conduct regular review of remediation actions and reporting to business and technology senior management.
+Requirements
+Bachelors degree or higher in information technology, cyber security or related field.
+5+ years of experience in a security governance role.
+Strong leadership and excellent communication skills.
+Understanding of Information Risk, security control, data privacy related regulations (e.g. CCPA, SG PDPA, EU GDPR, China Cybersecurity law) within the financial services and banking industry.
+Strong knowledge and practical working experiences in delivering global projects of international data privacy and information security frameworks including NIST Cybersecurity & Privacy Framework, ISO 27001, ISO 27701, CIS, SOC 2 Type 1/2 Report, PCI-DSS and ISAE 3000.
+Demonstrable work experience delivering effective business and technical security solutions, processes, tools, and high performing teams.
+A good working knowledge of the latest information technology security trends and emerging threats is essential.
+Experience of implementing risk management principles and methodologies within a security or technology function.
+Good project management experience and skills.
+Strong analytical and problem-solving skills are must have.
+Having one of below security or privacy qualification is a plus - CISSP, CISM, CISA, CEH, SANS, CCSP, ISO 27001 Lead Auditor, IAPP CIPP / CIPM.
+An understanding of cloud infrastructure technologies and associated risks would be beneficial.
+-------------------------------------------------------------------------
+JD- 41
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Our engineers are skilled technical and consultative resources expected to be strong in both technical and soft skills. An engineer must be driven and proactive with the ability to problem-solve, communicate, participate in diverse project teams from a technical perspective, and interface effectively with customers, vendor partners, and colleagues.
+
+How you’ll make an impact:
+
+The primary purpose of this role is to act as the orchestration strategist in identifying incident response activity where mitigating controls would be automated. This is accomplished in a four-pronged approach:
+
+Identify mitigating controls through repetitive manual processes within the SOC Analyst community that complies with client security policy and industry best practices.
+
+In concert with Data Scientists, within the "Proactive Hunting" process, translate complex, and non-complex Incident Response event patterns into an automated process mitigating control.
+
+In coordination with SOC Operations, Data Scientists, Service Delivery Manager, and Application Development Engineers, produce the requirements necessary to translate manual Incident Response events into automated mitigating controls through the use of several industry standard platforms, research patterns to gain decision making criteria, and coding languages.
+
+What we’re looking for:
+
+Strong ability to code in python (Django/Flask)/ node.js, d3.js
+
+Ability to work with SQL and NOSQL efficiently.
+
+The candidate will most likely have spent time in every role of the SOC Operations, operating model.
+
+Understand the computational decision-making process in automating complex scenarios.
+
+Strong collaboration skills that in turn translates efficient processes into automated decision-making functions and determinations through the use of a wide range of industry standard platforms, data mining strategies, and investigative tools.
+
+Excellent written and oral communicating skills
+
+Unrivalled ability to work with highly complex, technical individuals to translate computing technology into everyday communication topics.
+
+Ability to explain highly technical standards, and solutions to junior personnel, and senior leadership.
+
+Comprehend complex data sets, and create own algorithms if necessary to accomplish tasks.
+
+Experienced in writing requirements documentation for data programming solutions.
+
+Focus is developing automation scripts to interconnect security systems using a proprietary platform that uses python code to configure automation actions.
+
+Minimum 5+ years of industrial experience
+
+Security background preferred.
+
+Experience in REST APIs, Data storage, Elastic search or SIEM (Splunk, Sumo logic, etc.), Web Development
+
+Experience in using python in backend solutions.
+
+This role is Work from Office role.
+
+This role demands the availability during US Working hours
+
+What you can expect from Optiv
+
+A company committed to championing Diversity, Equality, and Inclusion through our Employee Resource Groups.
+Work/life balance
+Professional training resources
+Creative problem-solving and the ability to tackle unique, complex projects
+Volunteer Opportunities. “Optiv Chips In” encourages employees to volunteer and engage with their teams and communities.
+The ability and technology necessary to productively work remotely/from home (where applicable)
+-------------------------------------------------------------------------
+JD- 42
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Assistant Manager - Information Security...
+LNT/AM/997552
+
+Head OfficeAmn Tower, Powai
+Posted On
+30 Apr 2024
+Required Experience
+3 - 7 Years
+
+Skills
+Knowledge & Posting Location
+
+CYBER SECURITY
+
+INFORMATION SECURITY
+
+Minimum Qualification
+
+BACHELOR OF TECHNOLOGY (BTECH) & MASTER OF TECHNOLOGY (MTECH)
+
+
+Job Description
+1 Sound knowledge of Info Sec standards such as ISO27001
+
+2 Understanding of technology security architecture concepts
+
+3 Understanding Application Risk Management Framework
+
+4
+
+Should possess good interfacing skills
+
+5
+
+Should possess good application security knowledge, experience on tools & methodologies related to secure software development (OWASP top20, AppScan, Metasploit, WAF) for web, mobility, API, ERP & cloud apps
+
+6
+
+Job Responsibilities
+
+1. Keep track of latest tools & technologies being introduced in application security arena
+
+2. Roll out "security by design" structure in software projects (secure SDLC)
+
+3. Work with solution providers to conduct limited proof of concept testing for products through well-defined measurement criteria
+
+4. Implement security tools & technologies as per project plans with vendors & partners
+
+5. Conducting software security awareness trainings for stakeholders in respective areas
+-------------------------------------------------------------------------
+JD- 43
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+You Lead the Way. We’ve Got Your Back.
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+
+Join Team Amex and let's lead the way together.
+
+American Express has embarked on an exciting transformation driven by an energetic new team of an inclusive pool of candidates to give all an equal opportunity for growth. Service Operations is responsible for providing reliable platforms for hundreds of critical applications and utilities within American Express
+
+Primary focus is to provide technical expertise and tooling to ensure the highest level of reliability and availability for critical applications. Able to provide consultation and strategic recommendations by quickly assessing and remediating complex availability issues. Responsible for driving automation, efficiencies to increase quality, availability, and auto-healing of complex processes.
+
+Information Security Manager – Technology Issues, Events and Remediation
+
+It’s more than protecting information, it’s protecting people.
+
+Operational risk management is a key component of our operating model as it upholds the trust and security that is central to our brand promise and is critically important to the company’s ongoing growth and success. The Technology Issues, Events and Remediation team has the responsibility for coordinating the issue management function across all American Express Technology functions. The team provides end-to-end resolution and governance for all Operational Risk Events (ORE) and Corrective Action Plans (CAP) including strengthening the control environment while enabling growth and ensuring flawless customer experiences.
+
+You won’t just see the problem, you’ll drive the solution
+
+On a daily you will be asked to:
+Perform hands-on issue resolution management, guidance, and monitoring of various Capabilities to ensure ORE and CAP guidelines and landmarks are met timely and align with governance and compliance mandates.
+Collaborate with key team members on operational risk processes for Technology, such as loss events and compliance issues and ownership of events.
+Manage and facilitate ownership issues and concerns in risk and Bank forums.
+Facilitate and Lead Technology Ops Excellence risk and governance forums
+Support Technology partners to ensure that effective Issue resolution (via Loss Event and Corrective Action management) is implemented
+Build and maintain excellent relationships across Technology and Business Unit Operational Excellence teams
+Work closely with senior leaders and their representatives to ensure appropriate risk management, mitigation and/or elimination
+Ensure deliverables satisfy objectives and the expectations of a variety of partners, including the CIO, CISO and other senior leaders within Technology and other areas.
+Partner with key technology leads to implement process improvements and controls across Technology as related to OREs.
+Perform thematic root cause analysis and collaborate on recurring technology caused events to identify unmitigated risks and areas for control enhancements.
+Lead process redesign efforts to ensure detailed and timely documentation and analysis of OREs and CAPS which includes the identification of relevant risks and implementation of mitigating controls.
+Minimum Qualifications:
+Bachelor’s Degree in related field.
+5-7 years of risk management, controls analysis, and/or 10+ years issue management/remediation experience required
+Experience with the development and/or assessment of IT General Controls
+Deep understanding of compliance, risk management and internal IT control frameworks
+Outstanding ability to engage, educate, influence, and collaborate across organizations
+Experience in assessing technology risks and responding through development of controls
+Experience working with audit, compliance, operational risk, regulatory, and/or control functions
+Solid ability to synthesize large amounts of data into short key messages and identify and analyze related trends
+Consistent record of adjusting quickly to shifting priorities, multiple demands, ambiguity and rapid change
+Strong interpersonal and partnership skills / ability to develop relationships with peers in business unit and central operational risk management group
+Cyber security knowledge
+Proven ability to translate complex technical information into clear, accessible concepts for diverse audiences.
+Proven experience with industry GRC tools like, RSA Archer, OpenPages, MetricStream, etc.
+Strong MS Office skills (Excel, Power Point, Word).
+Preferred Qualifications:
+CISA, CISM, or CRISC
+Master’s degree
+
+-------------------------------------------------------------------------
+JD- 44
+
+Source - Indeed.com
+
+Job Description:
+Job Purpose:
+The Third-Party Technology Risk Management team assumes primary responsibility for overseeing the risks linked to third-party vendors and suppliers on behalf of the bank. This role necessitates close collaboration with vendor stakeholders to ensure that the bank's shared data remains safeguarded through suitable security measures. It involves mitigating data-related risks and ensuring adherence to regulatory requirements. This entails evaluating the efficacy of these measures from the standpoint of data security and privacy. As a Third-Party Security Assessor, will be responsible for evaluating and assessing the security practices and controls of third-party vendors who have access to sensitive data or provide services to the organization. role is crucial in identifying and mitigating risks associated with outsourcing arrangements, ensuring compliance with regulatory requirements, and safeguarding the integrity of the Bank's data and systems. The individual in this position must stay updated on emerging technologies, secure configuration standards, and associated risks.
+
+Roles and Responsibilities:
+Conduct Third-Party Security Assessments:
+Perform comprehensive assessments of third-party vendors' security controls, policies, and procedures to identify potential vulnerabilities and risks.
+
+Risk Analysis: Analyze the results of security assessments to evaluate the level of risk posed by third-party engagements. Assess the impact of identified vulnerabilities on the organization's data security and operational resilience.
+
+Regulatory Compliance:
+Ensure that third-party engagements comply with relevant regulatory requirements, industry standards, and contractual obligations. Stay updated on regulatory changes and incorporate them into assessment processes.
+
+Documentation and Reporting: Document assessment findings, including identified vulnerabilities, risks, and recommendations for remediation. Prepare clear and concise reports to communicate assessment results to stakeholders, including senior management and regulatory bodies.
+
+Collaboration: Collaborate with internal stakeholders, including Business and Vendor Relationship Managers, Legal, Information Security, and Procurement teams, to facilitate the assessment process and ensure alignment with organizational objectives.
+
+Vendor Management:
+Provide guidance to Business and Vendor Relationship Managers on selecting, onboarding, and managing third-party vendors from a security perspective. Assist in establishing and maintaining vendor security requirements and standards.
+
+Continuous Improvement:
+Identify opportunities to enhance the effectiveness and efficiency of the third-party security assessment process. Implement best practices and lessons learned from previous assessments to continuously improve security posture.
+
+Education Qualification:
+Graduation: Bachelor's in Engineering / Technology /
+
+Computer Science / Information Security, or related field.
+
+Post-graduation: PGDM / MBA / Mtech / MCA
+
+Professional Qualification/Certification:
+CISSP, CISA, or CISM are preferred
+
+-------------------------------------------------------------------------
+JD- 45
+
+Source - Indeed.com
+
+Job Description:
+The head of information security will lead India based components of the OSB Group CISO function reporting into the Group CISO and covering aspects including security engineering, security operations, identify and access management, security governance and support delivery of group information security programmes and initiatives. They are responsible for framing geographically distributed technology groups internally and the technical management of project teams. They will also assume the responsibility of managing and maintaining the information security framework and controls (such as ISO27001) as updated under the operational framework agreement between OSB India and OSB Group, the parent organisation.
+
+The head of security will also work closely with other members of the Group CISO leadership team, business and product owners ensuring alignment with the Group information security strategy and services fulfil current needs support the overall vision of the organisation.
+
+The ideal candidate will be a seasoned information security technologist and manager with experience in leading security functions with responsibility for people, security processes and technologies. He or she will have a blend of experience across delivery, business development, risk management and the practical application of information security principles and technologies. They will ideally have prior leadership experience and will be enthusiastic about technology and its widespread application in business transformation. Experience working within the Banking Industry (in banking, vendors or a large tech firm) is highly desirable.
+
+Core Responsibilities
+Support OSB Group Information Security Management Program working in coordinating with Group CISO and his/her leadership team
+Support enhancing the Information Security Management Program & Framework (ISO27001 etc.) for the local OSBI organisation
+Align OSBI security services and capabilities to the Group Information Security Strategy and Roadmap
+Talent acquisition and management: Hire, maintain and manage excellent pool of technical expertise across Information Security functions & services delivered from OSBI and Group
+Accountable for performance of all Information Security Functions and staffs reporting. Inspiring, developing, and managing a high-performing team of information security professionals and engineers.
+Understand and interact with related disciplines though committees to ensure consistent application of policies, standards across all technology projects, systems and services
+Cooperating with wider IT and other departments to ensure data security and compliance.
+Driving local security improvements and integrated capabilities to align and support the company's overall goals and objectives.
+Maintaining knowledge of the latest IT and Security technologies and trends.
+Building and maintaining relationships with external data vendors and partners.
+Experience Requirements
+Minimum of 15+ years of experience
+Seasoned technology leader with a strong background in Information Security
+Experience managing globally distributed technology and engineering teams\ security services
+Strong leadership experience and ability to manage and mentor team of information security SMEs through the creation of high performing teams delivering measurable improvements
+Track record of operating and presenting to senior leadership level – CISO, CTO, CIO etc.
+Experience managing delivery budgets (up to multi-million £s), defining OKRs
+Experience in capacity management, hiring, training, staffing
+Experience of service migration projects, cloud platforms
+Knowledge Requirements
+Strong documentations, presentation and communication skills
+Setting up the local operating model for information security teams.
+Defining governance/controls framework covering information security, data security, ownership, quality, regulations
+Skilled in maturity assessments, strategy/roadmaps
+Strong architectural knowledge with one or more of Modern information security platforms on on-prem
+Demonstrable experience and knowledge of risk management principles and frameworks
+-------------------------------------------------------------------------
+JD- 46
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Responsibilities:
+Lead and manage Security Operations Centre
+Must be hands on in terms of creating detection logic, monitoring alerts etc.
+Primarily responsible for security event monitoring, management and response
+Ensure incident identification, assessment, quantification, reporting, communication,
+mitigation and monitoring
+Ensure compliance to SLA, process adherence and process improvisation to achieve
+operational objectives
+Provide input/review and development of security and compliance controls and
+vulnerabilities against policies, standards, and frameworks in the following
+frameworks such as ISO 27001, SOC2, and PCI
+Conduct manual validation to confirm vulnerability closure
+Revise and develop processes to strengthen the current Security Operations
+Framework
+Regularly review standard operating procedures and protocols to ensure SOC
+continues to effectively meet operational requirements
+Responsible for team & vendor management, overall use of resources and initiation
+of corrective action where required for Security Operations Centre
+Perform threat management, threat modelling, identify threat vectors and develop
+use cases for security monitoring
+Continual process improvement in infrastructure security assessments, reporting
+and
+remediation to reduce risk.
+Creation of reports, dashboards, metrics for SOC operations and presentation to Sr.
+Mgmt.
+Routinely engage with cross functional teams to evaluate SOCs ability to meet
+stakeholder needs
+Evaluate existing technical capabilities and systems and identify opportunities for
+improvement
+Oversee training and exercises to ensure SOC team proficiency, conduct after action
+reviews to identify lessons learned and best practices
+Work closely Security Leadership to identify implement process changes,
+improvements and efficiencies and ensure solid security practices
+Develop communication channels with technology owners and the business to
+evangelize the evolving threat landscape
+Perform analysis to validate justifications for false positives, operational
+requirements, and risk adjustments
+Serve as subject matter expert for vulnerability management issue resolution
+Communicate vulnerabilities, solutions, and enterprise trends to all levels of an
+enterprise – both technical and non-technical resources
+Administer security infrastructure including intrusion detection, data loss
+prevention, anti-virus
+Administer endpoint security controls
+Evaluate key threat intelligence feeds, assesses risk, and recommends actions for
+cybersecurity operations improvements
+Advise IT teams regarding patch notifications, initial risk assessment, eligible
+systems, and deployment requirements
+Perform assessment of internal and third-party cybersecurity risk
+Support responses to customer inquiries about Saviynt compliance related to IT and
+Security
+Interface with external auditors in managing ongoing compliance and audits as it
+pertains to SOC activities
+Work with leading Cloud Service Providers (CSPs) to validate vulnerability
+management security posture of their products and services
+Monitor and maintain enterprise security scanning tools
+Qualifications:
+
+Subject matter expert in Cyber Defense / SOC, cloud/server infrastructure security
+Bachelor of Science degree in Computer Science or related field is required
+10+ years security incident response experience
+Excellent analytical thinking and problem solving skills
+Experience in vulnerability program management
+Working experience with AWS, Google Cloud Platform or Microsoft Azure
+Working experience with a major scripting language is desirable
+Prior experience as a SOC analyst/ SOC Engineer/ L3 is of paramount importance, to
+demonstrate hands-on capabilities. This is a hands on role
+Scripting ability
+Must have excellent written, communication and verbal skills to assist with
+communications with other teams and writing executive summaries based on work
+output
+Ability to lead, influence and collaborate with remote team members, proven
+delivery, remediation and incident response background
+Solid background in security incident response and vulnerability management
+Self-starter and outcomes oriented, can work with minimal supervision but knows
+-------------------------------------------------------------------------
+JD- 47
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Overview:
+Quest has an opportuniity for an Informaiton Security GRC Advisor to join our team!
+Responsibilities:
+Ensure compliance with industry regulations and working with independent, external auditors to demonstrate such compliance to achieve certification of compliance
+Stay abreast of industry requirements for certifications relevant to Quest business
+Maintain in-depth knowledge of certifications and controls such as ISO2700X, PCI-DSS, SOC1 and SOC2
+Collaborate with legal to maintain and improve our privacy compliance program
+Develop control definitions and pass criteria for compliance
+Interview internal resources and review process documentation to assess compliance with established controls and identify gaps
+Work with other teams to identify solutions for compliance gaps
+Track compliance gaps and ensure work to remediate gaps meets deadlines
+Conduct periodic reviews of security and privacy policies and procedures
+Conduct periodic reviews of vendors’ certifications and compliance
+Organize and present audit documents for review with external auditors
+Conduct internal audits to identify risks and manage risk-tracking efforts
+Create and deliver training to employees on compliance topics
+Define and monitor metrics on compliance progress
+Drive innovation to improve compliance effectiveness and efficiency
+Prepare customer-facing materials on compliance efforts
+Meet with customers to resolve concerns related to privacy, security, and compliance
+Manage the completion of customer security questionnaires
+Respond to customer inquiries on compliance related matters
+Qualifications:
+Previous experience as a compliance analyst in a related field
+Experience with certifications, standards, and regulations such as ISO2700X, PCI-DSS, SOC1, SOC2, CCPA, and GDPR
+Experience with information security principles/practices
+Experience with privacy principles/practices
+Some experience with software development practices
+Passionate about security, privacy, and compliance
+Self-motivated, quick learner, fast researcher
+Excellent written and verbal communication skills
+Education or Certification in Information Systems, Management Information Systems or Computer Science or related field
+Should be ready to work in evening time.
+
+Preferred
+Bachelor’s degree in a related field or related work experience
+Knowledge of industry cloud technologies
+7+ years work experience within the software industry with practical experience working in compliance
+Professional Certifications such as CIPP (Certified Information Privacy Professional), CRISC (Certified in Risk and Information Systems Control), CISA (Certified Information System Auditor), CISSP (Certified Information Security Professional) or CISM (Certified Information Systems Manager) i
+
+Company Description
+At Quest, we create and manage the software that makes the benefits of new technology real. Companies turn to us to manage, modernize, and secure their business, from on-prem to in-cloud, from the heart of the network to the vulnerable endpoints. From complex challenges like Active Directory management and Office 365 migration to database and systems management to redefining security, and hundreds of needs in between, we help you conquer your next challenge now.
+We’re not the company that makes big promises. We’re the company that fulfills them.
+We’re Quest: Where Next Meets Now.
+
+Why work with us!
+Life at Quest means collaborating with dedicated professionals with a passion for technology.
+When we see something that could be improved, we get to work inventing the solution.
+Our people demonstrate our winning culture through positive and meaningful relationships.
+We invest in our people and offer a series of programs that enable them to pursue a career that fulfills their potential.
+Our team members’ health and wellness is our priority as well as rewarding them for their hard work.
+
+Quest is an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.
+-------------------------------------------------------------------------
+JD- 48
+
+Source - Indeed.com
+
+Job Description:
+
+Job Responsibilities
+
+To devise the security strategy, roadmap plan based on risk applicable for MSIL.
+To sustain information security management system and transition from ISO 27001:2013 to ISO 27001:2022.
+To ensure IT and security (ISO 27001, ITGC etc) related compliance are adhered in MSIL.
+Responsible for planning and ensuring audit observations are closed.
+The job responsibilities include extensive partnering with the IT Infrastructure, Application development team, business stakeholders and providers/vendors, to maintain compliance and security and further improve security controls applicable at various levels of organization.
+Identify, communicate and manage current and emerging security threats with relevant stakeholders.
+Work with business, internal IT and 3rd party vendor teams to promote and adopt security best practices.
+Validate IT infrastructure and other reference architectures for security best practices and recommend changes to enhance security and reduce risks, where applicable.
+Develop and oversee effective disaster recovery policies and standards to align with enterprise business continuity management program goals.
+The role requires strong understanding of Security governance and compliance along with technical controls understanding.
+Competencies / Skills
+
+Good business acumen and learner
+Proactive and ownership driven individuals
+Should have experience in process improvements and driving new process improvements.
+IT skills, understanding of ISO 27001, ITIL, NIST CSF framework, Cyber security and Information Security Technology, ITGC in general
+Should have established ISMS or worked on entire ISMS lifecycle
+Experience in Security Audits (min 2 years)
+Should have security certification such as CISA, CISSP, CRISC. ISO 27001 LA/LI
+Experience in area of GRC, Application Security
+Knowledge / exposure to GDPR/PDPB
+Excellent communication skills including presentation & business writing to communicate security risks at various levels.
+Good Change and Conflict management skills
+Networking and influencing skills
+Excellent personal and time management skills
+Team Player
+Strong project management and stakeholder management
+
+-------------------------------------------------------------------------
+JD- 49
+
+Source - Indeed.com
+
+Job Description:
+Responsibilities
+Interact with clients, business teams and suppliers; and ensure a resilient security organization.
+Support the CISO in driving security and security initiatives.
+Develop, implement, maintain, review and continually improve Information Security including Information Security Continuity and Privacy standards, procedures, controls, guidelines and relevant documented information; and integrate them into the Quality Management System.
+Implement a security training programmer. Conduct security induction, training and awareness throughout the organization.
+Conduct information security risk assessments, independent risk-based internal audits considering client contractual, business, standard, applicable legal and regulatory requirements.
+Manage and maintain a risk register / risk database along with risk treatment plans.
+Monitor, review and verify effective closure of audit findings and issues reported by interested parties.
+Ensure conformity to ISO 27001 standard, business security standards, client contractual security obligations and compliance to applicable legal and regulatory requirements and changing requirements.
+Effectively manage changes to information security management system and information security processing facilities.
+Represent the function in case of client and prospective client due-diligence, outsourced client audits, internal and external audits.
+Effectively manage information security incidents, events and weaknesses.
+Liaise with suppliers, ensure security and business continuity requirements are agreed with suppliers, monitor, review and audit key suppliers, manage supplier security risks.
+Manage day-to-day and end-to-end security operations
+Monitor and review information security processes including technical compliance review of IT assets / end user devices and endpoints; and carrying out independent review of information security.
+Build and effectively manage a competent team.
+Requirements
+Mandatory – Certified ISO 27001:2013 Lead Implementer / ISO 27001:2013 Lead Auditor / ISO 27001:2013 Internal Auditor.
+Good to have – Other security, business continuity, risk and privacy lean and agile certifications.
+A customer service mentality with focus on agile, project management and risk-based thinking.
+Thorough implementation knowledge of ISO 27001, ISO 27002, ISO 31000 and ISO 9001 standards.
+Ability to translate and interpret technical vulnerabilities and threats into risk statements that can be discussed with the interested parties.
+Ability to articulate impact on non-conformity to security processes and procedures and non-compliance to legal and regulatory requirements.
+Integration of management systems with excellent documented information skills.
+Working knowledge of other security regulation, standards, framework, methodology related to security, banking and fintech industry – SOX, SOC 1, SOC 2, SOC 3, PCI-DSS, ISAE 3402, IT General Controls, Internal Controls, IT Act, GDPR etc. and readiness to ISO 27002:2022 and the Data Protection Bill, 2021.
+Working knowledge of relevant GRC / security and data protection tools.
+Good understanding and knowledge of applicable legal and regulatory requirements as relevant to information security.
+Good understanding of secure coding, secure system engineering principles, network and security architecture, secure data centers, product security and cloud security.
+Good understanding of physical and environmental security.
+Thorough working experience in conducting independent Internal and supplier audit skills.
+Soft Skills – People Management, Negotiation, Communication, Time Management.
+Personal effectiveness – Possess ethical, open-minded, diplomatic, observant, perceptive, versatile, tenacious, decisive, self-reliant, able to act with fortitude, open to improvement, culturally sensitive and collaborative qualities.
+-------------------------------------------------------------------------
+JD- 50
+
+Source - Indeed.com
+
+Job Description:
+Job Description:
+
+Job Responsibilities
+
+Support business teams to achieve and maintain their security and compliance posture in accordance with ISO 27001, GDPR, HIPAA, Data Privacy, etc
+Validate ongoing compliance of policies and process/procedures in support of requirements and ensure that controls are operating effectively
+Prepare responses to client questionnaires and RFPs on information security, compliance and data privacy related areas. Provide support and clarity to customers and users of the information and cyber-security policy framework answering related questions and challenges as they arise
+Interface and engage both management and other functions in organization on information security compliance related activities and processes
+Lead the effective publication of policy materials and documents Risk Management
+Present and report regularly infosec dashboard to management and stakeholders
+Assist with the development of technical security risk and compliance documentation
+Document and Communicate status and compliance effectiveness to management on a regular basis
+Conduct regular internal audits on information security
+Manage external audits from customers, stakeholders and regulatory agencies
+Maintain and manage ISMS related documents, reports, and artefacts
+Coordinates the issuance of access control and drive change management activities
+Manage vendor and third-party due diligence documentation
+Internal consultant for IT domain leads, administrators for security infrastructure, and assisting them to implement security devices configuration controls for firewalls, Internet connectivity, Proxies, IPS and router etc
+Qualifications
+
+Certification – ISO 27001, CISA, CISSP, CISM (Anyone)
+3+ years of experience in Compliance, Security, or IT Audit experience
+Total experience of 6-8 years
+Any graduate or master’s degree in science, engineering or technology
+Strong knowledge in Project Management, IT Security Architecture Design
+Prior experience with managing other security compliance like HIPAA, GDPR, ISO 27018, SOC1 & 2, ISO 27001, PCI DSS, etc. is a plus.
+Must be self-driven, and interact and work with different functions and departments of the organizations on compliance
+Excellent communication skills and to independently drive other coordinators on compliance related activities
+Ability to organize, conduct and drive meetings and outcomes with little to no manager involvement. Must be aware of and deliver a quality stakeholder engagement experience
+Experience working with Internal and External Audit teams
+This role will have considerable engagement with all business units, committees, and other stakeholders across the Company. Successful candidates will be expected to lead and deliver a range of complex activities in the fields of information security management.
+Looking at the bigger picture, correlate the action and impact, Influence, control and enforce
+Think long term, think for the customer, think for practicality.
+-------------------------------------------------------------------------
+JD- 51
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Role: Information Security Manager
+
+Position Overview:
+We are looking for a passionate and seasoned information security professional to join and lead our InfoSec Team.
+As an InfoSec Manager, you will:
+1. Own and shape the infosec governance and compliance roadmap for 3SC.
+2. Champion the cause of information security and privacy across the organisation.
+3. Design, develop, fine-tune security solutions across all products at 3SC and drive it to completion.
+4. Lead a small and dedicated team of infosec engineers to help you accomplish the agreed upon infosec vision & roadmap.
+
+This is a great opportunity to learn from the best engineering leaders in the industry, help shape the entire security roadmap of a fast-growing organization and in the process grow as an infosec professional.
+
+Qualifications:
+1. Engineering / Cybersecurity graduate (post-graduate preferred).
+2. 6+ years of experience as an information security professional.
+3. Deep knowledge of OWASP top 10 and vulnerabilities in general.
+4. Good knowledge of modular arithmetic and cryptography.
+5. Good knowledge of Unix/Linux operating systems and shell scripting.
+6. Excellent knowledge of network and cloud security (one or more of GCP, Azure, AWS).
+7. Good planning, project management and collaboration skills.
+8. Excellent written and verbal communication skills.
+9. Proven track record of successful security governance and compliance journey (one or more of SoC2, ISO 27001, GDPR).
+10. Experienced in defining the organization level direction and roadmap for security and privacy.
+11. Knowledge of programming language(s) and databases(s)
+
+Responsibilities:
+1. Own infosec governance and compliance roadmap.
+2. Implement proactive infosec security and privacy policies and processes.
+3. Own webapp and database security.
+4. Own network and cloud security.
+5. Help in security review – design documents and code.
+6. Own infosec incident response document and implementation.
+7. Own security related documentation – intended for our clients, vendors, partners or internal consumption for eg. contracts, security posture document, security roadmap etc.
+-------------------------------------------------------------------------
+JD- 52
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Job Summary & Core Requirements:
+Minimum 5 years’ experience in IT Governance and Cyber Security as HOD (mandatory)
+Vendor industry experience (mandatory)
+Hands on and ability to implement security technical solutions (mandatory)
+Manage communication with MAS auditor, incident reporting, engagement
+Leading tasks and multiple teams of information security resources
+Knowledge of application security, database security, and network security
+A practical knowledge and understanding of Risks Assessment
+Mitigation controls, maintenance of IT Risk Register.
+Knowledge of establishing security baselines for IT systems.
+CISSP certified (mandatory)
+AWS security certification
+
+-------------------------------------------------------------------------
+JD- 53
+
+Source - Indeed.com
+
+Job Description:
+Job Responsibilities -
+Conduct based on various IT security compliances (such as CISA, ISO 27001, PCI DSS, NIST SP 800-53, etc.) and support organization to remediate the identified risks
+Design policy framework based on ISO 27001:2013
+Define controls as per ISO 27002:2013/15 Framework.
+Define controls as per NIST SP 800-53 framework
+Conduct ISMS audit for clients
+Develop and maintain audit checklist and documents
+Work closely with the VAPT team
+Create and update the hardening checklist
+Help client to upgrade from the old standards e.g. ISO 27001:2005 to ISO 27001:2013
+Perform risk assessment and impact analysis
+Map various compliances with each-other
+Job Requirements: Experience : 7 to 10 years
+M.Tech or B.Tech / B.E./BCA in Computer Science or Information Technology
+Candidate with Security & Compliance certification (CISA, CISM, ISO 27001 LA, etc.) will have added advantage.
+Basic Knowledge in IT Infrastructure Management, Networking, Server operating system (Window, Unix or Linux)
+Good Knowledge of IT Security, Service Management standards & Guidelines (ISO 27001/ PCI DSS/ SOC 1 & 2/NIST CSF, HITECH, ISO2000, ISO 9001 & others)
+To attend IT audits (Compliance, Security) based on Guidelines, Standards (ISO 27001/ PCI DSS/ SOC 1,2& NIST CSF, HITECH & others)
+To work with concern stakeholders on closure of gaps mentioned in assessment, audit reports
+Capability discussion with Internal & external clients on IT Security controls & compliance posture
+Review IT policies, Process documents, define new policies according to best practices as laid down in various standards
+Experience across business continuity framework and standards
+
+-------------------------------------------------------------------------
+JD- 54
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Genpact (NYSE: G) is a global professional services and solutions firm delivering outcomes that shape the future. Our 125,000+ people across 30+ countries are driven by our innate curiosity, entrepreneurial agility, and desire to create lasting value for clients. Powered by our purpose – the relentless pursuit of a world that works better for people – we serve and transform leading enterprises, including the Fortune Global 500, with our deep business and industry knowledge, digital operations services, and expertise in data, technology, and AI.
+Inviting applications for the role of Manager-Information Security -SOC Audits
+In this role we are looking for someone who has relevant years of relevant work experience in Information Security, Audit & assurance role with expertise in ITGC, network security and Application Security controls
+
+Responsibilities
+Experience in facilitating external & internal audits from inception to completion.
+Experience in drafting comprehensive risk-based control framework aligned to SOC 1, SOC 2 standard.
+Solutioning skills to resolve complicated IT, F&A and & application security issues.
+Working experience as an engagement lead for SOC 1 and SOC 2 audits at a Big 4/reputed IT organization
+Exposure to leadership connects on compliance posture, getting management commitment.
+Design and lead an internal monthly compliance monitoring framework with minimum manual touchpoints.
+Prepare & present an effective compliance dashboard for internal leaders and external stakeholders.
+Qualifications we seek in you!
+Minimum Qualifications
+Strong domain knowledge in ITGC testing, Application controls testing, SOC 1, SOC 2 reports, SaaS/PaaS/IaaS, Interface controls, Application Pre-Implementation and post Implementation reviews, Software Compliance reviews, IT & Network Security, Controls, Risk Frameworks, File Integrity Monitoring solutions, Cloud Security, Cyber security.
+Good performance rating in the current organization (verifiable)
+Any one audit certification: CISA/CISM/CRISC/CISSP
+Preferred Qualifications/ Skills
+Analytical skills, excellent problem-solving skills, ability to work within deadlines, excellent interpersonal and communication skills.
+Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. Get to know us at genpact.com and on LinkedIn, X, YouTube, and Facebook.
+
+Furthermore, please do note that Genpact does not charge fees to process job applications and applicants are not required to pay to participate in our hiring process in any other way. Examples of such scams include purchasing a 'starter kit,' paying to apply, or purchasing equipment or training.
+
+-------------------------------------------------------------------------
+JD- 55
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Job Description:
+
+Responsibilities:
+
+Firewall Management:
+
+Implement, and manage Check Point firewall solutions to secure the organization's network infrastructure.
+Configure and optimize firewall policies, rules, and access control lists (ACLs) based on security requirements and best practices.
+Monitor and maintain firewall systems to ensure high availability and performance.
+Site-to-Site VPN Configuration:
+
+Design, configure, and manage Site-to-Site VPNs using Check Point technologies to ensure secure and reliable connectivity between different network sites.
+Troubleshoot VPN connectivity issues, including encryption, authentication, and tunnel stability problems.
+Collaborate with remote site administrators to implement and maintain VPN configurations.
+Intrusion Prevention System (IPS):
+
+Configure and manage Check Point IPS to detect and prevent network-based threats and vulnerabilities.
+Monitor IPS alerts and logs to identify and respond to potential security incidents.
+Tune IPS policies to minimize false positives and ensure accurate detection of malicious activities.
+Security Monitoring and Incident Response:
+
+Continuously monitor firewall and IPS logs for suspicious activities, intrusions, and security breaches.
+Conduct security assessments and audits to identify vulnerabilities and implement appropriate countermeasures.
+Respond to security incidents, perform root cause analysis, and implement corrective actions.
+Collaboration and Documentation:
+
+Work closely with network engineers, system administrators, and other IT teams to integrate firewall, VPN, and IPS solutions with the overall network infrastructure.
+Document firewall configurations, VPN setups, IPS policies, procedures, and security incidents for compliance and audit purposes.
+Provide training and support to IT staff and end-users regarding firewall and VPN security policies and best practices.
+Continuous Improvement:
+
+Stay up-to-date with the latest security threats, vulnerabilities, and industry trends.
+Participate in continuous improvement initiatives to enhance the security posture of the organization.
+Recommend and implement new security solutions and technologies as needed.
+-------------------------------------------------------------------------
+JD- 56
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+The Information Security Engineer II position operates in a support role implementing security, technology and innovation in the Global Security Operations Center (GSOC) environment.The Info Security Engineer II is virtually the same role as Info Security Engineer I, but is a promotion path for individuals that have been in the role for 5-7 years. The centers operate 24x7x365. The GSOC is a pivotal function in the Global Security organization responsible for operation, maintenance, and monitoring of the Managed Security portfolio. This function facilitates the ingress, implementation and egress of advanced client trouble / change requests for DDoS mitigation and Threat Intelligence products as well as active monitoring/response to DDoS alerts/events.
+The Information Security Engineer II is expected to perform in an advanced capacity, including escalation support and on-call. Provides mentoring, training and escalation support to front line SOC personnel.
+
+Principal GSOC Duties and Responsibilities (Essential Functions):
+
+Perform basic to moderate changes within the managed security environment
+Manage and resolve customer fault, service outage and impairment events
+Monitor, triage and response to security alerts for client security events. Investigation and resolution of impairment scenarios on Managed Security products.
+Mentor and train peers in the Security Operations environment
+Research and implement customer generated change requests for Managed Security products
+Generate incident cases and escalate to superordinate teams in accordance with time and severity-based SLAs
+Possess exceptional customer service skills
+Multi-task during events
+Communicate effectively with managers, customers and vendors
+Maintain solid working relationships, including collaborative technical activities with peers
+Develop relationships with other teams both within and outside of Security to enhance the customer experience
+Strong written and verbal communication skills
+Analytical and problem-solving skills
+Attention to detail with good organizational capabilitiesPrioritize with good time management skills
+
+Qualifications & Skills:
+Required (education / experience / skills / competencies) Requires Bachelors degree in related field plus 2 years relevant experience or equivalent combination of education and experience.
+
+Preferred
+4-5 years in a Security Operations environment
+Demonstrated understanding of Denial of Service concepts and attack vectors, mitigation options
+Demonstrated proficiency in routing and networking skills, including the ability to:
+otroubleshoot BGP and BGP community strings
+oreview and analyze packet captures
+Demonstrated proficiency in configuring Access control Lists
+Certifications In specific security technologies such as Fortinet, Arbor, Radware, Palo Alto, Cisco or Checkpoint.
+Security industry certifications (examples):
+CISSP
+CRISC
+CISM
+Security+
+CCNA
+ACIA
+CCNA
+CEH
+ITIL Foundations
+Advanced knowledge and skills of at least one programming language (python preferred)
+
+
+-------------------------------------------------------------------------
+JD- 57
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Who are we?
+Locus.sh is a leading-edge technology company dedicated to solving the most challenging problems in logistics and supply chain. Our ambition? To revolutionize the supply chain realm through cutting-edge technology, enabling smarter, automated decision-making. From dispatch management and carrier orchestration to route optimization and real-time insights, our solutions are designed to enhance efficiency, consistency, and transparency in operations.
+Our Journey and Impact:
+Since our inception in 2015, with the backing of esteemed investors like GIC Singapore, Qualcomm Ventures, Tiger Global, and Falcon Edge ($80M raised so far), we've embarked on a global mission to redefine logistics. Our technologies have empowered giants like Unilever, Nestle, and The Tata Group, facilitating over 1 billion deliveries across 30+ countries. The result? A staggering $288 million in cost savings, a 12 million tonne reduction in CO2 emissions, and an unwavering 99.5% SLA adherence.
+Our Global Footprint:
+Based in Bangalore, India, our reach extends across the Americas, Southeast Asia, the Middle East, and beyond. As a vibrant team of 170+ visionaries, we're on an exhilarating growth trajectory.
+
+Traits We Value:
+
+Global: You possess a global mindset, understanding and appreciating diverse cultures and market nuances. You're adept at thinking beyond borders and appreciate the vast opportunities that a worldwide perspective brings.
+Unrelenting: You display unmatched perseverance and commitment in everything you do. Challenges invigorate you, and you are determined to overcome obstacles with innovative solutions.
+
+Intelligent: You consistently demonstrate sharp analytical thinking and astute problem-solving capabilities. You're quick to grasp complex concepts and can effectively communicate intricate ideas.
+
+Role Description
+
+As the Director-Information Security, you will be responsible for developing and implementing an organization- wide information security strategy and framework. You will lead a team of security professionals and work closely with other stakeholders to protect the organization's information assets from security threats and ensure compliance with applicable regulations and industry best practices.
+
+Key Responsibilities:
+
+Information Security Strategy: Develop and implement a comprehensive information security strategy aligned with the organization's goals and objectives. Ensure the strategy addresses current and emerging security threats, vulnerabilities, and risks.
+Security Governance: Establish and maintain an effective security governance framework, including policies, procedures, standards, and guidelines. Ensure compliance with applicable laws, regulations, and industry standards.
+Risk Management: Identify, assess, and manage information security risks throughout the organization. Develop risk mitigation plans and ensure their implementation.
+Security Operations: Oversee the day-to-day security operations, including security incident response, vulnerability management, threat intelligence, security monitoring, and access control. Ensure the organization has appropriate security tools, technologies, and processes in place.
+Security Awareness and Training: Develop and deliver information security awareness and training programs to educate employees and contractors about their roles and responsibilities in protecting information assets.
+Security Architecture: Collaborate with IT and other relevant teams to develop and maintain a secure technology infrastructure. Provide guidance on security requirements for new systems, applications, and technologies.
+Security Compliance: Monitor and enforce compliance with relevant security policies, standards, and regulations. Conduct periodic security audits and assessments to identify and address compliance gaps.
+Incident Response: Lead the response to security incidents, including investigating and containing incidents, coordinating with internal teams and external stakeholders, and implementing remediation measures to prevent future incidents.
+Vendor and Third-Party Risk Management: Establish and maintain a vendor and third-party risk management program to assess and monitor the security posture of external partners and suppliers.
+Security Metrics and Reporting: Define and track key security metrics to measure the effectiveness of security controls and initiatives. Prepare and present regular reports on the organization's security posture to executive management and the board.
+
+Qualifications and Requirements:
+Bachelor's or Master's degree in Computer Science, Information Security, or a related field.
+Professional certifications such as CISSP (Certified Information Systems Security Professional), CISM (Certified Information Security Manager), or equivalent.
+Proven experience (typically 6-8+ years) in information security management, including hands-on experience in security operations, risk management, and compliance.
+Strong knowledge of information security principles, standards, frameworks (e.g., ISO 27001, NIST Cybersecurity Framework), and regulations (e.g., GDPR, CCPA).
+Experience in developing and implementing information security strategies and programs.
+Familiarity with security technologies, such as firewalls, intrusion detection/prevention systems, SIEM (Security Information and Event Management), and endpoint protection.
+Excellent leadership and team management skills.
+Strong communication and presentation abilities, with the ability to articulate complex security concepts to both technical and non-technical stakeholders.
+
+Analytical mindset and problem-solving skills to identify and address security risks and incidents.
+Ability to adapt to a fast-paced, evolving security landscape and keep up with emerging threats and trends.
+What you should look forward to:
+The opportunity to have a strategic impact on the organization’s customer experience and overall success.
+You get to establish yourself as a thought leader in the logistics industry and participate in industry conference and networking events
+Autonomy to make key decisions making and influencing key business outcomes.
+
+-------------------------------------------------------------------------
+JD- 58
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Review of policy and procedure with implementation across organization
+In depth knowledge of risk management with good knowledge of handling external and internal risks
+Work with cyber risk quantification and integrate with existing risk management process.
+Should be able to quantify risks and define criticality.
+Work with the internal teams to build on an existing information security program and ongoing security projects that address information security risks and compliance requirements.
+Monitor and report on compliance with security policies, as well as the enforcement of policies.
+Ensuring operational compliances with regulations such as ISO 27001, ISO 22301, PCI-DSS, Data Privacy etc.
+Identifying risk and compliance posture of the client environment by reviewing reports such as: Vulnerability & Penetration testing, Patch Mgmt. Application Security. Cloud Security etc.
+Recommend and coordinate the implementation of technical controls to support and enforce defined security policies.
+Execute information security assessment, business continuity assessment, risk assessments pertaining to Airtel environment.
+Execute technical risk assessments around applications, control testing etc.
+Work with vendors to develop and implement strategies, policies, and processes to effectively manage third-party risks.
+:Risk Assessment and Due Diligence: Conducting risk assessments and due diligence activities on third-party vendors, govern all the TPRM activities, Create monthly PPT and share the TPRA update with LOB heads.
+This involves evaluating the information security and privacy compliance and operational resilience
+Analyze the potential risks and vulnerabilities associated with engaging third parties and recommend risk mitigation measures
+Ensuring operational compliances with data privacy regulations like GDPR and guiding the delivery managers on privacy by design and security by design principles
+
+-------------------------------------------------------------------------
+JD- 59
+
+Source - Indeed.com
+
+Job Description:
+Job details:
+Qualification – BE/B.Tech or equivalent
+Years of experience required- 5-10 years.
+Location – Bangalore
+Working Model- Hybrid
+Key Responsibilities:
+This role is responsible for continuously improving service reliability and rapidly restoring customer incidents.
+Working across all aspects of the customer support experience.
+Detect and prevent incidents before they occur.
+Aid the development and implementation of new technologies to ensure Telstra leads the ICT industry.
+Identify and implement opportunities to improve process, efficiencies, and customer experience.
+Provide input into learning and development for our entire ecosystem.
+Cross Skill into different technology hubs
+24x7 Shift Environment / On-Call support / Australia Business hours
+CCNA / CCNP or equivalent
+SIP School Certification or equivalent UC certification of Cisco/Avaya/Genesys etc.
+Incident Management Experience
+Being the Single point of contact in case of escalations & major incidents
+Configuring and Troubleshooting in Cisco Webex, Microsoft Teams, Mitel and Astra UC products.
+L2/L3 layer with troubleshooting skills.
+Perform L2 / L3 investigation of voip related faults. Provide specialised technical expertise in the investigation and rectification of more complex faults and routines. Diagnose and restore complex issues associated to customers private networks for Telstra’s enterprise customers.
+Experience in handling international stakeholders.
+Co-ordinate with service desk, customers, vendors and all other resolver groups to ensure timely resolution.
+High desirable
+Telecom Industry Experience
+Exposure on Cisco UC , Multi-Vendor SBC’s, Avaya/Mitel UC Products.
+Knowledge and exposure on Network Monitoring Tools
+Data and IP experience
+Automation / Scripting knowledge
+Assurance Team experience
+Voice Protocols and Codecs
+Experience in RCA for Network and VOIP related issues.
+Key Accountability Metrics
+Volume Reduction
+First in Fix
+Cycle Time
+Key Decision Rights
+Recall approval
+Escalation Management
+Technical Skills:
+Candidates who possess a strong understanding of below Microsoft 365 Applications
+Provide technical support to end-users with a core understanding of Microsoft 365 applications such as Outlook, Word, Excel, PowerPoint, Teams, SharePoint, OneDrive, Exchange Online, etc.
+Strong troubleshooting skills to diagnose and resolve technical issues related to user accounts, permissions, configurations, and functionality within the Microsoft 365 environment.
+Microsoft 365 Services: Knowledge of key services including Azure Active Directory, Exchange Online Protection, Security & Compliance Center, Microsoft Endpoint Manager (Intune), and Microsoft Defender.
+Assist users with setting up and configuring email accounts, calendars, and other collaboration tools in Microsoft 365.
+Collaborate with other Resolver teams to escalate and resolve complex issues in a timely manner.
+Proactively identify and address potential issues or improvements within the Microsoft 365 environment to enhance user experience.
+Stay informed about new features, updates, and best practices related to Microsoft 365 to provide effective support and guidance to end-users.
+Document support activities, resolutions, and best practices to maintain a knowledge base and improve support processes.
+Excellent communication and interpersonal skills with the ability to effectively communicate technical information to non-technical users.
+Candidate should have hands on experience working as SME or people management.
+Note: Microsoft Office 365 Certification, ITIL or Agile or Scrum
+-------------------------------------------------------------------------
+JD- 60
+
+Source - Indeed.com
+
+Job Description:
+Full job description
+Job Title: Business Information Security Officer
+Location: Mumbai
+
+About Barclays
+Barclays is a British universal bank. We are diversified by business, by different types of customers and clients, and by geography. Our businesses include consumer banking and payments operations around the world, as well as a top-tier, full service, global corporate and investment bank, all of which are supported by our service company which provides technology, operations and functional services across the Group.
+
+Risk and Control Objective
+Take ownership for managing risk and strengthening controls in relation to the work you do.
+
+Working Flexibly
+We’re committed to providing a supportive and inclusive culture and environment for you to work in. This environment recognises and supports ways to balance your personal needs, alongside the professional needs of our business. Providing the opportunity for all our employees, globally to work flexibly empowers each of us to work in a way that suits our lives as well as enabling us to better service our customers’ and clients’ needs. Whether you have family commitments or you’re a carer, or whether you need study time or wish to pursue personal interests, our approach to working flexibly is designed to help you balance your life. If you would like some flexibility, then please discuss this with the hiring manager, and your request will be reviewed subject to business needs.
+
+Hybrid Working
+Structured hybrid role:
+At Barclays, we offer a hybrid working experience that blends the positives of working alongside colleagues at our onsite locations, together with working from home. We have a structured approach where colleagues work at an onsite location on fixed, ‘anchor’, days of the week, for a minimum of two days a week or more, as set by the business area (or nearest equivalent if working part-time hours). Please discuss the working pattern requirements for the role you are applying for with the hiring manager. Please note that as we continue to embed our hybrid working environment, we remain in a test and learn phase, which means that working arrangements may be subject to change on reasonable notice to ensure we meet the needs of our business.
+
+Introduction
+Manage local cyber regulatory landscape, while managing interaction with regulatory bodies and coordinating due diligence to meet regulatory obligations, as defined in existing jurisdictional regulatory framework, where applicable.
+Support governance, risk and compliance (GRC) efforts specifically focusing on regulatory due diligence across various jurisdictions in alignment with Barclays’ risk and control posture.
+What will you be doing?
+Report on the implementation of the cybersecurity program, and communicate the cyber risk posture to help shape and inform business priorities.
+Partner with Chief Security Office (CSO) stakeholders to oversee initiatives of local impact including but not limited to delivering cybersecurity awareness and training, managing incident response plans and processes etc.
+Support control risk assessments, and ensure consistent reporting and escalation according to existing risk management framework.
+Maintain strong partnership with stakeholders to embed regulatory requirements through group wide policies/standards and controls to drive a consistent framework that meets regulatory obligations.
+Engage with regulatory bodies and act as primary point of contact for cybersecurity related matters. Coordinate response to all in-scope regulatory reviews and request for information.Track and attest to compliance to security regulations.
+Demonstrate understanding of regulatory landscape and trends in the broader financial services sector.
+What we’re looking for:
+Report on the implementation of the cybersecurity program, and communicate the cyber risk posture to help shape and inform business priorities.
+Partner with Chief Security Office (CSO) stakeholders to oversee initiatives of local impact including but not limited to delivering cybersecurity awareness and training, managing incident response plans and processes etc.
+Support control risk assessments, and ensure consistent reporting and escalation according to existing risk management framework.
+Maintain strong partnership with stakeholders to embed regulatory requirements through group wide policies/standards and controls to drive a consistent framework that meets regulatory obligations.
+Engage with regulatory bodies and act as primary point of contact for cybersecurity related matters. Coordinate response to all in-scope regulatory reviews and request for information.Track and attest to compliance to security regulations.
+Demonstrate understanding of regulatory landscape and trends in the broader financial services sector.
+Skills that will help you in the role:
+Demonstrated ability to function in a complex organisation and heavily matrixed reporting environment.
+Ability to work in a constantly changing and fast paced environment
+Proactive approach, committed, team-focused work ethic
+Flexible - able to work extended hours on occasions/as required
